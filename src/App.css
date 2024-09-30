@@ -1,0 +1,48 @@
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+input {
+  margin: 10px 0;
+  padding: 5px;
+  font-size: 16px;
+  width: 100%;
+}
+
+.feedback {
+  font-weight: bold;
+}
+
+.feedback.correct {
+  color: green;
+}
+
+.feedback.incorrect {
+  color: red;
+}
+
+#progress-bar {
+  width: 100%;
+  background-color: #f0f0f0;
+  height: 20px;
+  margin-top: 20px;
+}
+
+#progress {
+  height: 100%;
+  background-color: #4CAF50;
+  transition: width 0.5s ease-in-out;
+}

@@ -1,0 +1,250 @@
+[
+    {
+        "eng": "Godot",
+        "vi": "Godot",
+        "mean": "Một công cụ mã nguồn mở được sử dụng để phát triển trò chơi 2D và 3D.",
+        "type": "danh từ",
+        "example_eng": "I use Godot to create my 2D games.",
+        "example_vi": "Tôi sử dụng Godot để tạo trò chơi 2D của mình."
+    },
+    {
+        "eng": "Engine",
+        "vi": "Công cụ",
+        "mean": "Một hệ thống phần mềm giúp tạo và phát triển trò chơi.",
+        "type": "danh từ",
+        "example_eng": "Godot Engine is great for 2D game development.",
+        "example_vi": "Công cụ Godot rất tốt cho phát triển trò chơi 2D."
+    },
+    {
+        "eng": "documentation",
+        "vi": "tài liệu",
+        "mean": "Tập hợp thông tin hoặc hướng dẫn liên quan đến một phần mềm hoặc công cụ.",
+        "type": "danh từ",
+        "example_eng": "The documentation provides useful information.",
+        "example_vi": "Tài liệu cung cấp thông tin hữu ích."
+    },
+    {
+        "eng": "in",
+        "vi": "trong",
+        "mean": "Chỉ vị trí hoặc trạng thái bên trong một cái gì đó.",
+        "type": "giới từ",
+        "example_eng": "The code is in the project folder.",
+        "example_vi": "Mã nguồn nằm trong thư mục dự án."
+    },
+    {
+        "eng": "English",
+        "vi": "tiếng Anh",
+        "mean": "Ngôn ngữ phổ biến được sử dụng trên toàn thế giới.",
+        "type": "danh từ",
+        "example_eng": "I am learning English.",
+        "example_vi": "Tôi đang học tiếng Anh."
+    },
+    {
+        "eng": "Edit",
+        "vi": "Chỉnh sửa",
+        "mean": "Thay đổi hoặc sửa đổi nội dung.",
+        "type": "động từ",
+        "example_eng": "I want to edit the document.",
+        "example_vi": "Tôi muốn chỉnh sửa tài liệu."
+    },
+    {
+        "eng": "on",
+        "vi": "trên",
+        "mean": "Chỉ vị trí hoặc trạng thái liên quan đến bề mặt hoặc đối tượng nào đó.",
+        "type": "giới từ",
+        "example_eng": "The file is on my computer.",
+        "example_vi": "Tệp nằm trên máy tính của tôi."
+    },
+    {
+        "eng": "GitHub",
+        "vi": "GitHub",
+        "mean": "Một nền tảng phát triển phần mềm dùng để quản lý mã nguồn và phiên bản.",
+        "type": "danh từ",
+        "example_eng": "You can find the project on GitHub.",
+        "example_vi": "Bạn có thể tìm thấy dự án trên GitHub."
+    },
+    {
+        "eng": "Learn",
+        "vi": "Học",
+        "mean": "Tiếp thu kiến thức hoặc kỹ năng mới.",
+        "type": "động từ",
+        "example_eng": "I want to learn Godot.",
+        "example_vi": "Tôi muốn học Godot."
+    },
+    {
+        "eng": "how",
+        "vi": "như thế nào",
+        "mean": "Dùng để chỉ phương pháp hoặc cách thức.",
+        "type": "trạng từ",
+        "example_eng": "Do you know how to use Godot?",
+        "example_vi": "Bạn có biết cách sử dụng Godot không?"
+    },
+    {
+        "eng": "to",
+        "vi": "để",
+        "mean": "Chỉ mục đích hoặc hướng hành động.",
+        "type": "giới từ",
+        "example_eng": "I use Godot to create games.",
+        "example_vi": "Tôi sử dụng Godot để tạo trò chơi."
+    },
+    {
+        "eng": "contribute",
+        "vi": "đóng góp",
+        "mean": "Cung cấp sự giúp đỡ hoặc hỗ trợ cho một dự án.",
+        "type": "động từ",
+        "example_eng": "You can contribute to the project.",
+        "example_vi": "Bạn có thể đóng góp cho dự án."
+    },
+    {
+        "eng": "Attention",
+        "vi": "Chú ý",
+        "mean": "Sự tập trung vào một điều gì đó.",
+        "type": "danh từ",
+        "example_eng": "Please pay attention to the instructions.",
+        "example_vi": "Xin vui lòng chú ý đến các hướng dẫn."
+    },
+    {
+        "eng": "Here",
+        "vi": "Ở đây",
+        "mean": "Nơi mà người nói chỉ định.",
+        "type": "trạng từ",
+        "example_eng": "Here is the document you requested.",
+        "example_vi": "Đây là tài liệu bạn yêu cầu."
+    },
+    {
+        "eng": "be",
+        "vi": "là",
+        "mean": "Động từ chỉ trạng thái hoặc sự tồn tại.",
+        "type": "động từ",
+        "example_eng": "You must be careful.",
+        "example_vi": "Bạn phải cẩn thận."
+    },
+    {
+        "eng": "dragons",
+        "vi": "rồng",
+        "mean": "Một sinh vật huyền bí trong truyền thuyết.",
+        "type": "danh từ",
+        "example_eng": "Dragons are often depicted in fantasy stories.",
+        "example_vi": "Rồng thường được miêu tả trong những câu chuyện giả tưởng."
+    },
+    {
+        "eng": "This",
+        "vi": "Điều này",
+        "mean": "Dùng để chỉ một đối tượng gần.",
+        "type": "đại từ",
+        "example_eng": "This is my book.",
+        "example_vi": "Điều này là cuốn sách của tôi."
+    },
+    {
+        "eng": "latest",
+        "vi": "mới nhất",
+        "mean": "Điều gì đó mới nhất hoặc gần đây nhất.",
+        "type": "tính từ",
+        "example_eng": "I have the latest version of the software.",
+        "example_vi": "Tôi có phiên bản mới nhất của phần mềm."
+    },
+    {
+        "eng": "unstable",
+        "vi": "không ổn định",
+        "mean": "Không có sự ổn định, có thể thay đổi hoặc không đáng tin cậy.",
+        "type": "tính từ",
+        "example_eng": "The unstable version may have bugs.",
+        "example_vi": "Phiên bản không ổn định có thể có lỗi."
+    },
+    {
+        "eng": "version",
+        "vi": "phiên bản",
+        "mean": "Một hình thức hoặc phiên bản khác của một sản phẩm.",
+        "type": "danh từ",
+        "example_eng": "What version are you using?",
+        "example_vi": "Bạn đang sử dụng phiên bản nào?"
+    },
+    {
+        "eng": "of",
+        "vi": "của",
+        "mean": "Chỉ sự sở hữu hoặc mối quan hệ.",
+        "type": "giới từ",
+        "example_eng": "This is a book of poems.",
+        "example_vi": "Đây là một cuốn sách thơ."
+    },
+    {
+        "eng": "this",
+        "vi": "cái này",
+        "mean": "Dùng để chỉ một đối tượng gần.",
+        "type": "đại từ",
+        "example_eng": "This is my car.",
+        "example_vi": "Cái này là xe của tôi."
+    },
+    {
+        "eng": "features",
+        "vi": "tính năng",
+        "mean": "Các đặc điểm hoặc chức năng của một sản phẩm.",
+        "type": "danh từ",
+        "example_eng": "The software has many useful features.",
+        "example_vi": "Phần mềm có nhiều tính năng hữu ích."
+    },
+    {
+        "eng": "not",
+        "vi": "không",
+        "mean": "Chỉ sự phủ định.",
+        "type": "trạng từ",
+        "example_eng": "I do not like broccoli.",
+        "example_vi": "Tôi không thích bông cải xanh."
+    },
+    {
+        "eng": "available",
+        "vi": "có sẵn",
+        "mean": "Có thể sử dụng hoặc tiếp cận.",
+        "type": "tính từ",
+        "example_eng": "Is the resource available?",
+        "example_vi": "Tài nguyên có sẵn không?"
+    },
+    {
+        "eng": "incompatible",
+        "vi": "không tương thích",
+        "mean": "Không thể hoạt động cùng nhau.",
+        "type": "tính từ",
+        "example_eng": "The software is incompatible with my system.",
+        "example_vi": "Phần mềm không tương thích với hệ thống của tôi."
+    },
+    {
+        "eng": "with",
+        "vi": "với",
+        "mean": "Chỉ mối quan hệ hoặc sự kết hợp.",
+        "type": "giới từ",
+        "example_eng": "I am going with my friends.",
+        "example_vi": "Tôi đi cùng bạn bè."
+    },
+    {
+        "eng": "released",
+        "vi": "được phát hành",
+        "mean": "Khi một sản phẩm được phát hành công khai.",
+        "type": "động từ",
+        "example_eng": "The game was released last year.",
+        "example_vi": "Trò chơi đã được phát hành năm ngoái."
+    },
+    {
+        "eng": "stable",
+        "vi": "ổn định",
+        "mean": "Có độ tin cậy cao và ít thay đổi.",
+        "type": "tính từ",
+        "example_eng": "The stable version is ready for use.",
+        "example_vi": "Phiên bản ổn định đã sẵn sàng để sử dụng."
+    },
+    {
+        "eng": "pages",
+        "vi": "trang",
+        "mean": "Các phần của tài liệu hoặc sách.",
+        "type": "danh từ",
+        "example_eng": "I read several pages of the document.",
+        "example_vi": "Tôi đã đọc vài trang của tài liệu."
+    },
+    {
+        "eng": "instead",
+        "vi": "thay vì",
+        "mean": "Thay vào đó, dùng để chỉ sự thay thế.",
+        "type": "trạng từ",
+        "example_eng": "You should eat fruits instead of sweets.",
+        "example_vi": "Bạn nên ăn trái cây thay vì đồ ngọt."
+    }
+]
