@@ -10,10 +10,20 @@ const App = () => {
     const [showPractice, setShowPractice] = useState(false);
     const [isVietnameseToEnglish, setIsVietnameseToEnglish] = useState(true);
     const [errorMessage, setErrorMessage] = useState("");
+    const [progress, setProgress] = useState({
+        totalWords: 0,
+        learnedWords: [],
+        isVietnameseToEnglish: true,
+    });
 
     useEffect(() => {
         try {
             setVocabulary(vocabularyData);
+            setProgress({
+                totalWords: vocabularyData.length,
+                learnedWords: [],
+                isVietnameseToEnglish: true,
+            });
         } catch (error) {
             console.error("Lỗi khi đọc file từ vựng:", error);
             setErrorMessage(
@@ -29,8 +39,24 @@ const App = () => {
 
     const loadProgressFromFile = (fileContent) => {
         const savedProgress = JSON.parse(fileContent);
-        setVocabulary(savedProgress.remainingWords);
-        startPractice(isVietnameseToEnglish); // Start practice with the current mode
+        setProgress(savedProgress);
+        const remainingWords = vocabulary.filter(
+            (word) =>
+                !savedProgress.learnedWords.some(
+                    (learnedWord) => learnedWord.eng === word.eng
+                )
+        );
+        setVocabulary(remainingWords);
+        setIsVietnameseToEnglish(savedProgress.isVietnameseToEnglish);
+        startPractice(savedProgress.isVietnameseToEnglish);
+    };
+
+    const updateProgress = (newLearnedWords) => {
+        setProgress((prevProgress) => ({
+            ...prevProgress,
+            learnedWords: [...prevProgress.learnedWords, ...newLearnedWords],
+            isVietnameseToEnglish,
+        }));
     };
 
     return (
@@ -46,6 +72,8 @@ const App = () => {
                     vocabulary={vocabulary}
                     isVietnameseToEnglish={isVietnameseToEnglish}
                     setShowPractice={setShowPractice}
+                    progress={progress}
+                    updateProgress={updateProgress}
                 />
             )}
             <ErrorMessage message={errorMessage} />

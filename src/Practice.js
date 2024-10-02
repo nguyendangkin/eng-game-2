@@ -1,23 +1,29 @@
 import React, { useState, useEffect } from "react";
 import { saveAs } from "file-saver";
 
-const Practice = ({ vocabulary, isVietnameseToEnglish, setShowPractice }) => {
+const Practice = ({
+    vocabulary,
+    isVietnameseToEnglish,
+    setShowPractice,
+    progress,
+    updateProgress,
+}) => {
     const [currentWord, setCurrentWord] = useState(null);
     const [userAnswer, setUserAnswer] = useState("");
     const [feedback, setFeedback] = useState("");
     const [isAnswerSubmitted, setIsAnswerSubmitted] = useState(false);
-    const [remainingWords, setRemainingWords] = useState([...vocabulary]);
-    const [correctWords, setCorrectWords] = useState(0);
+    const [remainingWords, setRemainingWords] = useState(vocabulary);
+    const [showWordInfo, setShowWordInfo] = useState(false);
+    const [newLearnedWords, setNewLearnedWords] = useState([]);
 
     useEffect(() => {
         if (vocabulary.length > 0) {
             setRemainingWords([...vocabulary]);
-            nextWord([...vocabulary]); // Chỉ gọi nextWord khi vocabulary có từ
+            nextWord([...vocabulary]);
         }
     }, [vocabulary]);
 
     useEffect(() => {
-        // Thêm sự kiện bàn phím
         const handleKeyDown = (event) => {
             if (event.key === "Enter") {
                 handleSubmit();
@@ -30,7 +36,7 @@ const Practice = ({ vocabulary, isVietnameseToEnglish, setShowPractice }) => {
         return () => {
             document.removeEventListener("keydown", handleKeyDown);
         };
-    }, [currentWord, userAnswer, isAnswerSubmitted]); // Sử dụng dependency chính xác
+    }, [currentWord, userAnswer, isAnswerSubmitted, showWordInfo]);
 
     const nextWord = (words = remainingWords) => {
         if (words.length === 0) {
@@ -44,6 +50,7 @@ const Practice = ({ vocabulary, isVietnameseToEnglish, setShowPractice }) => {
         setUserAnswer("");
         setFeedback("");
         setIsAnswerSubmitted(false);
+        setShowWordInfo(false);
     };
 
     const checkAnswer = () => {
@@ -59,9 +66,11 @@ const Practice = ({ vocabulary, isVietnameseToEnglish, setShowPractice }) => {
                 (word) => word !== currentWord
             );
             setRemainingWords(newRemainingWords);
-            setCorrectWords(correctWords + 1);
+            setNewLearnedWords([...newLearnedWords, currentWord]);
+            setShowWordInfo(true);
         } else {
             setFeedback("Sai!");
+            setShowWordInfo(true);
         }
 
         setIsAnswerSubmitted(true);
@@ -69,7 +78,11 @@ const Practice = ({ vocabulary, isVietnameseToEnglish, setShowPractice }) => {
 
     const handleSubmit = () => {
         if (isAnswerSubmitted) {
-            nextWord(); // Gọi nextWord khi đã gửi câu trả lời
+            if (showWordInfo) {
+                nextWord();
+            } else {
+                setShowWordInfo(true);
+            }
         } else {
             checkAnswer();
         }
@@ -78,25 +91,28 @@ const Practice = ({ vocabulary, isVietnameseToEnglish, setShowPractice }) => {
     const speakWord = () => {
         const utterance = new SpeechSynthesisUtterance(currentWord.eng);
         utterance.lang = "en-US";
-        utterance.rate = 0.75; // Điều chỉnh tốc độ phát âm
+        utterance.rate = 0.75;
         speechSynthesis.speak(utterance);
     };
 
     const saveProgressToFile = () => {
-        const progress = {
-            remainingWords,
-            correctWords,
+        const progressToSave = {
+            totalWords: progress.totalWords,
+            learnedWords: [...progress.learnedWords, ...newLearnedWords],
+            isVietnameseToEnglish,
         };
-        const blob = new Blob([JSON.stringify(progress)], {
+        const blob = new Blob([JSON.stringify(progressToSave)], {
             type: "application/json",
         });
         saveAs(blob, "vocabulary_progress.json");
+        updateProgress(newLearnedWords);
+        setNewLearnedWords([]);
         setFeedback("Tiến độ đã được lưu vào file.");
     };
 
     useEffect(() => {
         if (currentWord) {
-            setFeedback(""); // Reset feedback khi có từ mới
+            setFeedback("");
         }
     }, [currentWord]);
 
@@ -112,9 +128,14 @@ const Practice = ({ vocabulary, isVietnameseToEnglish, setShowPractice }) => {
                 value={userAnswer}
                 onChange={(e) => setUserAnswer(e.target.value)}
                 placeholder="Câu trả lời của bạn"
+                disabled={isAnswerSubmitted}
             />
             <button onClick={handleSubmit}>
-                {isAnswerSubmitted ? "Tiếp" : "Gửi"}
+                {isAnswerSubmitted
+                    ? showWordInfo
+                        ? "Tiếp"
+                        : "Xem thông tin"
+                    : "Gửi"}
             </button>
             <button onClick={speakWord}>Phát âm</button>
             <button onClick={() => setShowPractice(false)}>
@@ -131,22 +152,27 @@ const Practice = ({ vocabulary, isVietnameseToEnglish, setShowPractice }) => {
             >
                 {feedback}
             </p>
-            {isAnswerSubmitted && (
-                <p>
-                    {currentWord.eng} - {currentWord.vi} ({currentWord.type})
-                    <br />
-                    {currentWord.mean}
-                    <br />
-                    Ví dụ: {currentWord.example_eng} - {currentWord.example_vi}
-                </p>
+            {isAnswerSubmitted && showWordInfo && (
+                <div className="word-info">
+                    <p>
+                        {currentWord.eng} - {currentWord.vi} ({currentWord.type}
+                        )
+                        <br />
+                        {currentWord.mean}
+                        <br />
+                        Ví dụ: {currentWord.example_eng} -{" "}
+                        {currentWord.example_vi}
+                    </p>
+                </div>
             )}
             <div id="progress-bar">
                 <div
                     id="progress"
                     style={{
                         width: `${
-                            ((vocabulary.length - remainingWords.length) /
-                                vocabulary.length) *
+                            ((progress.learnedWords.length +
+                                newLearnedWords.length) /
+                                progress.totalWords) *
                             100
                         }%`,
                     }}
