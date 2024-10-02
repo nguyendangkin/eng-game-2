@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { saveAs } from "file-saver";
 
 const Practice = ({
@@ -15,6 +15,7 @@ const Practice = ({
     const [remainingWords, setRemainingWords] = useState(vocabulary);
     const [showWordInfo, setShowWordInfo] = useState(false);
     const [newLearnedWords, setNewLearnedWords] = useState([]);
+    const inputRef = useRef(null);
 
     useEffect(() => {
         if (vocabulary.length > 0) {
@@ -38,6 +39,12 @@ const Practice = ({
         };
     }, [currentWord, userAnswer, isAnswerSubmitted, showWordInfo]);
 
+    useEffect(() => {
+        if (!isAnswerSubmitted && inputRef.current) {
+            inputRef.current.focus();
+        }
+    }, [isAnswerSubmitted]);
+
     const nextWord = (words = remainingWords) => {
         if (words.length === 0) {
             setCurrentWord(null);
@@ -54,11 +61,30 @@ const Practice = ({
     };
 
     const checkAnswer = () => {
-        const correctAnswer = isVietnameseToEnglish
+        if (!userAnswer.trim()) {
+            setFeedback("Vui lòng nhập câu trả lời!");
+            return;
+        }
+
+        const correctAnswers = isVietnameseToEnglish
             ? currentWord.eng
-            : currentWord.vi;
-        const isCorrect =
-            userAnswer.toLowerCase().trim() === correctAnswer.toLowerCase();
+                  .toLowerCase()
+                  .split(/[,;]/)
+                  .map((word) => word.trim())
+            : currentWord.vi
+                  .toLowerCase()
+                  .split(/[,;]/)
+                  .map((word) => word.trim());
+
+        const userAnswerLower = userAnswer.toLowerCase().trim();
+
+        const isCorrect = isVietnameseToEnglish
+            ? correctAnswers.some(
+                  (answer) =>
+                      userAnswerLower === answer ||
+                      answer.startsWith(userAnswerLower)
+              )
+            : correctAnswers.some((answer) => userAnswerLower.includes(answer));
 
         if (isCorrect) {
             setFeedback("Đúng!");
@@ -67,12 +93,11 @@ const Practice = ({
             );
             setRemainingWords(newRemainingWords);
             setNewLearnedWords([...newLearnedWords, currentWord]);
-            setShowWordInfo(true);
         } else {
             setFeedback("Sai!");
-            setShowWordInfo(true);
         }
 
+        setShowWordInfo(true);
         setIsAnswerSubmitted(true);
     };
 
@@ -124,6 +149,7 @@ const Practice = ({
         <div id="practice">
             <h2>{isVietnameseToEnglish ? currentWord.vi : currentWord.eng}</h2>
             <input
+                ref={inputRef}
                 type="text"
                 value={userAnswer}
                 onChange={(e) => setUserAnswer(e.target.value)}
@@ -154,15 +180,17 @@ const Practice = ({
             </p>
             {isAnswerSubmitted && showWordInfo && (
                 <div className="word-info">
-                    <p>
-                        {currentWord.eng} - {currentWord.vi} ({currentWord.type}
-                        )
-                        <br />
-                        {currentWord.mean}
-                        <br />
-                        Ví dụ: {currentWord.example_eng} -{" "}
-                        {currentWord.example_vi}
+                    <p className="word-pair">
+                        {currentWord.eng} - {currentWord.vi}{" "}
+                        <span className="word-type">({currentWord.type})</span>
                     </p>
+                    <p className="word-meaning">{currentWord.mean}</p>
+                    <div className="example">
+                        <p className="example-eng">
+                            Ví dụ: {currentWord.example_eng}
+                        </p>
+                        <p className="example-vi">{currentWord.example_vi}</p>
+                    </div>
                 </div>
             )}
             <div id="progress-bar">

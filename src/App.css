@@ -3,35 +3,56 @@
   max-width: 600px;
   margin: 0 auto;
   padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
   text-align: center;
+  color: #333;
 }
 
 button {
   margin: 5px;
-  padding: 10px;
+  padding: 10px 15px;
   font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
 }
 
 input {
   margin: 10px 0;
-  padding: 5px;
+  padding: 10px;
   font-size: 16px;
-  width: 100%;
+  width: calc(100% - 22px);
+  border: 1px solid #ddd;
+  border-radius: 5px;
 }
 
 .feedback {
   font-weight: bold;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
 }
 
 .feedback.correct {
-  color: green;
+  background-color: #dff0d8;
+  color: #3c763d;
 }
 
 .feedback.incorrect {
-  color: red;
+  background-color: #f2dede;
+  color: #a94442;
 }
 
 #progress-bar {
@@ -39,10 +60,57 @@ input {
   background-color: #f0f0f0;
   height: 20px;
   margin-top: 20px;
+  border-radius: 10px;
+  overflow: hidden;
 }
 
 #progress {
   height: 100%;
   background-color: #4CAF50;
   transition: width 0.5s ease-in-out;
+}
+
+.word-info {
+  background-color: #e9f7ef;
+  border: 1px solid #a3e4d7;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.word-info p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.word-info .word-pair {
+  font-size: 18px;
+  font-weight: bold;
+  color: #16a085;
+  margin-bottom: 10px;
+}
+
+.word-info .word-type {
+  font-style: italic;
+  color: #7f8c8d;
+}
+
+.word-info .word-meaning {
+  margin-bottom: 10px;
+}
+
+.word-info .example {
+  background-color: #f8f9f9;
+  border-left: 3px solid #2ecc71;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.word-info .example-eng {
+  color: #2980b9;
+}
+
+.word-info .example-vi {
+  color: #c0392b;
 }
