@@ -1039,5 +1039,397 @@
         "type": "danh từ",
         "example_eng": "I would like to hear your comment.",
         "example_vi": "Tôi muốn nghe nhận xét của bạn."
+    },
+    {
+        "eng": "As",
+        "vi": "Như",
+        "mean": "Giới từ chỉ sự so sánh hoặc một cách tiếp cận cụ thể.",
+        "type": "giới từ",
+        "example_eng": "As a teacher, she is very dedicated.",
+        "example_vi": "Như một giáo viên, cô ấy rất tận tâm."
+    },
+    {
+        "eng": "to",
+        "vi": "đối với",
+        "mean": "Giới từ chỉ mục đích hoặc mối quan hệ.",
+        "type": "giới từ",
+        "example_eng": "As to your question, the answer is yes.",
+        "example_vi": "Đối với câu hỏi của bạn, câu trả lời là có."
+    },
+    {
+        "eng": "the",
+        "vi": "cái, những",
+        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
+        "type": "mạo từ",
+        "example_eng": "The book is on the table.",
+        "example_vi": "Cuốn sách nằm trên bàn."
+    },
+    {
+        "eng": "author",
+        "vi": "tác giả",
+        "mean": "Người viết hoặc sáng tạo ra một tác phẩm.",
+        "type": "danh từ",
+        "example_eng": "The author of the novel is famous.",
+        "example_vi": "Tác giả của cuốn tiểu thuyết nổi tiếng."
+    },
+    {
+        "eng": "Johanna Spyri",
+        "vi": "Johanna Spyri",
+        "mean": "Tên của nữ nhà văn người Thụy Sĩ, tác giả của cuốn sách 'Heidi'.",
+        "type": "danh từ riêng",
+        "example_eng": "Johanna Spyri wrote 'Heidi'.",
+        "example_vi": "Johanna Spyri đã viết 'Heidi'."
+    },
+    {
+        "eng": "she",
+        "vi": "cô ấy",
+        "mean": "Đại từ chỉ người nữ.",
+        "type": "đại từ",
+        "example_eng": "She is my best friend.",
+        "example_vi": "Cô ấy là bạn thân nhất của tôi."
+    },
+    {
+        "eng": "has",
+        "vi": "đã",
+        "mean": "Động từ chỉ thì hiện tại hoàn thành.",
+        "type": "động từ",
+        "example_eng": "She has lived here for years.",
+        "example_vi": "Cô ấy đã sống ở đây nhiều năm."
+    },
+    {
+        "eng": "so",
+        "vi": "rất",
+        "mean": "Trạng từ chỉ mức độ.",
+        "type": "trạng từ",
+        "example_eng": "The weather is so hot today.",
+        "example_vi": "Thời tiết hôm nay rất nóng."
+    },
+    {
+        "eng": "entirely",
+        "vi": "hoàn toàn",
+        "mean": "Hoàn toàn, không có ngoại lệ hoặc phần nào bị loại trừ.",
+        "type": "trạng từ",
+        "example_eng": "She is entirely responsible for the project.",
+        "example_vi": "Cô ấy hoàn toàn chịu trách nhiệm cho dự án."
+    },
+    {
+        "eng": "lost",
+        "vi": "đánh mất",
+        "mean": "Không còn sở hữu hoặc không thể tìm thấy điều gì đó.",
+        "type": "động từ",
+        "example_eng": "He lost his wallet.",
+        "example_vi": "Anh ấy đã đánh mất ví của mình."
+    },
+    {
+        "eng": "herself",
+        "vi": "bản thân cô ấy",
+        "mean": "Đại từ phản thân chỉ về người nữ đã được đề cập.",
+        "type": "đại từ phản thân",
+        "example_eng": "She did it all by herself.",
+        "example_vi": "Cô ấy tự làm tất cả."
+    },
+    {
+        "eng": "in",
+        "vi": "trong",
+        "mean": "Giới từ chỉ vị trí hoặc thời gian.",
+        "type": "giới từ",
+        "example_eng": "She lives in the city.",
+        "example_vi": "Cô ấy sống trong thành phố."
+    },
+    {
+        "eng": "her",
+        "vi": "của cô ấy",
+        "mean": "Từ sở hữu chỉ về người nữ đã được đề cập.",
+        "type": "từ sở hữu",
+        "example_eng": "This is her book.",
+        "example_vi": "Đây là cuốn sách của cô ấy."
+    },
+    {
+        "eng": "creation",
+        "vi": "tác phẩm",
+        "mean": "Một thứ đã được tạo ra, đặc biệt là một tác phẩm nghệ thuật hoặc văn học.",
+        "type": "danh từ",
+        "example_eng": "The creation of this sculpture took years.",
+        "example_vi": "Việc tạo ra tác phẩm điêu khắc này mất nhiều năm."
+    },
+    {
+        "eng": "that",
+        "vi": "đó",
+        "mean": "Đại từ dùng để chỉ vật hoặc người đã được nhắc đến trước đó.",
+        "type": "đại từ",
+        "example_eng": "That is the book I told you about.",
+        "example_vi": "Đó là cuốn sách mà tôi đã nói với bạn."
+    },
+    {
+        "eng": "we",
+        "vi": "chúng ta",
+        "mean": "Đại từ chỉ nhóm bao gồm người nói và người nghe.",
+        "type": "đại từ",
+        "example_eng": "We are going to the park.",
+        "example_vi": "Chúng ta sẽ đi công viên."
+    },
+    {
+        "eng": "may",
+        "vi": "có thể",
+        "mean": "Động từ chỉ sự cho phép hoặc khả năng.",
+        "type": "động từ",
+        "example_eng": "You may leave if you wish.",
+        "example_vi": "Bạn có thể rời đi nếu bạn muốn."
+    },
+    {
+        "eng": "pass",
+        "vi": "bỏ qua",
+        "mean": "Đi qua hoặc không quan tâm đến điều gì đó.",
+        "type": "động từ",
+        "example_eng": "We should pass over that issue for now.",
+        "example_vi": "Chúng ta nên bỏ qua vấn đề đó vào lúc này."
+    },
+    {
+        "eng": "over",
+        "vi": "qua",
+        "mean": "Giới từ chỉ sự di chuyển hoặc vị trí vượt qua thứ khác.",
+        "type": "giới từ",
+        "example_eng": "The plane flew over the city.",
+        "example_vi": "Máy bay bay qua thành phố."
+    },
+    {
+        "eng": "her",
+        "vi": "của cô ấy",
+        "mean": "Từ sở hữu chỉ về người nữ đã được đề cập.",
+        "type": "từ sở hữu",
+        "example_eng": "Her car is new.",
+        "example_vi": "Xe của cô ấy là mới."
+    },
+    {
+        "eng": "career",
+        "vi": "sự nghiệp",
+        "mean": "Công việc hoặc ngành nghề mà một người làm trong thời gian dài.",
+        "type": "danh từ",
+        "example_eng": "She has a successful career in medicine.",
+        "example_vi": "Cô ấy có một sự nghiệp thành công trong ngành y."
+    },
+    {
+        "eng": "rather",
+        "vi": "khá",
+        "mean": "Từ chỉ mức độ, thường diễn tả rằng một điều gì đó là đúng nhưng không mạnh mẽ như mong đợi.",
+        "type": "trạng từ",
+        "example_eng": "It’s rather cold today.",
+        "example_vi": "Hôm nay trời khá lạnh."
+    },
+    {
+        "eng": "rapidly",
+        "vi": "nhanh chóng",
+        "mean": "Xảy ra hoặc di chuyển một cách nhanh chóng.",
+        "type": "trạng từ",
+        "example_eng": "The company grew rapidly last year.",
+        "example_vi": "Công ty đã phát triển nhanh chóng năm ngoái."
+    },
+    {
+        "eng": "She",
+        "vi": "Cô ấy",
+        "mean": "Đại từ chỉ người nữ.",
+        "type": "đại từ",
+        "example_eng": "She is my sister.",
+        "example_vi": "Cô ấy là chị gái của tôi."
+    },
+    {
+        "eng": "was",
+        "vi": "đã",
+        "mean": "Động từ to be, chỉ thì quá khứ của 'is'.",
+        "type": "động từ",
+        "example_eng": "She was happy yesterday.",
+        "example_vi": "Hôm qua cô ấy đã rất vui."
+    },
+    {
+        "eng": "born",
+        "vi": "sinh ra",
+        "mean": "Được sinh ra hoặc xuất hiện trên đời.",
+        "type": "động từ",
+        "example_eng": "She was born in 1990.",
+        "example_vi": "Cô ấy sinh ra vào năm 1990."
+    },
+    {
+        "eng": "in",
+        "vi": "tại",
+        "mean": "Giới từ chỉ vị trí hoặc thời gian.",
+        "type": "giới từ",
+        "example_eng": "She lives in Switzerland.",
+        "example_vi": "Cô ấy sống tại Thụy Sĩ."
+    },
+    {
+        "eng": "Switzerland",
+        "vi": "Thụy Sĩ",
+        "mean": "Tên quốc gia nằm ở Châu Âu, nổi tiếng về cảnh quan thiên nhiên và sự trung lập.",
+        "type": "danh từ riêng",
+        "example_eng": "Switzerland is famous for its mountains.",
+        "example_vi": "Thụy Sĩ nổi tiếng với những ngọn núi."
+    },
+    {
+        "eng": "in",
+        "vi": "vào",
+        "mean": "Giới từ chỉ thời gian trong một năm hoặc thời điểm cụ thể.",
+        "type": "giới từ",
+        "example_eng": "She was born in 1829.",
+        "example_vi": "Cô ấy sinh vào năm 1829."
+    },
+    {
+        "eng": "1829",
+        "vi": "năm 1829",
+        "mean": "Năm trong lịch sử.",
+        "type": "danh từ",
+        "example_eng": "Johanna Spyri was born in 1829.",
+        "example_vi": "Johanna Spyri sinh vào năm 1829."
+    },
+    {
+        "eng": "came",
+        "vi": "xuất thân",
+        "mean": "Động từ chỉ nguồn gốc hoặc nơi xuất phát.",
+        "type": "động từ",
+        "example_eng": "She came from a small village.",
+        "example_vi": "Cô ấy xuất thân từ một ngôi làng nhỏ."
+    },
+    {
+        "eng": "of",
+        "vi": "của",
+        "mean": "Giới từ chỉ sự sở hữu hoặc mối quan hệ.",
+        "type": "giới từ",
+        "example_eng": "She is part of a literary family.",
+        "example_vi": "Cô ấy là thành viên của một gia đình văn học."
+    },
+    {
+        "eng": "a",
+        "vi": "một",
+        "mean": "Mạo từ không xác định, chỉ một đối tượng không cụ thể.",
+        "type": "mạo từ",
+        "example_eng": "She belongs to a famous family.",
+        "example_vi": "Cô ấy thuộc về một gia đình nổi tiếng."
+    },
+    {
+        "eng": "literary",
+        "vi": "văn học",
+        "mean": "Liên quan đến văn chương hoặc việc viết lách.",
+        "type": "tính từ",
+        "example_eng": "She came from a literary background.",
+        "example_vi": "Cô ấy xuất thân từ một gia đình văn học."
+    },
+    {
+        "eng": "family",
+        "vi": "gia đình",
+        "mean": "Nhóm người có mối quan hệ về huyết thống hoặc hôn nhân.",
+        "type": "danh từ",
+        "example_eng": "Her family is large and well-known.",
+        "example_vi": "Gia đình cô ấy đông và nổi tiếng."
+    },
+    {
+        "eng": "and",
+        "vi": "và",
+        "mean": "Liên từ dùng để kết nối các câu hoặc các phần của câu.",
+        "type": "liên từ",
+        "example_eng": "She sings and dances.",
+        "example_vi": "Cô ấy hát và nhảy múa."
+    },
+    {
+        "eng": "devoted",
+        "vi": "dành hết",
+        "mean": "Dành toàn bộ thời gian, nỗ lực cho điều gì đó.",
+        "type": "động từ",
+        "example_eng": "She devoted her life to helping others.",
+        "example_vi": "Cô ấy đã dành cả đời để giúp đỡ người khác."
+    },
+    {
+        "eng": "all",
+        "vi": "tất cả",
+        "mean": "Chỉ toàn bộ hoặc tất cả các phần của một thứ.",
+        "type": "đại từ",
+        "example_eng": "She gave all her time to the project.",
+        "example_vi": "Cô ấy đã dành tất cả thời gian của mình cho dự án."
+    },
+    {
+        "eng": "her",
+        "vi": "của cô ấy",
+        "mean": "Từ sở hữu chỉ về người nữ đã được đề cập.",
+        "type": "từ sở hữu",
+        "example_eng": "Her book is interesting.",
+        "example_vi": "Cuốn sách của cô ấy rất thú vị."
+    },
+    {
+        "eng": "talent",
+        "vi": "tài năng",
+        "mean": "Khả năng tự nhiên hoặc đã phát triển trong một lĩnh vực cụ thể.",
+        "type": "danh từ",
+        "example_eng": "She has a talent for painting.",
+        "example_vi": "Cô ấy có tài năng vẽ tranh."
+    },
+    {
+        "eng": "to",
+        "vi": "cho",
+        "mean": "Giới từ chỉ mục đích hoặc đối tượng nhận.",
+        "type": "giới từ",
+        "example_eng": "She dedicated her work to helping children.",
+        "example_vi": "Cô ấy cống hiến công việc của mình để giúp trẻ em."
+    },
+    {
+        "eng": "the",
+        "vi": "các, những",
+        "mean": "Mạo từ xác định dùng để chỉ một danh từ cụ thể.",
+        "type": "mạo từ",
+        "example_eng": "The book is on the table.",
+        "example_vi": "Cuốn sách nằm trên bàn."
+    },
+    {
+        "eng": "writing",
+        "vi": "việc viết lách",
+        "mean": "Hành động hoặc kỹ năng viết, đặc biệt là văn học.",
+        "type": "danh từ",
+        "example_eng": "Her writing is admired by many.",
+        "example_vi": "Việc viết lách của cô ấy được nhiều người ngưỡng mộ."
+    },
+    {
+        "eng": "of",
+        "vi": "về",
+        "mean": "Giới từ chỉ nội dung hoặc chủ đề.",
+        "type": "giới từ",
+        "example_eng": "She is the author of many books.",
+        "example_vi": "Cô ấy là tác giả của nhiều cuốn sách."
+    },
+    {
+        "eng": "books",
+        "vi": "sách",
+        "mean": "Các tác phẩm văn học được xuất bản dưới dạng in hoặc kỹ thuật số.",
+        "type": "danh từ",
+        "example_eng": "She wrote several books for children.",
+        "example_vi": "Cô ấy đã viết nhiều cuốn sách cho trẻ em."
+    },
+    {
+        "eng": "for",
+        "vi": "dành cho",
+        "mean": "Giới từ chỉ mục đích hoặc đối tượng hướng tới.",
+        "type": "giới từ",
+        "example_eng": "The book is for children.",
+        "example_vi": "Cuốn sách dành cho trẻ em."
+    },
+    {
+        "eng": "and",
+        "vi": "và",
+        "mean": "Liên từ dùng để kết nối các câu hoặc các phần của câu.",
+        "type": "liên từ",
+        "example_eng": "She writes for children and adults.",
+        "example_vi": "Cô ấy viết cho cả trẻ em và người lớn."
+    },
+    {
+        "eng": "about",
+        "vi": "về",
+        "mean": "Giới từ chỉ chủ đề hoặc điều gì đó được đề cập.",
+        "type": "giới từ",
+        "example_eng": "The book is about her life.",
+        "example_vi": "Cuốn sách nói về cuộc đời của cô ấy."
+    },
+    {
+        "eng": "children",
+        "vi": "trẻ em",
+        "mean": "Những người trẻ tuổi, đặc biệt là dưới độ tuổi trưởng thành.",
+        "type": "danh từ",
+        "example_eng": "She writes stories for children.",
+        "example_vi": "Cô ấy viết truyện cho trẻ em."
     }
 ]
