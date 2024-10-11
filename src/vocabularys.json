@@ -2,1434 +2,233 @@
     {
         "eng": "introduction",
         "vi": "giới thiệu",
-        "mean": "Phần đầu tiên của một tài liệu hoặc bài thuyết trình, trong đó giới thiệu nội dung và mục tiêu.",
+        "mean": "phần đầu tiên của một văn bản, bài phát biểu, hoặc bài thuyết trình, trình bày nội dung chính hoặc mục tiêu.",
         "type": "danh từ",
-        "example_eng": "The introduction of the book provides an overview of the main themes.",
-        "example_vi": "Phần giới thiệu của cuốn sách cung cấp cái nhìn tổng quan về các chủ đề chính."
+        "example_eng": "the introduction of the report provides an overview of the main findings.",
+        "example_vi": "phần giới thiệu của báo cáo cung cấp cái nhìn tổng quan về các phát hiện chính."
     },
-
     {
-        "eng": "Unassuming",
+        "eng": "unassuming",
         "vi": "khiêm tốn",
-        "mean": "Không phô trương hay tự mãn; giản dị và không thu hút sự chú ý.",
+        "mean": "không phô trương hay tự mãn; giản dị và không thu hút sự chú ý.",
         "type": "tính từ",
-        "example_eng": "Her unassuming nature made her very approachable.",
-        "example_vi": "Tính cách khiêm tốn của cô ấy khiến mọi người rất dễ gần."
+        "example_eng": "her unassuming nature made her very approachable.",
+        "example_vi": "tính cách khiêm tốn của cô ấy khiến mọi người rất dễ gần."
     },
     {
         "eng": "in",
         "vi": "trong",
-        "mean": "Trong một không gian hoặc thời gian nhất định.",
+        "mean": "chỉ vị trí hoặc trạng thái bên trong một cái gì đó.",
         "type": "giới từ",
-        "example_eng": "She is in the room.",
-        "example_vi": "Cô ấy ở trong phòng."
+        "example_eng": "he is in the room.",
+        "example_vi": "anh ấy đang ở trong phòng."
     },
     {
         "eng": "plot",
         "vi": "cốt truyện",
-        "mean": "Chuỗi sự kiện và tình huống trong một câu chuyện.",
+        "mean": "dòng sự kiện chính trong một tác phẩm văn học hoặc phim ảnh.",
         "type": "danh từ",
-        "example_eng": "The plot of the movie was complex and engaging.",
-        "example_vi": "Cốt truyện của bộ phim rất phức tạp và hấp dẫn."
+        "example_eng": "the plot of the novel was intricate and engaging.",
+        "example_vi": "cốt truyện của cuốn tiểu thuyết rất phức tạp và hấp dẫn."
     },
     {
         "eng": "and",
         "vi": "và",
-        "mean": "Liên từ nối hai từ hoặc cụm từ lại với nhau.",
+        "mean": "từ nối được sử dụng để kết nối hai hoặc nhiều yếu tố.",
         "type": "liên từ",
-        "example_eng": "I like tea and coffee.",
-        "example_vi": "Tôi thích trà và cà phê."
+        "example_eng": "she likes tea and coffee.",
+        "example_vi": "cô ấy thích trà và cà phê."
     },
     {
         "eng": "style",
         "vi": "phong cách",
-        "mean": "Cách thức mà một tác giả hoặc nghệ sĩ thể hiện công việc của mình.",
+        "mean": "cách thức mà một tác phẩm nghệ thuật hoặc văn học được thực hiện, thể hiện cá tính hoặc đặc trưng riêng.",
         "type": "danh từ",
-        "example_eng": "The author’s style is unique and easily recognizable.",
-        "example_vi": "Phong cách của tác giả là độc đáo và dễ nhận ra."
+        "example_eng": "his style of writing is very unique.",
+        "example_vi": "phong cách viết của anh ấy rất độc đáo."
+    },
+    {
+        "eng": "heidi",
+        "vi": "heidi",
+        "mean": "tên riêng của một cô gái trong một tác phẩm văn học nổi tiếng của Thụy Sĩ.",
+        "type": "danh từ riêng",
+        "example_eng": "heidi is a beloved character in children's literature.",
+        "example_vi": "heidi là một nhân vật được yêu thích trong văn học thiếu nhi."
     },
     {
         "eng": "may",
         "vi": "có thể",
-        "mean": "Thể hiện khả năng hoặc sự cho phép.",
+        "mean": "diễn tả khả năng hoặc sự cho phép.",
         "type": "động từ",
-        "example_eng": "You may leave early if you finish your work.",
-        "example_vi": "Bạn có thể rời đi sớm nếu hoàn thành công việc."
+        "example_eng": "you may leave the room now.",
+        "example_vi": "bạn có thể rời khỏi phòng bây giờ."
     },
     {
         "eng": "none",
         "vi": "không ai",
-        "mean": "Không một cái gì hoặc không một ai.",
+        "mean": "không cái nào; không người nào.",
         "type": "đại từ",
-        "example_eng": "None of the answers were correct.",
-        "example_vi": "Không câu trả lời nào là đúng."
+        "example_eng": "none of the answers were correct.",
+        "example_vi": "không ai trong số các câu trả lời là đúng."
     },
     {
         "eng": "the",
-        "vi": "cái, những",
-        "mean": "Giới từ xác định danh từ.",
+        "vi": "cái",
+        "mean": "mạo từ xác định dùng để chỉ một cái gì đó cụ thể.",
         "type": "mạo từ",
-        "example_eng": "The dog is barking.",
-        "example_vi": "Con chó đang sủa."
+        "example_eng": "the book on the table is mine.",
+        "example_vi": "cuốn sách trên bàn là của tôi."
     },
     {
         "eng": "less",
         "vi": "ít hơn",
-        "mean": "Thể hiện một số lượng nhỏ hơn.",
+        "mean": "thể hiện sự giảm sút về số lượng hoặc mức độ.",
         "type": "trạng từ",
-        "example_eng": "I have less time today than yesterday.",
-        "example_vi": "Hôm nay tôi có ít thời gian hơn hôm qua."
+        "example_eng": "he is less experienced than she is.",
+        "example_vi": "anh ấy ít kinh nghiệm hơn cô ấy."
     },
     {
         "eng": "lay",
         "vi": "đặt",
-        "mean": "Đặt cái gì đó ở một vị trí nào đó.",
+        "mean": "đặt cái gì đó xuống một bề mặt.",
         "type": "động từ",
-        "example_eng": "Please lay the book on the table.",
-        "example_vi": "Xin hãy đặt cuốn sách lên bàn."
+        "example_eng": "please lay the book on the table.",
+        "example_vi": "xin hãy đặt cuốn sách lên bàn."
     },
     {
         "eng": "claim",
         "vi": "đòi hỏi",
-        "mean": "Tuyên bố hoặc khẳng định quyền sở hữu hoặc vị trí.",
+        "mean": "yêu cầu một cách chính đáng hoặc tuyên bố quyền sở hữu.",
         "type": "động từ",
-        "example_eng": "She lay claim to the title of the best chef in town.",
-        "example_vi": "Cô ấy đòi hỏi quyền lợi danh hiệu đầu bếp tốt nhất trong thành phố."
+        "example_eng": "she claimed the prize for her hard work.",
+        "example_vi": "cô ấy đã đòi hỏi giải thưởng cho sự nỗ lực của mình."
     },
     {
         "eng": "to",
         "vi": "đến",
-        "mean": "Giới từ chỉ hướng hoặc mục đích.",
+        "mean": "giới từ chỉ hướng hoặc mục đích.",
         "type": "giới từ",
-        "example_eng": "I am going to the market.",
-        "example_vi": "Tôi đang đi đến chợ."
+        "example_eng": "he went to the store.",
+        "example_vi": "anh ấy đã đi đến cửa hàng."
     },
     {
         "eng": "rank",
-        "vi": "đứng ở vị trí",
-        "mean": "Có vị trí hoặc thứ hạng trong một hệ thống phân loại.",
-        "type": "động từ",
-        "example_eng": "He is ranked among the top players in the league.",
-        "example_vi": "Anh ấy đứng ở vị trí hàng đầu trong giải đấu."
+        "vi": "hạng",
+        "mean": "vị trí hoặc cấp bậc trong một hệ thống phân loại.",
+        "type": "danh từ",
+        "example_eng": "she achieved a high rank in the competition.",
+        "example_vi": "cô ấy đạt được hạng cao trong cuộc thi."
     },
     {
         "eng": "as",
         "vi": "như",
-        "mean": "Được sử dụng để so sánh hoặc diễn tả vai trò.",
+        "mean": "giới từ hoặc liên từ dùng để chỉ sự tương tự hoặc so sánh.",
         "type": "liên từ",
-        "example_eng": "She works as a teacher.",
-        "example_vi": "Cô ấy làm việc như một giáo viên."
+        "example_eng": "he works as a teacher.",
+        "example_vi": "anh ấy làm việc như một giáo viên."
     },
     {
         "eng": "a",
         "vi": "một",
-        "mean": "Mạo từ không xác định, chỉ một cái gì đó chưa được xác định.",
+        "mean": "mạo từ không xác định dùng trước danh từ số ít.",
         "type": "mạo từ",
-        "example_eng": "I saw a bird in the garden.",
-        "example_vi": "Tôi đã thấy một con chim trong vườn."
+        "example_eng": "she is reading a book.",
+        "example_vi": "cô ấy đang đọc một cuốn sách."
     },
     {
         "eng": "world",
         "vi": "thế giới",
-        "mean": "Tất cả các nơi và con người trên Trái Đất.",
+        "mean": "toàn bộ trái đất và tất cả sự sống trên đó.",
         "type": "danh từ",
-        "example_eng": "The world is a beautiful place.",
-        "example_vi": "Thế giới là một nơi đẹp đẽ."
+        "example_eng": "the world is full of diverse cultures.",
+        "example_vi": "thế giới đầy những nền văn hóa đa dạng."
     },
     {
         "eng": "classic",
-        "vi": "cổ điển",
-        "mean": "Một tác phẩm có giá trị lâu dài và được công nhận qua thời gian.",
+        "vi": "kinh điển",
+        "mean": "một tác phẩm có giá trị lâu dài, thường được công nhận trong văn học, nghệ thuật hoặc âm nhạc.",
         "type": "danh từ",
-        "example_eng": "Many consider 'Heidi' to be a classic.",
-        "example_vi": "Nhiều người coi 'Heidi' là một tác phẩm cổ điển."
+        "example_eng": "this novel is considered a classic of literature.",
+        "example_vi": "tiểu thuyết này được coi là một tác phẩm kinh điển của văn học."
     },
     {
-        "eng": "In",
-        "vi": "Trong",
-        "mean": "Giới từ chỉ vị trí hoặc trạng thái.",
+        "eng": "in",
+        "vi": "trong",
+        "mean": "chỉ vị trí hoặc trạng thái bên trong một cái gì đó.",
         "type": "giới từ",
-        "example_eng": "In the morning, I like to drink coffee.",
-        "example_vi": "Vào buổi sáng, tôi thích uống cà phê."
+        "example_eng": "he is in the room.",
+        "example_vi": "anh ấy đang ở trong phòng."
     },
     {
         "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
+        "vi": "cái",
+        "mean": "mạo từ xác định dùng để chỉ một cái gì đó cụ thể.",
         "type": "mạo từ",
-        "example_eng": "The dog is barking.",
-        "example_vi": "Con chó đang sủa."
+        "example_eng": "the book on the table is mine.",
+        "example_vi": "cuốn sách trên bàn là của tôi."
     },
     {
         "eng": "first",
         "vi": "đầu tiên",
-        "mean": "Số thứ tự 1; cái đầu tiên trong một dãy.",
+        "mean": "thể hiện thứ hạng cao nhất trong một chuỗi.",
         "type": "tính từ",
-        "example_eng": "This is my first time visiting the city.",
-        "example_vi": "Đây là lần đầu tiên tôi thăm thành phố."
+        "example_eng": "she was the first to arrive.",
+        "example_vi": "cô ấy là người đến đầu tiên."
     },
     {
         "eng": "place",
-        "vi": "nơi",
-        "mean": "Một vị trí hoặc không gian xác định.",
+        "vi": "nơi chốn",
+        "mean": "một vị trí hoặc không gian cụ thể.",
         "type": "danh từ",
-        "example_eng": "This is a beautiful place to relax.",
-        "example_vi": "Đây là một nơi đẹp để thư giãn."
+        "example_eng": "this is a nice place to relax.",
+        "example_vi": "đây là một nơi tốt để thư giãn."
     },
     {
         "eng": "both",
         "vi": "cả hai",
-        "mean": "Đề cập đến hai người hoặc hai vật.",
+        "mean": "dùng để chỉ hai người hoặc hai vật.",
         "type": "đại từ",
-        "example_eng": "Both options are good.",
-        "example_vi": "Cả hai lựa chọn đều tốt."
+        "example_eng": "both options are good.",
+        "example_vi": "cả hai lựa chọn đều tốt."
     },
     {
         "eng": "background",
         "vi": "bối cảnh",
-        "mean": "Thông tin hoặc chi tiết về môi trường xung quanh hoặc tình huống.",
+        "mean": "các yếu tố xung quanh một sự kiện, tình huống hoặc nhân vật.",
         "type": "danh từ",
-        "example_eng": "The background of the story is set in a small village.",
-        "example_vi": "Bối cảnh của câu chuyện được đặt trong một ngôi làng nhỏ."
+        "example_eng": "the background of the story is very interesting.",
+        "example_vi": "bối cảnh của câu chuyện rất thú vị."
     },
     {
         "eng": "and",
         "vi": "và",
-        "mean": "Liên từ nối hai từ hoặc cụm từ lại với nhau.",
+        "mean": "từ nối được sử dụng để kết nối hai hoặc nhiều yếu tố.",
         "type": "liên từ",
-        "example_eng": "I like tea and coffee.",
-        "example_vi": "Tôi thích trà và cà phê."
+        "example_eng": "she likes tea and coffee.",
+        "example_vi": "cô ấy thích trà và cà phê."
     },
     {
         "eng": "characters",
         "vi": "nhân vật",
-        "mean": "Những người hoặc sinh vật trong một câu chuyện.",
+        "mean": "các nhân vật trong một câu chuyện, tác phẩm văn học hoặc phim.",
         "type": "danh từ",
-        "example_eng": "The characters in the novel are well-developed.",
-        "example_vi": "Các nhân vật trong tiểu thuyết được phát triển tốt."
+        "example_eng": "the characters in the novel are well developed.",
+        "example_vi": "các nhân vật trong tiểu thuyết được phát triển rất tốt."
     },
     {
         "eng": "ring",
-        "vi": "vang lên, có âm vang",
-        "mean": "Phát ra âm thanh, thường là âm thanh trầm.",
+        "vi": "vang lên",
+        "mean": "thể hiện sự chân thật hoặc đáng tin cậy.",
         "type": "động từ",
-        "example_eng": "The church bell rings every hour.",
-        "example_vi": "Chuông nhà thờ vang lên mỗi giờ."
+        "example_eng": "her words ring true to me.",
+        "example_vi": "lời nói của cô ấy vang lên chân thật với tôi."
     },
     {
         "eng": "true",
-        "vi": "thật, đúng",
-        "mean": "Đúng sự thật; không sai.",
+        "vi": "chân thật",
+        "mean": "đúng, chính xác hoặc thể hiện thực tế.",
         "type": "tính từ",
-        "example_eng": "It’s true that she is a talented artist.",
-        "example_vi": "Đúng là cô ấy là một nghệ sĩ tài năng."
-    },
-    {
-        "eng": "The",
-        "vi": "Cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The dog is barking.",
-        "example_vi": "Con chó đang sủa."
-    },
-    {
-        "eng": "air",
-        "vi": "không khí",
-        "mean": "Khí mà chúng ta hít thở, hoặc không gian xung quanh.",
-        "type": "danh từ",
-        "example_eng": "The fresh air is good for your health.",
-        "example_vi": "Không khí trong lành tốt cho sức khỏe của bạn."
-    },
-    {
-        "eng": "of",
-        "vi": "của",
-        "mean": "Giới từ chỉ sự sở hữu hoặc liên kết.",
-        "type": "giới từ",
-        "example_eng": "The cover of the book is blue.",
-        "example_vi": "Bìa của cuốn sách có màu xanh."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The cat is sleeping.",
-        "example_vi": "Con mèo đang ngủ."
-    },
-    {
-        "eng": "Alps",
-        "vi": "dãy Alps",
-        "mean": "Một dãy núi lớn ở châu Âu, nổi tiếng với cảnh quan thiên nhiên đẹp.",
-        "type": "danh từ",
-        "example_eng": "I dream of skiing in the Alps.",
-        "example_vi": "Tôi mơ ước được trượt tuyết ở dãy Alps."
-    },
-    {
-        "eng": "is",
-        "vi": "thì, là",
-        "mean": "Động từ to be, thể hiện trạng thái hoặc bản chất.",
-        "type": "động từ",
-        "example_eng": "He is a doctor.",
-        "example_vi": "Anh ấy là một bác sĩ."
-    },
-    {
-        "eng": "wafted",
-        "vi": "thổi nhẹ",
-        "mean": "Đưa một cái gì đó nhẹ nhàng qua không khí.",
-        "type": "động từ",
-        "example_eng": "The smell of fresh bread wafted through the air.",
-        "example_vi": "Mùi bánh mì mới ra lò thổi nhẹ qua không khí."
-    },
-    {
-        "eng": "to",
-        "vi": "đến",
-        "mean": "Giới từ chỉ hướng hoặc mục đích.",
-        "type": "giới từ",
-        "example_eng": "I am going to the store.",
-        "example_vi": "Tôi đang đi đến cửa hàng."
-    },
-    {
-        "eng": "us",
-        "vi": "chúng ta",
-        "mean": "Đại từ chỉ nhóm người bao gồm cả người nói.",
-        "type": "đại từ",
-        "example_eng": "They invited us to the party.",
-        "example_vi": "Họ đã mời chúng tôi đến bữa tiệc."
-    },
-    {
-        "eng": "in",
-        "vi": "trong",
-        "mean": "Giới từ chỉ vị trí hoặc trạng thái.",
-        "type": "giới từ",
-        "example_eng": "She is in the house.",
-        "example_vi": "Cô ấy ở trong nhà."
-    },
-    {
-        "eng": "every",
-        "vi": "mỗi",
-        "mean": "Đề cập đến từng cái trong một nhóm.",
-        "type": "tính từ",
-        "example_eng": "Every student must complete the assignment.",
-        "example_vi": "Mỗi học sinh phải hoàn thành bài tập."
-    },
-    {
-        "eng": "page",
-        "vi": "trang",
-        "mean": "Một mặt của một tờ giấy trong sách hoặc tài liệu.",
-        "type": "danh từ",
-        "example_eng": "Turn to the next page.",
-        "example_vi": "Lật sang trang tiếp theo."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The dog is barking.",
-        "example_vi": "Con chó đang sủa."
-    },
-    {
-        "eng": "house",
-        "vi": "nhà",
-        "mean": "Công trình nơi con người sống hoặc làm việc.",
-        "type": "danh từ",
-        "example_eng": "The house is very spacious.",
-        "example_vi": "Ngôi nhà rất rộng rãi."
-    },
-    {
-        "eng": "among",
-        "vi": "giữa",
-        "mean": "Nằm trong số nhiều người hoặc vật.",
-        "type": "giới từ",
-        "example_eng": "She felt comfortable among her friends.",
-        "example_vi": "Cô ấy cảm thấy thoải mái giữa những người bạn."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The cat is sleeping.",
-        "example_vi": "Con mèo đang ngủ."
-    },
-    {
-        "eng": "pines",
-        "vi": "cây thông",
-        "mean": "Loại cây thuộc họ thông, thường có hình dáng cao và lá kim.",
-        "type": "danh từ",
-        "example_eng": "The pines are beautiful in winter.",
-        "example_vi": "Cây thông rất đẹp vào mùa đông."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The dog is barking.",
-        "example_vi": "Con chó đang sủa."
-    },
-    {
-        "eng": "meadows",
-        "vi": "đồng cỏ",
-        "mean": "Khu vực đất bằng phẳng phủ đầy cỏ và hoa, thường dùng để chăn thả gia súc.",
-        "type": "danh từ",
-        "example_eng": "The meadows are filled with wildflowers in spring.",
-        "example_vi": "Đồng cỏ tràn đầy hoa dại vào mùa xuân."
-    },
-    {
-        "eng": "and",
-        "vi": "và",
-        "mean": "Liên từ nối hai từ hoặc cụm từ lại với nhau.",
-        "type": "liên từ",
-        "example_eng": "I like tea and coffee.",
-        "example_vi": "Tôi thích trà và cà phê."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The cat is sleeping.",
-        "example_vi": "Con mèo đang ngủ."
-    },
-    {
-        "eng": "eagle",
-        "vi": "đại bàng",
-        "mean": "Loại chim săn mồi lớn với mỏ sắc và thị lực tốt.",
-        "type": "danh từ",
-        "example_eng": "The eagle soared high in the sky.",
-        "example_vi": "Đại bàng bay cao trên bầu trời."
-    },
-    {
-        "eng": "poised",
-        "vi": "đứng yên, sẵn sàng",
-        "mean": "Trong trạng thái thăng bằng hoặc sẵn sàng để hành động.",
-        "type": "tính từ",
-        "example_eng": "She was poised to take the stage.",
-        "example_vi": "Cô ấy đã sẵn sàng bước lên sân khấu."
-    },
-    {
-        "eng": "above",
-        "vi": "trên",
-        "mean": "Ở vị trí cao hơn một cái gì đó.",
-        "type": "giới từ",
-        "example_eng": "The lamp hangs above the table.",
-        "example_vi": "Đèn treo trên bàn."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The dog is barking.",
-        "example_vi": "Con chó đang sủa."
-    },
-    {
-        "eng": "naked",
-        "vi": "trần trụi, không có gì che phủ",
-        "mean": "Không có quần áo hoặc vật che phủ; trống trải.",
-        "type": "tính từ",
-        "example_eng": "The tree stood naked in the winter.",
-        "example_vi": "Cái cây đứng trần trụi vào mùa đông."
-    },
-    {
-        "eng": "rocks",
-        "vi": "đá",
-        "mean": "Các mảnh vật liệu tự nhiên cứng rắn, thường được tìm thấy trên bề mặt trái đất.",
-        "type": "danh từ",
-        "example_eng": "The rocks were slippery after the rain.",
-        "example_vi": "Đá trơn sau trận mưa."
-    },
-    {
-        "eng": "form",
-        "vi": "hình thành",
-        "mean": "Tạo ra hoặc cấu tạo một cái gì đó.",
-        "type": "động từ",
-        "example_eng": "Clouds form in the sky.",
-        "example_vi": "Mây hình thành trên bầu trời."
-    },
-    {
-        "eng": "a",
-        "vi": "một",
-        "mean": "Mạo từ không xác định, dùng để chỉ một danh từ không cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "I saw a bird in the tree.",
-        "example_vi": "Tôi thấy một con chim trên cây."
-    },
-    {
-        "eng": "picture",
-        "vi": "bức tranh",
-        "mean": "Một hình ảnh hoặc cảnh tượng, có thể là trong nghệ thuật hoặc trong tâm trí.",
-        "type": "danh từ",
-        "example_eng": "She painted a beautiful picture.",
-        "example_vi": "Cô ấy đã vẽ một bức tranh đẹp."
-    },
-    {
-        "eng": "that",
-        "vi": "điều đó, cái đó",
-        "mean": "Đại từ chỉ định, dùng để chỉ một cái gì đó cụ thể.",
-        "type": "đại từ",
-        "example_eng": "That is my favorite book.",
-        "example_vi": "Đó là cuốn sách tôi thích nhất."
-    },
-    {
-        "eng": "no",
-        "vi": "không",
-        "mean": "Phủ định, chỉ sự không có hoặc không tồn tại.",
-        "type": "trạng từ",
-        "example_eng": "There are no apples left.",
-        "example_vi": "Không còn táo nào nữa."
-    },
-    {
-        "eng": "one",
-        "vi": "một",
-        "mean": "Số lượng đơn, chỉ một cái gì đó.",
-        "type": "đại từ",
-        "example_eng": "One of them is missing.",
-        "example_vi": "Một trong số họ đang thiếu."
-    },
-    {
-        "eng": "could",
-        "vi": "có thể",
-        "mean": "Động từ khiếm khuyết, dùng để chỉ khả năng hoặc sự cho phép trong quá khứ.",
-        "type": "động từ",
-        "example_eng": "I could go to the party.",
-        "example_vi": "Tôi có thể đi đến bữa tiệc."
-    },
-    {
-        "eng": "willingly",
-        "vi": "sẵn lòng",
-        "mean": "Với ý muốn tự nguyện, không bị ép buộc.",
-        "type": "trạng từ",
-        "example_eng": "She willingly helped her friend.",
-        "example_vi": "Cô ấy sẵn lòng giúp đỡ bạn của mình."
-    },
-    {
-        "eng": "forget",
-        "vi": "quên",
-        "mean": "Mất đi ký ức hoặc thông tin về một cái gì đó.",
-        "type": "động từ",
-        "example_eng": "I hope I never forget this moment.",
-        "example_vi": "Tôi hy vọng mình sẽ không bao giờ quên khoảnh khắc này."
-    },
-    {
-        "eng": "And",
-        "vi": "Và",
-        "mean": "Liên từ nối hai từ hoặc cụm từ lại với nhau.",
-        "type": "liên từ",
-        "example_eng": "I like tea and coffee.",
-        "example_vi": "Tôi thích trà và cà phê."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The cat is sleeping.",
-        "example_vi": "Con mèo đang ngủ."
-    },
-    {
-        "eng": "people",
-        "vi": "người",
-        "mean": "Những cá nhân thuộc một cộng đồng hoặc quốc gia.",
-        "type": "danh từ",
-        "example_eng": "The people gathered in the square.",
-        "example_vi": "Người dân tập trung ở quảng trường."
-    },
-    {
-        "eng": "from",
-        "vi": "từ",
-        "mean": "Giới từ chỉ nguồn gốc hoặc điểm khởi đầu.",
-        "type": "giới từ",
-        "example_eng": "She comes from Italy.",
-        "example_vi": "Cô ấy đến từ Ý."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The dog is barking.",
-        "example_vi": "Con chó đang sủa."
-    },
-    {
-        "eng": "kindly",
-        "vi": "tử tế",
-        "mean": "Biểu hiện sự tốt bụng và quan tâm đến người khác.",
-        "type": "tính từ",
-        "example_eng": "She has a kindly nature.",
-        "example_vi": "Cô ấy có bản tính tử tế."
-    },
-    {
-        "eng": "towns-folk",
-        "vi": "dân thị trấn",
-        "mean": "Những người sống trong một thị trấn.",
-        "type": "danh từ",
-        "example_eng": "The towns-folk welcomed the visitors.",
-        "example_vi": "Dân thị trấn chào đón những du khách."
-    },
-    {
-        "eng": "to",
-        "vi": "đến",
-        "mean": "Giới từ chỉ hướng hoặc mục đích.",
-        "type": "giới từ",
-        "example_eng": "I am going to the store.",
-        "example_vi": "Tôi đang đi đến cửa hàng."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The cat is sleeping.",
-        "example_vi": "Con mèo đang ngủ."
-    },
-    {
-        "eng": "quaint",
-        "vi": "cổ kính, độc đáo",
-        "mean": "Có đặc điểm thú vị hoặc kỳ lạ, thường là trong cách trang trí hoặc kiến trúc.",
-        "type": "tính từ",
-        "example_eng": "The quaint village attracts many tourists.",
-        "example_vi": "Ngôi làng cổ kính thu hút nhiều du khách."
-    },
-    {
-        "eng": "and",
-        "vi": "và",
-        "mean": "Liên từ nối hai từ hoặc cụm từ lại với nhau.",
-        "type": "liên từ",
-        "example_eng": "I like tea and coffee.",
-        "example_vi": "Tôi thích trà và cà phê."
-    },
-    {
-        "eng": "touching",
-        "vi": "cảm động",
-        "mean": "Gây ra cảm xúc sâu sắc, thường là buồn hoặc vui.",
-        "type": "tính từ",
-        "example_eng": "The movie has a touching story.",
-        "example_vi": "Bộ phim có một câu chuyện cảm động."
-    },
-    {
-        "eng": "peasant",
-        "vi": "nông dân",
-        "mean": "Người sống ở nông thôn, thường làm nông nghiệp hoặc công việc giản dị.",
-        "type": "danh từ",
-        "example_eng": "The peasant worked hard in the fields.",
-        "example_vi": "Người nông dân làm việc chăm chỉ trên cánh đồng."
-    },
-    {
-        "eng": "types",
-        "vi": "loại",
-        "mean": "Các dạng hoặc kiểu khác nhau của một cái gì đó.",
-        "type": "danh từ",
-        "example_eng": "There are many types of fruit.",
-        "example_vi": "Có nhiều loại trái cây."
-    },
-    {
-        "eng": "are",
-        "vi": "là",
-        "mean": "Động từ to be, chỉ sự tồn tại hoặc trạng thái.",
-        "type": "động từ",
-        "example_eng": "They are happy.",
-        "example_vi": "Họ hạnh phúc."
-    },
-    {
-        "eng": "as",
-        "vi": "như",
-        "mean": "Giới từ dùng để so sánh hoặc chỉ sự tương đồng.",
-        "type": "giới từ",
-        "example_eng": "She works as a teacher.",
-        "example_vi": "Cô ấy làm việc như một giáo viên."
-    },
-    {
-        "eng": "real",
-        "vi": "thật, thực",
-        "mean": "Không giả tạo, tồn tại trong thực tế.",
-        "type": "tính từ",
-        "example_eng": "This is a real diamond.",
-        "example_vi": "Đây là một viên kim cương thật."
-    },
-    {
-        "eng": "as",
-        "vi": "như",
-        "mean": "Giới từ dùng để so sánh hoặc chỉ sự tương đồng.",
-        "type": "giới từ",
-        "example_eng": "He is as tall as his brother.",
-        "example_vi": "Anh ấy cao như em trai của mình."
-    },
-    {
-        "eng": "any",
-        "vi": "bất kỳ",
-        "mean": "Chỉ một cái nào đó không cụ thể hoặc không xác định.",
-        "type": "đại từ",
-        "example_eng": "Do you have any questions?",
-        "example_vi": "Bạn có câu hỏi nào không?"
-    },
-    {
-        "eng": "representation",
-        "vi": "sự đại diện",
-        "mean": "Hình thức thể hiện hoặc biểu diễn một cái gì đó.",
-        "type": "danh từ",
-        "example_eng": "The painting is a representation of nature.",
-        "example_vi": "Bức tranh là sự đại diện của thiên nhiên."
-    },
-    {
-        "eng": "of",
-        "vi": "của",
-        "mean": "Giới từ chỉ sự sở hữu hoặc mối quan hệ.",
-        "type": "giới từ",
-        "example_eng": "The color of the sky is blue.",
-        "example_vi": "Màu của bầu trời là màu xanh."
-    },
-    {
-        "eng": "human",
-        "vi": "con người",
-        "mean": "Liên quan đến loài người.",
-        "type": "tính từ",
-        "example_eng": "Human rights are important.",
-        "example_vi": "Quyền con người là quan trọng."
-    },
-    {
-        "eng": "nature",
-        "vi": "bản chất",
-        "mean": "Các đặc điểm hoặc phẩm chất vốn có của một cái gì đó.",
-        "type": "danh từ",
-        "example_eng": "It is in his nature to help others.",
-        "example_vi": "Giúp đỡ người khác là bản chất của anh ấy."
-    },
-    {
-        "eng": "need",
-        "vi": "cần",
-        "mean": "Yêu cầu hoặc mong muốn điều gì đó.",
-        "type": "động từ",
-        "example_eng": "I need some water.",
-        "example_vi": "Tôi cần một ít nước."
-    },
-    {
-        "eng": "be",
-        "vi": "thì, là",
-        "mean": "Động từ to be, chỉ sự tồn tại hoặc trạng thái.",
-        "type": "động từ",
-        "example_eng": "They will be here soon.",
-        "example_vi": "Họ sẽ đến đây sớm."
-    },
-    {
-        "eng": "Every",
-        "vi": "Mỗi",
-        "mean": "Tất cả trong số một nhóm, thường chỉ một cái hoặc một người trong mỗi trường hợp.",
-        "type": "đại từ",
-        "example_eng": "Every student must submit their homework.",
-        "example_vi": "Mỗi học sinh phải nộp bài tập về nhà."
-    },
-    {
-        "eng": "goat",
-        "vi": "con dê",
-        "mean": "Một loại động vật có vú, thường được nuôi để lấy sữa hoặc thịt.",
-        "type": "danh từ",
-        "example_eng": "The goat jumped over the fence.",
-        "example_vi": "Con dê đã nhảy qua hàng rào."
-    },
-    {
-        "eng": "even",
-        "vi": "thậm chí",
-        "mean": "Từ chỉ sự nhấn mạnh, thường dùng để đề cập đến điều bất ngờ hoặc không thể tưởng tượng.",
-        "type": "trạng từ",
-        "example_eng": "He didn't even try to help.",
-        "example_vi": "Anh ấy thậm chí còn không cố gắng giúp đỡ."
-    },
-    {
-        "eng": "has",
-        "vi": "có",
-        "mean": "Động từ chỉ sự sở hữu hoặc sự hiện diện.",
-        "type": "động từ",
-        "example_eng": "She has a new car.",
-        "example_vi": "Cô ấy có một chiếc xe mới."
-    },
-    {
-        "eng": "its",
-        "vi": "của nó",
-        "mean": "Đại từ sở hữu dùng để chỉ điều gì đó không xác định giới tính.",
-        "type": "đại từ",
-        "example_eng": "The cat cleaned its paws.",
-        "example_vi": "Con mèo đã làm sạch chân của nó."
-    },
-    {
-        "eng": "personality",
-        "vi": "tính cách",
-        "mean": "Tập hợp các đặc điểm và đặc trưng độc đáo của một cá nhân.",
-        "type": "danh từ",
-        "example_eng": "She has a vibrant personality.",
-        "example_vi": "Cô ấy có một tính cách đầy sức sống."
-    },
-    {
-        "eng": "As",
-        "vi": "Như",
-        "mean": "Giới từ chỉ sự so sánh hoặc một cách tiếp cận cụ thể.",
-        "type": "giới từ",
-        "example_eng": "As a teacher, she is very dedicated.",
-        "example_vi": "Như một giáo viên, cô ấy rất tận tâm."
-    },
-    {
-        "eng": "for",
-        "vi": "đối với",
-        "mean": "Giới từ chỉ mục đích hoặc mối quan hệ.",
-        "type": "giới từ",
-        "example_eng": "This gift is for you.",
-        "example_vi": "Món quà này dành cho bạn."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The dog is barking.",
-        "example_vi": "Con chó đang sủa."
-    },
-    {
-        "eng": "little",
-        "vi": "nhỏ",
-        "mean": "Tính từ chỉ kích thước nhỏ hoặc trẻ tuổi.",
-        "type": "tính từ",
-        "example_eng": "She has a little brother.",
-        "example_vi": "Cô ấy có một người em trai nhỏ."
-    },
-    {
-        "eng": "heroine",
-        "vi": "nữ anh hùng",
-        "mean": "Nhân vật nữ chính trong một câu chuyện, thường thể hiện phẩm chất cao đẹp.",
-        "type": "danh từ",
-        "example_eng": "The heroine saved the day.",
-        "example_vi": "Nữ anh hùng đã cứu ngày."
-    },
-    {
-        "eng": "she",
-        "vi": "cô ấy",
-        "mean": "Đại từ chỉ người nữ.",
-        "type": "đại từ",
-        "example_eng": "She is my best friend.",
-        "example_vi": "Cô ấy là bạn thân nhất của tôi."
-    },
-    {
-        "eng": "is",
-        "vi": "là",
-        "mean": "Động từ to be, chỉ sự tồn tại hoặc trạng thái.",
-        "type": "động từ",
-        "example_eng": "He is happy.",
-        "example_vi": "Anh ấy hạnh phúc."
-    },
-    {
-        "eng": "a",
-        "vi": "một",
-        "mean": "Mạo từ không xác định, dùng để chỉ một cái gì đó không cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "I have a dog.",
-        "example_vi": "Tôi có một con chó."
-    },
-    {
-        "eng": "blessing",
-        "vi": "phước lành",
-        "mean": "Điều tốt đẹp, thường được coi là quà tặng từ thiên nhiên hoặc từ một nguồn lực cao hơn.",
-        "type": "danh từ",
-        "example_eng": "Her kindness is a blessing to us.",
-        "example_vi": "Sự tử tế của cô ấy là một phước lành cho chúng tôi."
-    },
-    {
-        "eng": "not",
-        "vi": "không",
-        "mean": "Trạng từ chỉ sự phủ định.",
-        "type": "trạng từ",
-        "example_eng": "I do not like spinach.",
-        "example_vi": "Tôi không thích rau chân vịt."
-    },
-    {
-        "eng": "only",
-        "vi": "chỉ",
-        "mean": "Chỉ một điều, không có điều nào khác.",
-        "type": "trạng từ",
-        "example_eng": "She only eats vegetables.",
-        "example_vi": "Cô ấy chỉ ăn rau."
-    },
-    {
-        "eng": "to",
-        "vi": "đến",
-        "mean": "Giới từ chỉ hướng hoặc mục đích.",
-        "type": "giới từ",
-        "example_eng": "I am going to the store.",
-        "example_vi": "Tôi đang đi đến cửa hàng."
-    },
-    {
-        "eng": "everyone",
-        "vi": "mọi người",
-        "mean": "Tất cả các cá nhân trong một nhóm.",
-        "type": "đại từ",
-        "example_eng": "Everyone is invited to the party.",
-        "example_vi": "Mọi người đều được mời đến bữa tiệc."
-    },
-    {
-        "eng": "in",
-        "vi": "trong",
-        "mean": "Giới từ chỉ vị trí hoặc thời gian.",
-        "type": "giới từ",
-        "example_eng": "She lives in the city.",
-        "example_vi": "Cô ấy sống trong thành phố."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The book is on the table.",
-        "example_vi": "Cuốn sách nằm trên bàn."
-    },
-    {
-        "eng": "story",
-        "vi": "câu chuyện",
-        "mean": "Một trình bày có cấu trúc về sự kiện, thường là hư cấu.",
-        "type": "danh từ",
-        "example_eng": "She told an interesting story.",
-        "example_vi": "Cô ấy kể một câu chuyện thú vị."
-    },
-    {
-        "eng": "but",
-        "vi": "nhưng",
-        "mean": "Liên từ dùng để chỉ sự tương phản hoặc sự khác biệt.",
-        "type": "liên từ",
-        "example_eng": "I wanted to go, but it was raining.",
-        "example_vi": "Tôi muốn đi, nhưng trời đang mưa."
-    },
-    {
-        "eng": "to",
-        "vi": "đến",
-        "mean": "Giới từ chỉ hướng hoặc mục đích.",
-        "type": "giới từ",
-        "example_eng": "I am going to the store.",
-        "example_vi": "Tôi đang đi đến cửa hàng."
-    },
-    {
-        "eng": "everyone",
-        "vi": "mọi người",
-        "mean": "Tất cả các cá nhân trong một nhóm.",
-        "type": "đại từ",
-        "example_eng": "Everyone is invited to the party.",
-        "example_vi": "Mọi người đều được mời đến bữa tiệc."
-    },
-    {
-        "eng": "who",
-        "vi": "ai",
-        "mean": "Đại từ quan hệ dùng để chỉ một người nào đó.",
-        "type": "đại từ",
-        "example_eng": "The man who called you is here.",
-        "example_vi": "Người đàn ông đã gọi bạn ở đây."
-    },
-    {
-        "eng": "reads",
-        "vi": "đọc",
-        "mean": "Động từ chỉ hành động tiếp nhận thông tin từ văn bản.",
-        "type": "động từ",
-        "example_eng": "She reads a book every night.",
-        "example_vi": "Cô ấy đọc một cuốn sách mỗi tối."
-    },
-    {
-        "eng": "it",
-        "vi": "nó",
-        "mean": "Đại từ chỉ một vật hoặc một ý tưởng đã được đề cập trước đó.",
-        "type": "đại từ",
-        "example_eng": "I like this book; it is interesting.",
-        "example_vi": "Tôi thích cuốn sách này; nó rất thú vị."
-    },
-    {
-        "eng": "The",
-        "vi": "Cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The dog is barking.",
-        "example_vi": "Con chó đang sủa."
-    },
-    {
-        "eng": "narrative",
-        "vi": "hành văn",
-        "mean": "Liên quan đến việc kể chuyện hoặc mô tả sự kiện.",
-        "type": "tính từ",
-        "example_eng": "The narrative style is engaging.",
-        "example_vi": "Phong cách hành văn rất thu hút."
-    },
-    {
-        "eng": "merits",
-        "vi": "giá trị",
-        "mean": "Đặc điểm tích cực hoặc phẩm chất tốt.",
-        "type": "danh từ",
-        "example_eng": "The merits of the proposal were discussed.",
-        "example_vi": "Các giá trị của đề xuất đã được thảo luận."
-    },
-    {
-        "eng": "of",
-        "vi": "của",
-        "mean": "Giới từ chỉ sự sở hữu hoặc mối quan hệ.",
-        "type": "giới từ",
-        "example_eng": "The color of the sky is blue.",
-        "example_vi": "Màu của bầu trời là màu xanh."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The book is on the table.",
-        "example_vi": "Cuốn sách nằm trên bàn."
-    },
-    {
-        "eng": "book",
-        "vi": "cuốn sách",
-        "mean": "Một tài liệu chứa thông tin hoặc câu chuyện, thường có trang giấy.",
-        "type": "danh từ",
-        "example_eng": "She is reading a book.",
-        "example_vi": "Cô ấy đang đọc một cuốn sách."
-    },
-    {
-        "eng": "are",
-        "vi": "là",
-        "mean": "Động từ to be, chỉ sự tồn tại hoặc trạng thái.",
-        "type": "động từ",
-        "example_eng": "They are happy.",
-        "example_vi": "Họ hạnh phúc."
-    },
-    {
-        "eng": "too",
-        "vi": "quá",
-        "mean": "Trạng từ chỉ mức độ, thường diễn tả rằng điều gì đó vượt quá mong đợi.",
-        "type": "trạng từ",
-        "example_eng": "It's too hot outside.",
-        "example_vi": "Ngoài trời quá nóng."
-    },
-    {
-        "eng": "apparent",
-        "vi": "rõ ràng",
-        "mean": "Dễ thấy hoặc dễ nhận biết.",
-        "type": "tính từ",
-        "example_eng": "Her happiness was apparent to everyone.",
-        "example_vi": "Sự hạnh phúc của cô ấy rất rõ ràng với mọi người."
-    },
-    {
-        "eng": "to",
-        "vi": "đến",
-        "mean": "Giới từ chỉ hướng hoặc mục đích.",
-        "type": "giới từ",
-        "example_eng": "I am going to the store.",
-        "example_vi": "Tôi đang đi đến cửa hàng."
-    },
-    {
-        "eng": "call",
-        "vi": "gọi",
-        "mean": "Động từ chỉ hành động kêu gọi hoặc đặt tên cho một điều gì đó.",
-        "type": "động từ",
-        "example_eng": "She called her friend for help.",
-        "example_vi": "Cô ấy gọi bạn mình để nhờ giúp đỡ."
-    },
-    {
-        "eng": "for",
-        "vi": "đối với",
-        "mean": "Giới từ chỉ mục đích hoặc mối quan hệ.",
-        "type": "giới từ",
-        "example_eng": "This gift is for you.",
-        "example_vi": "Món quà này dành cho bạn."
-    },
-    {
-        "eng": "comment",
-        "vi": "nhận xét",
-        "mean": "Ý kiến hoặc đánh giá về một điều gì đó.",
-        "type": "danh từ",
-        "example_eng": "I would like to hear your comment.",
-        "example_vi": "Tôi muốn nghe nhận xét của bạn."
-    },
-    {
-        "eng": "As",
-        "vi": "Như",
-        "mean": "Giới từ chỉ sự so sánh hoặc một cách tiếp cận cụ thể.",
-        "type": "giới từ",
-        "example_eng": "As a teacher, she is very dedicated.",
-        "example_vi": "Như một giáo viên, cô ấy rất tận tâm."
-    },
-    {
-        "eng": "to",
-        "vi": "đối với",
-        "mean": "Giới từ chỉ mục đích hoặc mối quan hệ.",
-        "type": "giới từ",
-        "example_eng": "As to your question, the answer is yes.",
-        "example_vi": "Đối với câu hỏi của bạn, câu trả lời là có."
-    },
-    {
-        "eng": "the",
-        "vi": "cái, những",
-        "mean": "Mạo từ xác định, dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The book is on the table.",
-        "example_vi": "Cuốn sách nằm trên bàn."
-    },
-    {
-        "eng": "author",
-        "vi": "tác giả",
-        "mean": "Người viết hoặc sáng tạo ra một tác phẩm.",
-        "type": "danh từ",
-        "example_eng": "The author of the novel is famous.",
-        "example_vi": "Tác giả của cuốn tiểu thuyết nổi tiếng."
-    },
-    {
-        "eng": "Johanna Spyri",
-        "vi": "Johanna Spyri",
-        "mean": "Tên của nữ nhà văn người Thụy Sĩ, tác giả của cuốn sách 'Heidi'.",
-        "type": "danh từ riêng",
-        "example_eng": "Johanna Spyri wrote 'Heidi'.",
-        "example_vi": "Johanna Spyri đã viết 'Heidi'."
-    },
-    {
-        "eng": "she",
-        "vi": "cô ấy",
-        "mean": "Đại từ chỉ người nữ.",
-        "type": "đại từ",
-        "example_eng": "She is my best friend.",
-        "example_vi": "Cô ấy là bạn thân nhất của tôi."
-    },
-    {
-        "eng": "has",
-        "vi": "đã",
-        "mean": "Động từ chỉ thì hiện tại hoàn thành.",
-        "type": "động từ",
-        "example_eng": "She has lived here for years.",
-        "example_vi": "Cô ấy đã sống ở đây nhiều năm."
-    },
-    {
-        "eng": "so",
-        "vi": "rất",
-        "mean": "Trạng từ chỉ mức độ.",
-        "type": "trạng từ",
-        "example_eng": "The weather is so hot today.",
-        "example_vi": "Thời tiết hôm nay rất nóng."
-    },
-    {
-        "eng": "entirely",
-        "vi": "hoàn toàn",
-        "mean": "Hoàn toàn, không có ngoại lệ hoặc phần nào bị loại trừ.",
-        "type": "trạng từ",
-        "example_eng": "She is entirely responsible for the project.",
-        "example_vi": "Cô ấy hoàn toàn chịu trách nhiệm cho dự án."
-    },
-    {
-        "eng": "lost",
-        "vi": "đánh mất",
-        "mean": "Không còn sở hữu hoặc không thể tìm thấy điều gì đó.",
-        "type": "động từ",
-        "example_eng": "He lost his wallet.",
-        "example_vi": "Anh ấy đã đánh mất ví của mình."
-    },
-    {
-        "eng": "herself",
-        "vi": "bản thân cô ấy",
-        "mean": "Đại từ phản thân chỉ về người nữ đã được đề cập.",
-        "type": "đại từ phản thân",
-        "example_eng": "She did it all by herself.",
-        "example_vi": "Cô ấy tự làm tất cả."
-    },
-    {
-        "eng": "in",
-        "vi": "trong",
-        "mean": "Giới từ chỉ vị trí hoặc thời gian.",
-        "type": "giới từ",
-        "example_eng": "She lives in the city.",
-        "example_vi": "Cô ấy sống trong thành phố."
-    },
-    {
-        "eng": "her",
-        "vi": "của cô ấy",
-        "mean": "Từ sở hữu chỉ về người nữ đã được đề cập.",
-        "type": "từ sở hữu",
-        "example_eng": "This is her book.",
-        "example_vi": "Đây là cuốn sách của cô ấy."
-    },
-    {
-        "eng": "creation",
-        "vi": "tác phẩm",
-        "mean": "Một thứ đã được tạo ra, đặc biệt là một tác phẩm nghệ thuật hoặc văn học.",
-        "type": "danh từ",
-        "example_eng": "The creation of this sculpture took years.",
-        "example_vi": "Việc tạo ra tác phẩm điêu khắc này mất nhiều năm."
-    },
-    {
-        "eng": "that",
-        "vi": "đó",
-        "mean": "Đại từ dùng để chỉ vật hoặc người đã được nhắc đến trước đó.",
-        "type": "đại từ",
-        "example_eng": "That is the book I told you about.",
-        "example_vi": "Đó là cuốn sách mà tôi đã nói với bạn."
-    },
-    {
-        "eng": "we",
-        "vi": "chúng ta",
-        "mean": "Đại từ chỉ nhóm bao gồm người nói và người nghe.",
-        "type": "đại từ",
-        "example_eng": "We are going to the park.",
-        "example_vi": "Chúng ta sẽ đi công viên."
-    },
-    {
-        "eng": "may",
-        "vi": "có thể",
-        "mean": "Động từ chỉ sự cho phép hoặc khả năng.",
-        "type": "động từ",
-        "example_eng": "You may leave if you wish.",
-        "example_vi": "Bạn có thể rời đi nếu bạn muốn."
-    },
-    {
-        "eng": "pass",
-        "vi": "bỏ qua",
-        "mean": "Đi qua hoặc không quan tâm đến điều gì đó.",
-        "type": "động từ",
-        "example_eng": "We should pass over that issue for now.",
-        "example_vi": "Chúng ta nên bỏ qua vấn đề đó vào lúc này."
-    },
-    {
-        "eng": "over",
-        "vi": "qua",
-        "mean": "Giới từ chỉ sự di chuyển hoặc vị trí vượt qua thứ khác.",
-        "type": "giới từ",
-        "example_eng": "The plane flew over the city.",
-        "example_vi": "Máy bay bay qua thành phố."
-    },
-    {
-        "eng": "her",
-        "vi": "của cô ấy",
-        "mean": "Từ sở hữu chỉ về người nữ đã được đề cập.",
-        "type": "từ sở hữu",
-        "example_eng": "Her car is new.",
-        "example_vi": "Xe của cô ấy là mới."
-    },
-    {
-        "eng": "career",
-        "vi": "sự nghiệp",
-        "mean": "Công việc hoặc ngành nghề mà một người làm trong thời gian dài.",
-        "type": "danh từ",
-        "example_eng": "She has a successful career in medicine.",
-        "example_vi": "Cô ấy có một sự nghiệp thành công trong ngành y."
-    },
-    {
-        "eng": "rather",
-        "vi": "khá",
-        "mean": "Từ chỉ mức độ, thường diễn tả rằng một điều gì đó là đúng nhưng không mạnh mẽ như mong đợi.",
-        "type": "trạng từ",
-        "example_eng": "It’s rather cold today.",
-        "example_vi": "Hôm nay trời khá lạnh."
-    },
-    {
-        "eng": "rapidly",
-        "vi": "nhanh chóng",
-        "mean": "Xảy ra hoặc di chuyển một cách nhanh chóng.",
-        "type": "trạng từ",
-        "example_eng": "The company grew rapidly last year.",
-        "example_vi": "Công ty đã phát triển nhanh chóng năm ngoái."
-    },
-    {
-        "eng": "She",
-        "vi": "Cô ấy",
-        "mean": "Đại từ chỉ người nữ.",
-        "type": "đại từ",
-        "example_eng": "She is my sister.",
-        "example_vi": "Cô ấy là chị gái của tôi."
-    },
-    {
-        "eng": "was",
-        "vi": "đã",
-        "mean": "Động từ to be, chỉ thì quá khứ của 'is'.",
-        "type": "động từ",
-        "example_eng": "She was happy yesterday.",
-        "example_vi": "Hôm qua cô ấy đã rất vui."
-    },
-    {
-        "eng": "born",
-        "vi": "sinh ra",
-        "mean": "Được sinh ra hoặc xuất hiện trên đời.",
-        "type": "động từ",
-        "example_eng": "She was born in 1990.",
-        "example_vi": "Cô ấy sinh ra vào năm 1990."
-    },
-    {
-        "eng": "in",
-        "vi": "tại",
-        "mean": "Giới từ chỉ vị trí hoặc thời gian.",
-        "type": "giới từ",
-        "example_eng": "She lives in Switzerland.",
-        "example_vi": "Cô ấy sống tại Thụy Sĩ."
-    },
-    {
-        "eng": "Switzerland",
-        "vi": "Thụy Sĩ",
-        "mean": "Tên quốc gia nằm ở Châu Âu, nổi tiếng về cảnh quan thiên nhiên và sự trung lập.",
-        "type": "danh từ riêng",
-        "example_eng": "Switzerland is famous for its mountains.",
-        "example_vi": "Thụy Sĩ nổi tiếng với những ngọn núi."
-    },
-    {
-        "eng": "in",
-        "vi": "vào",
-        "mean": "Giới từ chỉ thời gian trong một năm hoặc thời điểm cụ thể.",
-        "type": "giới từ",
-        "example_eng": "She was born in 1829.",
-        "example_vi": "Cô ấy sinh vào năm 1829."
-    },
-    {
-        "eng": "1829",
-        "vi": "năm 1829",
-        "mean": "Năm trong lịch sử.",
-        "type": "danh từ",
-        "example_eng": "Johanna Spyri was born in 1829.",
-        "example_vi": "Johanna Spyri sinh vào năm 1829."
-    },
-    {
-        "eng": "came",
-        "vi": "xuất thân",
-        "mean": "Động từ chỉ nguồn gốc hoặc nơi xuất phát.",
-        "type": "động từ",
-        "example_eng": "She came from a small village.",
-        "example_vi": "Cô ấy xuất thân từ một ngôi làng nhỏ."
-    },
-    {
-        "eng": "of",
-        "vi": "của",
-        "mean": "Giới từ chỉ sự sở hữu hoặc mối quan hệ.",
-        "type": "giới từ",
-        "example_eng": "She is part of a literary family.",
-        "example_vi": "Cô ấy là thành viên của một gia đình văn học."
-    },
-    {
-        "eng": "a",
-        "vi": "một",
-        "mean": "Mạo từ không xác định, chỉ một đối tượng không cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "She belongs to a famous family.",
-        "example_vi": "Cô ấy thuộc về một gia đình nổi tiếng."
-    },
-    {
-        "eng": "literary",
-        "vi": "văn học",
-        "mean": "Liên quan đến văn chương hoặc việc viết lách.",
-        "type": "tính từ",
-        "example_eng": "She came from a literary background.",
-        "example_vi": "Cô ấy xuất thân từ một gia đình văn học."
-    },
-    {
-        "eng": "family",
-        "vi": "gia đình",
-        "mean": "Nhóm người có mối quan hệ về huyết thống hoặc hôn nhân.",
-        "type": "danh từ",
-        "example_eng": "Her family is large and well-known.",
-        "example_vi": "Gia đình cô ấy đông và nổi tiếng."
-    },
-    {
-        "eng": "and",
-        "vi": "và",
-        "mean": "Liên từ dùng để kết nối các câu hoặc các phần của câu.",
-        "type": "liên từ",
-        "example_eng": "She sings and dances.",
-        "example_vi": "Cô ấy hát và nhảy múa."
-    },
-    {
-        "eng": "devoted",
-        "vi": "dành hết",
-        "mean": "Dành toàn bộ thời gian, nỗ lực cho điều gì đó.",
-        "type": "động từ",
-        "example_eng": "She devoted her life to helping others.",
-        "example_vi": "Cô ấy đã dành cả đời để giúp đỡ người khác."
-    },
-    {
-        "eng": "all",
-        "vi": "tất cả",
-        "mean": "Chỉ toàn bộ hoặc tất cả các phần của một thứ.",
-        "type": "đại từ",
-        "example_eng": "She gave all her time to the project.",
-        "example_vi": "Cô ấy đã dành tất cả thời gian của mình cho dự án."
-    },
-    {
-        "eng": "her",
-        "vi": "của cô ấy",
-        "mean": "Từ sở hữu chỉ về người nữ đã được đề cập.",
-        "type": "từ sở hữu",
-        "example_eng": "Her book is interesting.",
-        "example_vi": "Cuốn sách của cô ấy rất thú vị."
-    },
-    {
-        "eng": "talent",
-        "vi": "tài năng",
-        "mean": "Khả năng tự nhiên hoặc đã phát triển trong một lĩnh vực cụ thể.",
-        "type": "danh từ",
-        "example_eng": "She has a talent for painting.",
-        "example_vi": "Cô ấy có tài năng vẽ tranh."
-    },
-    {
-        "eng": "to",
-        "vi": "cho",
-        "mean": "Giới từ chỉ mục đích hoặc đối tượng nhận.",
-        "type": "giới từ",
-        "example_eng": "She dedicated her work to helping children.",
-        "example_vi": "Cô ấy cống hiến công việc của mình để giúp trẻ em."
-    },
-    {
-        "eng": "the",
-        "vi": "các, những",
-        "mean": "Mạo từ xác định dùng để chỉ một danh từ cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "The book is on the table.",
-        "example_vi": "Cuốn sách nằm trên bàn."
-    },
-    {
-        "eng": "writing",
-        "vi": "việc viết lách",
-        "mean": "Hành động hoặc kỹ năng viết, đặc biệt là văn học.",
-        "type": "danh từ",
-        "example_eng": "Her writing is admired by many.",
-        "example_vi": "Việc viết lách của cô ấy được nhiều người ngưỡng mộ."
-    },
-    {
-        "eng": "of",
-        "vi": "về",
-        "mean": "Giới từ chỉ nội dung hoặc chủ đề.",
-        "type": "giới từ",
-        "example_eng": "She is the author of many books.",
-        "example_vi": "Cô ấy là tác giả của nhiều cuốn sách."
-    },
-    {
-        "eng": "books",
-        "vi": "sách",
-        "mean": "Các tác phẩm văn học được xuất bản dưới dạng in hoặc kỹ thuật số.",
-        "type": "danh từ",
-        "example_eng": "She wrote several books for children.",
-        "example_vi": "Cô ấy đã viết nhiều cuốn sách cho trẻ em."
-    },
-    {
-        "eng": "for",
-        "vi": "dành cho",
-        "mean": "Giới từ chỉ mục đích hoặc đối tượng hướng tới.",
-        "type": "giới từ",
-        "example_eng": "The book is for children.",
-        "example_vi": "Cuốn sách dành cho trẻ em."
-    },
-    {
-        "eng": "and",
-        "vi": "và",
-        "mean": "Liên từ dùng để kết nối các câu hoặc các phần của câu.",
-        "type": "liên từ",
-        "example_eng": "She writes for children and adults.",
-        "example_vi": "Cô ấy viết cho cả trẻ em và người lớn."
-    },
-    {
-        "eng": "about",
-        "vi": "về",
-        "mean": "Giới từ chỉ chủ đề hoặc điều gì đó được đề cập.",
-        "type": "giới từ",
-        "example_eng": "The book is about her life.",
-        "example_vi": "Cuốn sách nói về cuộc đời của cô ấy."
-    },
-    {
-        "eng": "children",
-        "vi": "trẻ em",
-        "mean": "Những người trẻ tuổi, đặc biệt là dưới độ tuổi trưởng thành.",
-        "type": "danh từ",
-        "example_eng": "She writes stories for children.",
-        "example_vi": "Cô ấy viết truyện cho trẻ em."
+        "example_eng": "it's true that she is talented.",
+        "example_vi": "đúng là cô ấy rất tài năng."
     }
 ]
