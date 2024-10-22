@@ -358,5 +358,349 @@
         "type": "động từ",
         "example_eng": "Please write your name here.",
         "example_vi": "Vui lòng viết tên của bạn ở đây."
+    },
+    {
+        "eng": "bag",
+        "vi": "túi",
+        "mean": "vật dụng chứa đồ, thường được làm từ vải hoặc da, có thể mang trên vai hoặc tay.",
+        "type": "danh từ",
+        "example_eng": "She carries a bag to school.",
+        "example_vi": "Cô ấy mang một chiếc túi đến trường."
+    },
+    {
+        "eng": "board",
+        "vi": "bảng",
+        "mean": "một bề mặt phẳng dùng để viết hoặc vẽ, thường thấy trong lớp học.",
+        "type": "danh từ",
+        "example_eng": "The teacher wrote the lesson on the board.",
+        "example_vi": "Giáo viên viết bài học lên bảng."
+    },
+    {
+        "eng": "book",
+        "vi": "sách",
+        "mean": "một tập hợp các trang giấy in hoặc viết, chứa thông tin, câu chuyện, hoặc kiến thức.",
+        "type": "danh từ",
+        "example_eng": "I am reading a new book.",
+        "example_vi": "Tôi đang đọc một cuốn sách mới."
+    },
+    {
+        "eng": "city",
+        "vi": "thành phố",
+        "mean": "một khu vực lớn với nhiều dân cư, thường có nhiều tòa nhà và cơ sở hạ tầng.",
+        "type": "danh từ",
+        "example_eng": "Hanoi is a big city.",
+        "example_vi": "Hà Nội là một thành phố lớn."
+    },
+    {
+        "eng": "class",
+        "vi": "lớp học",
+        "mean": "một nhóm học sinh học cùng nhau trong một khoảng thời gian.",
+        "type": "danh từ",
+        "example_eng": "Our class starts at 8 AM.",
+        "example_vi": "Lớp học của chúng tôi bắt đầu lúc 8 giờ sáng."
+    },
+    {
+        "eng": "classroom",
+        "vi": "phòng học",
+        "mean": "một căn phòng nơi học sinh và giáo viên học tập.",
+        "type": "danh từ",
+        "example_eng": "The students are in the classroom.",
+        "example_vi": "Các học sinh đang ở trong phòng học."
+    },
+    {
+        "eng": "clock",
+        "vi": "đồng hồ",
+        "mean": "thiết bị đo thời gian.",
+        "type": "danh từ",
+        "example_eng": "The clock shows it’s 10 AM.",
+        "example_vi": "Đồng hồ cho thấy là 10 giờ sáng."
+    },
+    {
+        "eng": "close",
+        "vi": "đóng",
+        "mean": "để chặn hoặc dừng lối vào hoặc sự truy cập.",
+        "type": "động từ",
+        "example_eng": "Please close the door.",
+        "example_vi": "Vui lòng đóng cửa."
+    },
+    {
+        "eng": "come in",
+        "vi": "vào",
+        "mean": "lời yêu cầu để ai đó bước vào.",
+        "type": "cụm từ",
+        "example_eng": "You can come in now.",
+        "example_vi": "Bạn có thể vào bây giờ."
+    },
+    {
+        "eng": "command",
+        "vi": "mệnh lệnh",
+        "mean": "lời yêu cầu hoặc hướng dẫn bắt buộc ai đó phải làm gì.",
+        "type": "danh từ",
+        "example_eng": "The general gave a command.",
+        "example_vi": "Vị tướng đã ra lệnh."
+    },
+    {
+        "eng": "desk",
+        "vi": "bàn làm việc",
+        "mean": "một bàn phẳng được dùng để làm việc, viết hoặc học tập.",
+        "type": "danh từ",
+        "example_eng": "I have a desk in my room.",
+        "example_vi": "Tôi có một chiếc bàn làm việc trong phòng của tôi."
+    },
+    {
+        "eng": "door",
+        "vi": "cửa",
+        "mean": "một phần của tòa nhà hoặc phòng có thể mở hoặc đóng để vào hoặc ra.",
+        "type": "danh từ",
+        "example_eng": "Please open the door.",
+        "example_vi": "Vui lòng mở cửa."
+    },
+    {
+        "eng": "eraser",
+        "vi": "cục tẩy",
+        "mean": "vật dụng dùng để xóa chữ viết trên giấy.",
+        "type": "danh từ",
+        "example_eng": "I need an eraser to fix my mistake.",
+        "example_vi": "Tôi cần một cục tẩy để sửa lỗi."
+    },
+    {
+        "eng": "family",
+        "vi": "gia đình",
+        "mean": "một nhóm người có quan hệ huyết thống hoặc hôn nhân.",
+        "type": "danh từ",
+        "example_eng": "I love spending time with my family.",
+        "example_vi": "Tôi thích dành thời gian với gia đình."
+    },
+    {
+        "eng": "family name",
+        "vi": "họ",
+        "mean": "họ của một người, thường được truyền từ thế hệ này sang thế hệ khác.",
+        "type": "danh từ",
+        "example_eng": "His family name is Nguyen.",
+        "example_vi": "Họ của anh ấy là Nguyễn."
+    },
+    {
+        "eng": "first name",
+        "vi": "tên",
+        "mean": "tên riêng của một người, thường là tên gọi.",
+        "type": "danh từ",
+        "example_eng": "Her first name is Mai.",
+        "example_vi": "Tên của cô ấy là Mai."
+    },
+    {
+        "eng": "full name",
+        "vi": "tên đầy đủ",
+        "mean": "tên đầy đủ của một người, bao gồm cả tên và họ.",
+        "type": "danh từ",
+        "example_eng": "Her full name is Mai Nguyen.",
+        "example_vi": "Tên đầy đủ của cô ấy là Mai Nguyễn."
+    },
+    {
+        "eng": "given name",
+        "vi": "tên",
+        "mean": "tên được đặt cho một người khi sinh ra, giống như 'first name'.",
+        "type": "danh từ",
+        "example_eng": "My given name is Hoa.",
+        "example_vi": "Tên của tôi là Hoa."
+    },
+    {
+        "eng": "go out",
+        "vi": "đi ra ngoài",
+        "mean": "rời khỏi một địa điểm hoặc tòa nhà.",
+        "type": "cụm từ",
+        "example_eng": "Let’s go out for dinner.",
+        "example_vi": "Hãy đi ra ngoài ăn tối."
+    },
+    {
+        "eng": "house",
+        "vi": "nhà",
+        "mean": "nơi cư trú của con người, thường có phòng ngủ, phòng khách, bếp.",
+        "type": "danh từ",
+        "example_eng": "They live in a big house.",
+        "example_vi": "Họ sống trong một ngôi nhà lớn."
+    },
+    {
+        "eng": "in",
+        "vi": "trong",
+        "mean": "ở bên trong một không gian hoặc vật nào đó.",
+        "type": "giới từ",
+        "example_eng": "The keys are in the bag.",
+        "example_vi": "Chìa khóa ở trong túi."
+    },
+    {
+        "eng": "last name",
+        "vi": "họ",
+        "mean": "họ của một người, tương tự như 'family name'.",
+        "type": "danh từ",
+        "example_eng": "Her last name is Tran.",
+        "example_vi": "Họ của cô ấy là Trần."
+    },
+    {
+        "eng": "live",
+        "vi": "sống",
+        "mean": "ở hoặc cư trú tại một nơi nào đó.",
+        "type": "động từ",
+        "example_eng": "I live in Vietnam.",
+        "example_vi": "Tôi sống ở Việt Nam."
+    },
+    {
+        "eng": "match",
+        "vi": "phù hợp",
+        "mean": "kết hợp hoặc tương ứng với nhau.",
+        "type": "động từ",
+        "example_eng": "The colors match well.",
+        "example_vi": "Màu sắc phù hợp với nhau."
+    },
+    {
+        "eng": "name",
+        "vi": "tên",
+        "mean": "danh xưng để gọi một người hoặc vật.",
+        "type": "danh từ",
+        "example_eng": "What is your name?",
+        "example_vi": "Tên của bạn là gì?"
+    },
+    {
+        "eng": "notebook",
+        "vi": "vở",
+        "mean": "sổ tay hoặc tập giấy để ghi chép.",
+        "type": "danh từ",
+        "example_eng": "I take notes in my notebook.",
+        "example_vi": "Tôi ghi chép vào vở của tôi."
+    },
+    {
+        "eng": "on",
+        "vi": "trên",
+        "mean": "ở trên một bề mặt hoặc vị trí nào đó.",
+        "type": "giới từ",
+        "example_eng": "The book is on the table.",
+        "example_vi": "Cuốn sách ở trên bàn."
+    },
+    {
+        "eng": "open",
+        "vi": "mở",
+        "mean": "di chuyển vật để lộ ra không gian hoặc lối vào.",
+        "type": "động từ",
+        "example_eng": "Please open the window.",
+        "example_vi": "Vui lòng mở cửa sổ."
+    },
+    {
+        "eng": "pencil",
+        "vi": "bút chì",
+        "mean": "dụng cụ dùng để viết hoặc vẽ, có lõi than chì.",
+        "type": "danh từ",
+        "example_eng": "I need a pencil to draw.",
+        "example_vi": "Tôi cần một cây bút chì để vẽ."
+    },
+    {
+        "eng": "pencil case",
+        "vi": "hộp bút",
+        "mean": "vật dụng để chứa bút và các dụng cụ học tập khác.",
+        "type": "danh từ",
+        "example_eng": "She put her pens in the pencil case.",
+        "example_vi": "Cô ấy để bút vào hộp bút."
+    },
+    {
+        "eng": "ruler",
+        "vi": "thước",
+        "mean": "dụng cụ dùng để đo hoặc vẽ đường thẳng.",
+        "type": "danh từ",
+        "example_eng": "I need a ruler to draw a straight line.",
+        "example_vi": "Tôi cần một chiếc thước để vẽ đường thẳng."
+    },
+    {
+        "eng": "say",
+        "vi": "nói",
+        "mean": "phát âm hoặc diễn đạt ý kiến bằng lời nói.",
+        "type": "động từ",
+        "example_eng": "What did you say?",
+        "example_vi": "Bạn đã nói gì?"
+    },
+    {
+        "eng": "school",
+        "vi": "trường học",
+        "mean": "nơi học sinh đến để học tập.",
+        "type": "danh từ",
+        "example_eng": "I go to school every day.",
+        "example_vi": "Tôi đi học mỗi ngày."
+    },
+    {
+        "eng": "school bag",
+        "vi": "cặp sách",
+        "mean": "túi dùng để mang sách vở và dụng cụ học tập đến trường.",
+        "type": "danh từ",
+        "example_eng": "He forgot his school bag at home.",
+        "example_vi": "Cậu ấy quên cặp sách ở nhà."
+    },
+    {
+        "eng": "sit down",
+        "vi": "ngồi xuống",
+        "mean": "hành động chuyển từ đứng sang ngồi.",
+        "type": "cụm từ",
+        "example_eng": "Please sit down.",
+        "example_vi": "Vui lòng ngồi xuống."
+    },
+    {
+        "eng": "spell",
+        "vi": "đánh vần",
+        "mean": "phát âm hoặc viết ra các chữ cái tạo thành một từ.",
+        "type": "động từ",
+        "example_eng": "Can you spell your name?",
+        "example_vi": "Bạn có thể đánh vần tên của bạn không?"
+    },
+    {
+        "eng": "stand up",
+        "vi": "đứng lên",
+        "mean": "hành động chuyển từ ngồi hoặc nằm sang đứng.",
+        "type": "cụm từ",
+        "example_eng": "Please stand up.",
+        "example_vi": "Vui lòng đứng lên."
+    },
+    {
+        "eng": "street",
+        "vi": "đường phố",
+        "mean": "lối đi công cộng, thường có xe cộ lưu thông.",
+        "type": "danh từ",
+        "example_eng": "The street is very busy today.",
+        "example_vi": "Hôm nay đường phố rất đông đúc."
+    },
+    {
+        "eng": "student",
+        "vi": "học sinh",
+        "mean": "người học tập tại một trường học.",
+        "type": "danh từ",
+        "example_eng": "She is a good student.",
+        "example_vi": "Cô ấy là một học sinh giỏi."
+    },
+    {
+        "eng": "surname",
+        "vi": "họ",
+        "mean": "tương tự như 'last name' hoặc 'family name'.",
+        "type": "danh từ",
+        "example_eng": "His surname is Le.",
+        "example_vi": "Họ của anh ấy là Lê."
+    },
+    {
+        "eng": "teacher",
+        "vi": "giáo viên",
+        "mean": "người hướng dẫn học sinh trong việc học tập.",
+        "type": "danh từ",
+        "example_eng": "My teacher is very kind.",
+        "example_vi": "Giáo viên của tôi rất tốt bụng."
+    },
+    {
+        "eng": "waste basket",
+        "vi": "thùng rác",
+        "mean": "vật dụng để chứa rác thải, thường đặt trong phòng.",
+        "type": "danh từ",
+        "example_eng": "Please put the trash in the waste basket.",
+        "example_vi": "Vui lòng bỏ rác vào thùng rác."
+    },
+    {
+        "eng": "window",
+        "vi": "cửa sổ",
+        "mean": "phần mở trên tường để ánh sáng và không khí vào phòng.",
+        "type": "danh từ",
+        "example_eng": "Can you open the window?",
+        "example_vi": "Bạn có thể mở cửa sổ không?"
     }
 ]
