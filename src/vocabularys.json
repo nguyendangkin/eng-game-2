@@ -1,234 +1,362 @@
 [
     {
-        "eng": "introduction",
-        "vi": "giới thiệu",
-        "mean": "phần đầu tiên của một văn bản, bài phát biểu, hoặc bài thuyết trình, trình bày nội dung chính hoặc mục tiêu.",
-        "type": "danh từ",
-        "example_eng": "the introduction of the report provides an overview of the main findings.",
-        "example_vi": "phần giới thiệu của báo cáo cung cấp cái nhìn tổng quan về các phát hiện chính."
-    },
-    {
-        "eng": "unassuming",
-        "vi": "khiêm tốn",
-        "mean": "không phô trương hay tự mãn; giản dị và không thu hút sự chú ý.",
-        "type": "tính từ",
-        "example_eng": "her unassuming nature made her very approachable.",
-        "example_vi": "tính cách khiêm tốn của cô ấy khiến mọi người rất dễ gần."
-    },
-    {
-        "eng": "in",
-        "vi": "trong",
-        "mean": "chỉ vị trí hoặc trạng thái bên trong một cái gì đó.",
-        "type": "giới từ",
-        "example_eng": "he is in the room.",
-        "example_vi": "anh ấy đang ở trong phòng."
-    },
-    {
-        "eng": "plot",
-        "vi": "cốt truyện",
-        "mean": "dòng sự kiện chính trong một tác phẩm văn học hoặc phim ảnh.",
-        "type": "danh từ",
-        "example_eng": "the plot of the novel was intricate and engaging.",
-        "example_vi": "cốt truyện của cuốn tiểu thuyết rất phức tạp và hấp dẫn."
-    },
-    {
-        "eng": "and",
-        "vi": "và",
-        "mean": "từ nối được sử dụng để kết nối hai hoặc nhiều yếu tố.",
-        "type": "liên từ",
-        "example_eng": "she likes tea and coffee.",
-        "example_vi": "cô ấy thích trà và cà phê."
-    },
-    {
-        "eng": "style",
-        "vi": "phong cách",
-        "mean": "cách thức mà một tác phẩm nghệ thuật hoặc văn học được thực hiện, thể hiện cá tính hoặc đặc trưng riêng.",
-        "type": "danh từ",
-        "example_eng": "his style of writing is very unique.",
-        "example_vi": "phong cách viết của anh ấy rất độc đáo."
-    },
-    {
-        "eng": "heidi",
-        "vi": "heidi",
-        "mean": "tên riêng của một cô gái trong một tác phẩm văn học nổi tiếng của Thụy Sĩ.",
-        "type": "danh từ riêng",
-        "example_eng": "heidi is a beloved character in children's literature.",
-        "example_vi": "heidi là một nhân vật được yêu thích trong văn học thiếu nhi."
-    },
-    {
-        "eng": "may",
-        "vi": "có thể",
-        "mean": "diễn tả khả năng hoặc sự cho phép.",
+        "eng": "are",
+        "vi": "là",
+        "mean": "là, hiện tại của động từ 'to be', dùng với các chủ ngữ số nhiều hoặc ngôi thứ hai số ít.",
         "type": "động từ",
-        "example_eng": "you may leave the room now.",
-        "example_vi": "bạn có thể rời khỏi phòng bây giờ."
+        "example_eng": "They are students.",
+        "example_vi": "Họ là học sinh."
     },
     {
-        "eng": "none",
-        "vi": "không ai",
-        "mean": "không cái nào; không người nào.",
+        "eng": "choose",
+        "vi": "chọn",
+        "mean": "quyết định chọn một hoặc một số tùy chọn từ một nhóm.",
+        "type": "động từ",
+        "example_eng": "She will choose a book to read.",
+        "example_vi": "Cô ấy sẽ chọn một cuốn sách để đọc."
+    },
+    {
+        "eng": "count",
+        "vi": "đếm",
+        "mean": "xác định số lượng hoặc tổng số thông qua việc đếm.",
+        "type": "động từ",
+        "example_eng": "The teacher asked the students to count to ten.",
+        "example_vi": "Giáo viên yêu cầu học sinh đếm đến mười."
+    },
+    {
+        "eng": "fine",
+        "vi": "khỏe",
+        "mean": "ở trạng thái tốt, không có vấn đề gì nghiêm trọng.",
+        "type": "tính từ",
+        "example_eng": "I am fine, thank you.",
+        "example_vi": "Tôi khỏe, cảm ơn."
+    },
+    {
+        "eng": "good afternoon",
+        "vi": "chào buổi chiều",
+        "mean": "lời chào dùng vào buổi chiều.",
+        "type": "cụm từ",
+        "example_eng": "Good afternoon, how are you?",
+        "example_vi": "Chào buổi chiều, bạn có khỏe không?"
+    },
+    {
+        "eng": "good evening",
+        "vi": "chào buổi tối",
+        "mean": "lời chào dùng vào buổi tối.",
+        "type": "cụm từ",
+        "example_eng": "Good evening, everyone.",
+        "example_vi": "Chào buổi tối, mọi người."
+    },
+    {
+        "eng": "good morning",
+        "vi": "chào buổi sáng",
+        "mean": "lời chào dùng vào buổi sáng.",
+        "type": "cụm từ",
+        "example_eng": "Good morning, how did you sleep?",
+        "example_vi": "Chào buổi sáng, bạn ngủ ngon không?"
+    },
+    {
+        "eng": "good night",
+        "vi": "chúc ngủ ngon",
+        "mean": "lời chúc trước khi đi ngủ.",
+        "type": "cụm từ",
+        "example_eng": "Good night, see you tomorrow.",
+        "example_vi": "Chúc ngủ ngon, hẹn gặp bạn ngày mai."
+    },
+    {
+        "eng": "goodbye",
+        "vi": "tạm biệt",
+        "mean": "lời chào khi chia tay.",
+        "type": "cụm từ",
+        "example_eng": "Goodbye, I will see you later.",
+        "example_vi": "Tạm biệt, tôi sẽ gặp bạn sau."
+    },
+    {
+        "eng": "he",
+        "vi": "anh ấy",
+        "mean": "đại từ chỉ ngôi thứ ba số ít nam giới.",
         "type": "đại từ",
-        "example_eng": "none of the answers were correct.",
-        "example_vi": "không ai trong số các câu trả lời là đúng."
+        "example_eng": "He is my friend.",
+        "example_vi": "Anh ấy là bạn của tôi."
     },
     {
-        "eng": "the",
-        "vi": "cái",
-        "mean": "mạo từ xác định dùng để chỉ một cái gì đó cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "the book on the table is mine.",
-        "example_vi": "cuốn sách trên bàn là của tôi."
+        "eng": "hello",
+        "vi": "xin chào",
+        "mean": "lời chào thông dụng khi gặp nhau.",
+        "type": "cụm từ",
+        "example_eng": "Hello, how are you?",
+        "example_vi": "Xin chào, bạn có khỏe không?"
     },
     {
-        "eng": "less",
-        "vi": "ít hơn",
-        "mean": "thể hiện sự giảm sút về số lượng hoặc mức độ.",
-        "type": "trạng từ",
-        "example_eng": "he is less experienced than she is.",
-        "example_vi": "anh ấy ít kinh nghiệm hơn cô ấy."
-    },
-    {
-        "eng": "lay",
-        "vi": "đặt",
-        "mean": "đặt cái gì đó xuống một bề mặt.",
-        "type": "động từ",
-        "example_eng": "please lay the book on the table.",
-        "example_vi": "xin hãy đặt cuốn sách lên bàn."
-    },
-    {
-        "eng": "claim",
-        "vi": "đòi hỏi",
-        "mean": "yêu cầu một cách chính đáng hoặc tuyên bố quyền sở hữu.",
-        "type": "động từ",
-        "example_eng": "she claimed the prize for her hard work.",
-        "example_vi": "cô ấy đã đòi hỏi giải thưởng cho sự nỗ lực của mình."
-    },
-    {
-        "eng": "to",
-        "vi": "đến",
-        "mean": "giới từ chỉ hướng hoặc mục đích.",
-        "type": "giới từ",
-        "example_eng": "he went to the store.",
-        "example_vi": "anh ấy đã đi đến cửa hàng."
-    },
-    {
-        "eng": "rank",
-        "vi": "hạng",
-        "mean": "vị trí hoặc cấp bậc trong một hệ thống phân loại.",
-        "type": "danh từ",
-        "example_eng": "she achieved a high rank in the competition.",
-        "example_vi": "cô ấy đạt được hạng cao trong cuộc thi."
-    },
-    {
-        "eng": "as",
-        "vi": "như",
-        "mean": "giới từ hoặc liên từ dùng để chỉ sự tương tự hoặc so sánh.",
-        "type": "liên từ",
-        "example_eng": "he works as a teacher.",
-        "example_vi": "anh ấy làm việc như một giáo viên."
-    },
-    {
-        "eng": "a",
-        "vi": "một",
-        "mean": "mạo từ không xác định dùng trước danh từ số ít.",
-        "type": "mạo từ",
-        "example_eng": "she is reading a book.",
-        "example_vi": "cô ấy đang đọc một cuốn sách."
-    },
-    {
-        "eng": "world",
-        "vi": "thế giới",
-        "mean": "toàn bộ trái đất và tất cả sự sống trên đó.",
-        "type": "danh từ",
-        "example_eng": "the world is full of diverse cultures.",
-        "example_vi": "thế giới đầy những nền văn hóa đa dạng."
-    },
-    {
-        "eng": "classic",
-        "vi": "kinh điển",
-        "mean": "một tác phẩm có giá trị lâu dài, thường được công nhận trong văn học, nghệ thuật hoặc âm nhạc.",
-        "type": "danh từ",
-        "example_eng": "this novel is considered a classic of literature.",
-        "example_vi": "tiểu thuyết này được coi là một tác phẩm kinh điển của văn học."
-    },
-    {
-        "eng": "in",
-        "vi": "trong",
-        "mean": "chỉ vị trí hoặc trạng thái bên trong một cái gì đó.",
-        "type": "giới từ",
-        "example_eng": "he is in the room.",
-        "example_vi": "anh ấy đang ở trong phòng."
-    },
-    {
-        "eng": "the",
-        "vi": "cái",
-        "mean": "mạo từ xác định dùng để chỉ một cái gì đó cụ thể.",
-        "type": "mạo từ",
-        "example_eng": "the book on the table is mine.",
-        "example_vi": "cuốn sách trên bàn là của tôi."
-    },
-    {
-        "eng": "first",
-        "vi": "đầu tiên",
-        "mean": "thể hiện thứ hạng cao nhất trong một chuỗi.",
-        "type": "tính từ",
-        "example_eng": "she was the first to arrive.",
-        "example_vi": "cô ấy là người đến đầu tiên."
-    },
-    {
-        "eng": "place",
-        "vi": "nơi chốn",
-        "mean": "một vị trí hoặc không gian cụ thể.",
-        "type": "danh từ",
-        "example_eng": "this is a nice place to relax.",
-        "example_vi": "đây là một nơi tốt để thư giãn."
-    },
-    {
-        "eng": "both",
-        "vi": "cả hai",
-        "mean": "dùng để chỉ hai người hoặc hai vật.",
+        "eng": "her",
+        "vi": "cô ấy",
+        "mean": "đại từ chỉ ngôi thứ ba số ít nữ giới, dùng làm tân ngữ.",
         "type": "đại từ",
-        "example_eng": "both options are good.",
-        "example_vi": "cả hai lựa chọn đều tốt."
+        "example_eng": "I gave her the book.",
+        "example_vi": "Tôi đã đưa cho cô ấy cuốn sách."
     },
     {
-        "eng": "background",
-        "vi": "bối cảnh",
-        "mean": "các yếu tố xung quanh một sự kiện, tình huống hoặc nhân vật.",
+        "eng": "hi",
+        "vi": "chào",
+        "mean": "lời chào thân mật, không chính thức.",
+        "type": "cụm từ",
+        "example_eng": "Hi, how’s it going?",
+        "example_vi": "Chào, mọi việc sao rồi?"
+    },
+    {
+        "eng": "his",
+        "vi": "của anh ấy",
+        "mean": "đại từ sở hữu của ngôi thứ ba số ít nam giới.",
+        "type": "đại từ sở hữu",
+        "example_eng": "That is his car.",
+        "example_vi": "Đó là xe của anh ấy."
+    },
+    {
+        "eng": "it",
+        "vi": "nó",
+        "mean": "đại từ chỉ vật hoặc con vật.",
+        "type": "đại từ",
+        "example_eng": "It is a beautiful day.",
+        "example_vi": "Hôm nay là một ngày đẹp trời."
+    },
+    {
+        "eng": "its",
+        "vi": "của nó",
+        "mean": "đại từ sở hữu của 'it', chỉ vật hoặc con vật.",
+        "type": "đại từ sở hữu",
+        "example_eng": "The dog wagged its tail.",
+        "example_vi": "Con chó vẫy đuôi của nó."
+    },
+    {
+        "eng": "madam",
+        "vi": "quý bà",
+        "mean": "cách gọi lịch sự dành cho một phụ nữ.",
         "type": "danh từ",
-        "example_eng": "the background of the story is very interesting.",
-        "example_vi": "bối cảnh của câu chuyện rất thú vị."
+        "example_eng": "Excuse me, madam, can I help you?",
+        "example_vi": "Xin lỗi quý bà, tôi có thể giúp gì không?"
     },
     {
-        "eng": "and",
-        "vi": "và",
-        "mean": "từ nối được sử dụng để kết nối hai hoặc nhiều yếu tố.",
-        "type": "liên từ",
-        "example_eng": "she likes tea and coffee.",
-        "example_vi": "cô ấy thích trà và cà phê."
-    },
-    {
-        "eng": "characters",
-        "vi": "nhân vật",
-        "mean": "các nhân vật trong một câu chuyện, tác phẩm văn học hoặc phim.",
+        "eng": "miss",
+        "vi": "cô",
+        "mean": "cách gọi dành cho phụ nữ chưa lập gia đình.",
         "type": "danh từ",
-        "example_eng": "the characters in the novel are well developed.",
-        "example_vi": "các nhân vật trong tiểu thuyết được phát triển rất tốt."
+        "example_eng": "Good morning, Miss.",
+        "example_vi": "Chào buổi sáng, cô."
     },
     {
-        "eng": "ring",
-        "vi": "vang lên",
-        "mean": "thể hiện sự chân thật hoặc đáng tin cậy.",
+        "eng": "my",
+        "vi": "của tôi",
+        "mean": "đại từ sở hữu của ngôi thứ nhất số ít.",
+        "type": "đại từ sở hữu",
+        "example_eng": "That is my book.",
+        "example_vi": "Đó là cuốn sách của tôi."
+    },
+    {
+        "eng": "our",
+        "vi": "của chúng tôi",
+        "mean": "đại từ sở hữu của ngôi thứ nhất số nhiều.",
+        "type": "đại từ sở hữu",
+        "example_eng": "Our house is big.",
+        "example_vi": "Nhà của chúng tôi rất lớn."
+    },
+    {
+        "eng": "she",
+        "vi": "cô ấy",
+        "mean": "đại từ chỉ ngôi thứ ba số ít nữ giới.",
+        "type": "đại từ",
+        "example_eng": "She is a teacher.",
+        "example_vi": "Cô ấy là giáo viên."
+    },
+    {
+        "eng": "sir",
+        "vi": "quý ông",
+        "mean": "cách gọi lịch sự dành cho một người đàn ông.",
+        "type": "danh từ",
+        "example_eng": "Excuse me, sir, can I help you?",
+        "example_vi": "Xin lỗi quý ông, tôi có thể giúp gì không?"
+    },
+    {
+        "eng": "thank",
+        "vi": "cảm ơn",
+        "mean": "bày tỏ sự biết ơn hoặc sự công nhận.",
         "type": "động từ",
-        "example_eng": "her words ring true to me.",
-        "example_vi": "lời nói của cô ấy vang lên chân thật với tôi."
+        "example_eng": "I want to thank you for your help.",
+        "example_vi": "Tôi muốn cảm ơn bạn vì đã giúp đỡ."
     },
     {
-        "eng": "true",
-        "vi": "chân thật",
-        "mean": "đúng, chính xác hoặc thể hiện thực tế.",
-        "type": "tính từ",
-        "example_eng": "it's true that she is talented.",
-        "example_vi": "đúng là cô ấy rất tài năng."
+        "eng": "their",
+        "vi": "của họ",
+        "mean": "đại từ sở hữu của ngôi thứ ba số nhiều.",
+        "type": "đại từ sở hữu",
+        "example_eng": "That is their house.",
+        "example_vi": "Đó là nhà của họ."
+    },
+    {
+        "eng": "they",
+        "vi": "họ",
+        "mean": "đại từ chỉ ngôi thứ ba số nhiều.",
+        "type": "đại từ",
+        "example_eng": "They are friends.",
+        "example_vi": "Họ là bạn bè."
+    },
+    {
+        "eng": "we",
+        "vi": "chúng tôi",
+        "mean": "đại từ chỉ ngôi thứ nhất số nhiều.",
+        "type": "đại từ",
+        "example_eng": "We are going to the park.",
+        "example_vi": "Chúng tôi đang đi đến công viên."
+    },
+    {
+        "eng": "you",
+        "vi": "bạn",
+        "mean": "đại từ chỉ ngôi thứ hai số ít hoặc số nhiều.",
+        "type": "đại từ",
+        "example_eng": "You are my friend.",
+        "example_vi": "Bạn là bạn của tôi."
+    },
+    {
+        "eng": "your",
+        "vi": "của bạn",
+        "mean": "đại từ sở hữu của ngôi thứ hai số ít hoặc số nhiều.",
+        "type": "đại từ sở hữu",
+        "example_eng": "That is your bag.",
+        "example_vi": "Đó là túi của bạn."
+    },
+    {
+        "eng": "child",
+        "vi": "đứa trẻ",
+        "mean": "một người ở độ tuổi nhỏ, thường dưới 12 tuổi.",
+        "type": "danh từ",
+        "example_eng": "The child is playing outside.",
+        "example_vi": "Đứa trẻ đang chơi ở ngoài."
+    },
+    {
+        "eng": "children",
+        "vi": "những đứa trẻ",
+        "mean": "hình thức số nhiều của 'child', chỉ nhiều đứa trẻ.",
+        "type": "danh từ",
+        "example_eng": "The children are playing in the park.",
+        "example_vi": "Những đứa trẻ đang chơi trong công viên."
+    },
+    {
+        "eng": "classmate",
+        "vi": "bạn cùng lớp",
+        "mean": "người học chung lớp với bạn.",
+        "type": "danh từ",
+        "example_eng": "She is my classmate.",
+        "example_vi": "Cô ấy là bạn cùng lớp của tôi."
+    },
+    {
+        "eng": "draw",
+        "vi": "vẽ",
+        "mean": "sử dụng bút hoặc bút chì để tạo ra hình ảnh trên giấy.",
+        "type": "động từ",
+        "example_eng": "I like to draw pictures.",
+        "example_vi": "Tôi thích vẽ tranh."
+    },
+    {
+        "eng": "exercise book",
+        "vi": "sách bài tập",
+        "mean": "một cuốn sách dùng để viết và làm bài tập.",
+        "type": "danh từ",
+        "example_eng": "I forgot my exercise book at home.",
+        "example_vi": "Tôi quên sách bài tập ở nhà."
+    },
+    {
+        "eng": "greeting",
+        "vi": "lời chào",
+        "mean": "lời nói hoặc cử chỉ chào hỏi khi gặp ai đó.",
+        "type": "danh từ",
+        "example_eng": "She gave me a warm greeting.",
+        "example_vi": "Cô ấy đã gửi tới tôi một lời chào nồng nhiệt."
+    },
+    {
+        "eng": "group",
+        "vi": "nhóm",
+        "mean": "một tập hợp nhiều người hoặc vật cùng nhau.",
+        "type": "danh từ",
+        "example_eng": "We work in a group.",
+        "example_vi": "Chúng tôi làm việc theo nhóm."
+    },
+    {
+        "eng": "listen",
+        "vi": "nghe",
+        "mean": "tập trung chú ý vào âm thanh.",
+        "type": "động từ",
+        "example_eng": "Please listen carefully.",
+        "example_vi": "Hãy lắng nghe cẩn thận."
+    },
+    {
+        "eng": "number",
+        "vi": "số",
+        "mean": "một ký hiệu hoặc giá trị đại diện cho số lượng.",
+        "type": "danh từ",
+        "example_eng": "What is your phone number?",
+        "example_vi": "Số điện thoại của bạn là gì?"
+    },
+    {
+        "eng": "partner",
+        "vi": "đối tác",
+        "mean": "một người hoặc một tổ chức cùng làm việc với nhau để đạt được mục tiêu chung.",
+        "type": "danh từ",
+        "example_eng": "He is my business partner.",
+        "example_vi": "Anh ấy là đối tác kinh doanh của tôi."
+    },
+    {
+        "eng": "play",
+        "vi": "chơi",
+        "mean": "thực hiện một hoạt động để giải trí hoặc tham gia trò chơi.",
+        "type": "động từ",
+        "example_eng": "The children are playing in the yard.",
+        "example_vi": "Những đứa trẻ đang chơi trong sân."
+    },
+    {
+        "eng": "practice",
+        "vi": "luyện tập",
+        "mean": "thực hiện một hành động nhiều lần để cải thiện kỹ năng.",
+        "type": "động từ",
+        "example_eng": "I need to practice my English.",
+        "example_vi": "Tôi cần luyện tập tiếng Anh của mình."
+    },
+    {
+        "eng": "remember",
+        "vi": "nhớ",
+        "mean": "giữ thông tin trong trí nhớ hoặc không quên.",
+        "type": "động từ",
+        "example_eng": "I remember your name.",
+        "example_vi": "Tôi nhớ tên của bạn."
+    },
+    {
+        "eng": "repeat",
+        "vi": "lặp lại",
+        "mean": "thực hiện lại một hành động hoặc lời nói nhiều lần.",
+        "type": "động từ",
+        "example_eng": "Can you repeat that, please?",
+        "example_vi": "Bạn có thể lặp lại điều đó được không?"
+    },
+    {
+        "eng": "say",
+        "vi": "nói",
+        "mean": "diễn đạt suy nghĩ, ý kiến hoặc thông tin bằng lời nói.",
+        "type": "động từ",
+        "example_eng": "What did you say?",
+        "example_vi": "Bạn đã nói gì?"
+    },
+    {
+        "eng": "square",
+        "vi": "hình vuông",
+        "mean": "một hình có bốn cạnh bằng nhau và bốn góc vuông.",
+        "type": "danh từ",
+        "example_eng": "The table is in the shape of a square.",
+        "example_vi": "Cái bàn có hình dạng của một hình vuông."
+    },
+    {
+        "eng": "write",
+        "vi": "viết",
+        "mean": "sử dụng bút, bút chì, hoặc bàn phím để tạo ra văn bản.",
+        "type": "động từ",
+        "example_eng": "Please write your name here.",
+        "example_vi": "Vui lòng viết tên của bạn ở đây."
     }
 ]
