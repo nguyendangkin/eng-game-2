@@ -998,5 +998,309 @@
         "type": "danh từ",
         "example_eng": "She has a younger sister.",
         "example_vi": "Cô ấy có một em gái."
+    },
+    {
+        "eng": "big",
+        "vi": "to",
+        "mean": "có kích thước lớn hoặc nhiều hơn bình thường.",
+        "type": "tính từ",
+        "example_eng": "That house is big.",
+        "example_vi": "Ngôi nhà đó to lớn."
+    },
+    {
+        "eng": "breakfast",
+        "vi": "bữa sáng",
+        "mean": "bữa ăn đầu tiên trong ngày, thường vào buổi sáng.",
+        "type": "danh từ",
+        "example_eng": "I had eggs for breakfast.",
+        "example_vi": "Tôi đã ăn trứng cho bữa sáng."
+    },
+    {
+        "eng": "brush",
+        "vi": "chải",
+        "mean": "hành động làm sạch hoặc sắp xếp gọn gàng, thường bằng một bàn chải.",
+        "type": "động từ",
+        "example_eng": "I brush my teeth every morning.",
+        "example_vi": "Tôi chải răng mỗi buổi sáng."
+    },
+    {
+        "eng": "class",
+        "vi": "lớp học",
+        "mean": "một nhóm học sinh học cùng nhau, hoặc thời gian dành cho việc học tập.",
+        "type": "danh từ",
+        "example_eng": "We have math class today.",
+        "example_vi": "Chúng tôi có lớp toán hôm nay."
+    },
+    {
+        "eng": "country",
+        "vi": "đất nước",
+        "mean": "vùng lãnh thổ có chính phủ và luật pháp riêng.",
+        "type": "danh từ",
+        "example_eng": "Vietnam is a beautiful country.",
+        "example_vi": "Việt Nam là một đất nước đẹp."
+    },
+    {
+        "eng": "dinner",
+        "vi": "bữa tối",
+        "mean": "bữa ăn chính vào buổi tối.",
+        "type": "danh từ",
+        "example_eng": "We had pasta for dinner.",
+        "example_vi": "Chúng tôi đã ăn mỳ cho bữa tối."
+    },
+    {
+        "eng": "do",
+        "vi": "làm",
+        "mean": "thực hiện hành động hoặc công việc nào đó.",
+        "type": "động từ",
+        "example_eng": "I do my homework every day.",
+        "example_vi": "Tôi làm bài tập về nhà mỗi ngày."
+    },
+    {
+        "eng": "doctor",
+        "vi": "bác sĩ",
+        "mean": "người chuyên chăm sóc sức khỏe và chữa bệnh.",
+        "type": "danh từ",
+        "example_eng": "The doctor gave me medicine.",
+        "example_vi": "Bác sĩ đã cho tôi thuốc."
+    },
+    {
+        "eng": "engineer",
+        "vi": "kỹ sư",
+        "mean": "người thiết kế, xây dựng và bảo trì hệ thống hoặc cấu trúc kỹ thuật.",
+        "type": "danh từ",
+        "example_eng": "She works as an engineer.",
+        "example_vi": "Cô ấy làm việc như một kỹ sư."
+    },
+    {
+        "eng": "every",
+        "vi": "mỗi",
+        "mean": "tất cả các thành viên hoặc phần của một nhóm, một cách đều đặn.",
+        "type": "tính từ",
+        "example_eng": "I go to the gym every day.",
+        "example_vi": "Tôi đi tập gym mỗi ngày."
+    },
+    {
+        "eng": "face",
+        "vi": "khuôn mặt",
+        "mean": "phần trước của đầu người, bao gồm mắt, mũi, miệng.",
+        "type": "danh từ",
+        "example_eng": "She has a kind face.",
+        "example_vi": "Cô ấy có khuôn mặt hiền từ."
+    },
+    {
+        "eng": "floor",
+        "vi": "sàn nhà",
+        "mean": "bề mặt phẳng trong một tòa nhà mà người ta đi lại trên đó.",
+        "type": "danh từ",
+        "example_eng": "The floor is made of wood.",
+        "example_vi": "Sàn nhà được làm bằng gỗ."
+    },
+    {
+        "eng": "get dressed",
+        "vi": "mặc quần áo",
+        "mean": "hành động mặc quần áo lên người.",
+        "type": "cụm từ",
+        "example_eng": "I get dressed quickly in the morning.",
+        "example_vi": "Tôi mặc quần áo nhanh chóng vào buổi sáng."
+    },
+    {
+        "eng": "get ready",
+        "vi": "chuẩn bị",
+        "mean": "chuẩn bị cho một hoạt động sắp diễn ra.",
+        "type": "cụm từ",
+        "example_eng": "I need to get ready for school.",
+        "example_vi": "Tôi cần chuẩn bị cho buổi học."
+    },
+    {
+        "eng": "get up",
+        "vi": "dậy",
+        "mean": "hành động thức dậy và ra khỏi giường.",
+        "type": "cụm từ",
+        "example_eng": "I get up at 7 AM every day.",
+        "example_vi": "Tôi dậy vào lúc 7 giờ sáng mỗi ngày."
+    },
+    {
+        "eng": "go",
+        "vi": "đi",
+        "mean": "di chuyển từ một nơi này đến nơi khác.",
+        "type": "động từ",
+        "example_eng": "We go to the park on Sundays.",
+        "example_vi": "Chúng tôi đi công viên vào chủ nhật."
+    },
+    {
+        "eng": "grade",
+        "vi": "điểm số",
+        "mean": "đánh giá mức độ hoàn thành của một nhiệm vụ học tập.",
+        "type": "danh từ",
+        "example_eng": "She got a good grade on the test.",
+        "example_vi": "Cô ấy được điểm cao trong bài kiểm tra."
+    },
+    {
+        "eng": "half",
+        "vi": "một nửa",
+        "mean": "một phần chia đôi của tổng số hoặc đơn vị.",
+        "type": "danh từ",
+        "example_eng": "Half of the cake is gone.",
+        "example_vi": "Một nửa cái bánh đã hết."
+    },
+    {
+        "eng": "have",
+        "vi": "có",
+        "mean": "sở hữu hoặc nắm giữ một cái gì đó.",
+        "type": "động từ",
+        "example_eng": "I have a new book.",
+        "example_vi": "Tôi có một quyển sách mới."
+    },
+    {
+        "eng": "late",
+        "vi": "muộn",
+        "mean": "xảy ra hoặc đến sau thời điểm mong đợi.",
+        "type": "tính từ",
+        "example_eng": "She is always late to class.",
+        "example_vi": "Cô ấy luôn đến lớp muộn."
+    },
+    {
+        "eng": "lunch",
+        "vi": "bữa trưa",
+        "mean": "bữa ăn chính vào giữa ngày.",
+        "type": "danh từ",
+        "example_eng": "We had sandwiches for lunch.",
+        "example_vi": "Chúng tôi đã ăn bánh mì kẹp cho bữa trưa."
+    },
+    {
+        "eng": "midday",
+        "vi": "giữa trưa",
+        "mean": "thời điểm giữa ngày, thường là 12 giờ trưa.",
+        "type": "danh từ",
+        "example_eng": "We meet at midday.",
+        "example_vi": "Chúng tôi gặp nhau vào giữa trưa."
+    },
+    {
+        "eng": "midnight",
+        "vi": "nửa đêm",
+        "mean": "thời điểm 12 giờ đêm, khi một ngày kết thúc.",
+        "type": "danh từ",
+        "example_eng": "They arrived home at midnight.",
+        "example_vi": "Họ về nhà vào lúc nửa đêm."
+    },
+    {
+        "eng": "minute",
+        "vi": "phút",
+        "mean": "đơn vị thời gian, bằng 60 giây.",
+        "type": "danh từ",
+        "example_eng": "We will leave in five minutes.",
+        "example_vi": "Chúng ta sẽ rời đi trong năm phút."
+    },
+    {
+        "eng": "nurse",
+        "vi": "y tá",
+        "mean": "người chăm sóc bệnh nhân trong bệnh viện hoặc cơ sở y tế.",
+        "type": "danh từ",
+        "example_eng": "The nurse helped the patient.",
+        "example_vi": "Y tá đã giúp bệnh nhân."
+    },
+    {
+        "eng": "past",
+        "vi": "quá",
+        "mean": "chỉ thời gian đã vượt qua một điểm cố định.",
+        "type": "giới từ",
+        "example_eng": "It's ten past six.",
+        "example_vi": "Giờ là sáu giờ mười phút."
+    },
+    {
+        "eng": "quarter",
+        "vi": "một phần tư",
+        "mean": "một phần chia làm bốn phần bằng nhau.",
+        "type": "danh từ",
+        "example_eng": "A quarter of the pizza is left.",
+        "example_vi": "Còn lại một phần tư chiếc pizza."
+    },
+    {
+        "eng": "small",
+        "vi": "nhỏ",
+        "mean": "có kích thước nhỏ hơn bình thường.",
+        "type": "tính từ",
+        "example_eng": "This shirt is too small for me.",
+        "example_vi": "Cái áo này quá nhỏ đối với tôi."
+    },
+    {
+        "eng": "supper",
+        "vi": "bữa ăn tối muộn",
+        "mean": "bữa ăn nhẹ vào buổi tối muộn.",
+        "type": "danh từ",
+        "example_eng": "They had soup for supper.",
+        "example_vi": "Họ ăn súp cho bữa tối muộn."
+    },
+    {
+        "eng": "teeth",
+        "vi": "răng",
+        "mean": "các cơ quan cứng trong miệng dùng để cắn và nhai.",
+        "type": "danh từ",
+        "example_eng": "She brushes her teeth after meals.",
+        "example_vi": "Cô ấy chải răng sau mỗi bữa ăn."
+    },
+    {
+        "eng": "then",
+        "vi": "sau đó",
+        "mean": "chỉ thời điểm xảy ra sau một hành động khác.",
+        "type": "trạng từ",
+        "example_eng": "We had lunch, then went for a walk.",
+        "example_vi": "Chúng tôi đã ăn trưa, sau đó đi dạo."
+    },
+    {
+        "eng": "time",
+        "vi": "thời gian",
+        "mean": "khoảng thời gian đã qua hoặc sẽ đến.",
+        "type": "danh từ",
+        "example_eng": "What time is it?",
+        "example_vi": "Mấy giờ rồi?"
+    },
+    {
+        "eng": "to",
+        "vi": "đến",
+        "mean": "di chuyển hoặc hướng tới một địa điểm hoặc thời gian cụ thể.",
+        "type": "giới từ",
+        "example_eng": "I will go to the park.",
+        "example_vi": "Tôi sẽ đến công viên."
+    },
+    {
+        "eng": "tooth",
+        "vi": "răng",
+        "mean": "một trong những cấu trúc cứng, nhỏ trong miệng.",
+        "type": "danh từ",
+        "example_eng": "I lost a tooth.",
+        "example_vi": "Tôi đã bị rụng một cái răng."
+    },
+    {
+        "eng": "toothbrush",
+        "vi": "bàn chải đánh răng",
+        "mean": "dụng cụ dùng để chải răng.",
+        "type": "danh từ",
+        "example_eng": "Don't forget your toothbrush!",
+        "example_vi": "Đừng quên bàn chải đánh răng của bạn!"
+    },
+    {
+        "eng": "very",
+        "vi": "rất",
+        "mean": "biểu hiện mức độ cao của một tính chất.",
+        "type": "trạng từ",
+        "example_eng": "It is very hot today.",
+        "example_vi": "Hôm nay trời rất nóng."
+    },
+    {
+        "eng": "wash",
+        "vi": "rửa",
+        "mean": "làm sạch bằng nước và thường là xà phòng.",
+        "type": "động từ",
+        "example_eng": "I wash my hands before eating.",
+        "example_vi": "Tôi rửa tay trước khi ăn."
+    },
+    {
+        "eng": "which",
+        "vi": "cái nào",
+        "mean": "dùng để hỏi về sự lựa chọn giữa nhiều tùy chọn.",
+        "type": "đại từ",
+        "example_eng": "Which one do you prefer?",
+        "example_vi": "Bạn thích cái nào hơn?"
     }
 ]
