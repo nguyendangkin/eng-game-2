@@ -702,5 +702,301 @@
         "type": "danh từ",
         "example_eng": "Can you open the window?",
         "example_vi": "Bạn có thể mở cửa sổ không?"
+    },
+    {
+        "eng": "armchair",
+        "vi": "ghế bành",
+        "mean": "một loại ghế có tay vịn và lưng tựa thoải mái.",
+        "type": "danh từ",
+        "example_eng": "He sat in the armchair by the window.",
+        "example_vi": "Anh ấy ngồi trên ghế bành cạnh cửa sổ."
+    },
+    {
+        "eng": "bench",
+        "vi": "ghế dài",
+        "mean": "ghế dài, thường được làm bằng gỗ hoặc kim loại, có thể dùng cho nhiều người ngồi.",
+        "type": "danh từ",
+        "example_eng": "We sat on the bench in the park.",
+        "example_vi": "Chúng tôi ngồi trên ghế dài trong công viên."
+    },
+    {
+        "eng": "bookshelf",
+        "vi": "giá sách",
+        "mean": "nơi để xếp sách, thường đặt trong nhà hoặc thư viện.",
+        "type": "danh từ",
+        "example_eng": "She put her books on the bookshelf.",
+        "example_vi": "Cô ấy đặt sách lên giá sách."
+    },
+    {
+        "eng": "brother",
+        "vi": "anh/em trai",
+        "mean": "người đàn ông có cùng cha mẹ với bạn.",
+        "type": "danh từ",
+        "example_eng": "I have one brother.",
+        "example_vi": "Tôi có một người anh trai."
+    },
+    {
+        "eng": "chair",
+        "vi": "ghế",
+        "mean": "một vật dụng để ngồi, thường có lưng tựa.",
+        "type": "danh từ",
+        "example_eng": "Please sit on the chair.",
+        "example_vi": "Vui lòng ngồi trên ghế."
+    },
+    {
+        "eng": "daughter",
+        "vi": "con gái",
+        "mean": "người con gái của cha mẹ.",
+        "type": "danh từ",
+        "example_eng": "She has a daughter.",
+        "example_vi": "Cô ấy có một cô con gái."
+    },
+    {
+        "eng": "doctor",
+        "vi": "bác sĩ",
+        "mean": "người chuyên về chăm sóc sức khỏe và chữa bệnh.",
+        "type": "danh từ",
+        "example_eng": "The doctor is checking the patient.",
+        "example_vi": "Bác sĩ đang kiểm tra bệnh nhân."
+    },
+    {
+        "eng": "eighty",
+        "vi": "tám mươi",
+        "mean": "con số 80.",
+        "type": "số đếm",
+        "example_eng": "He is eighty years old.",
+        "example_vi": "Ông ấy tám mươi tuổi."
+    },
+    {
+        "eng": "engineer",
+        "vi": "kỹ sư",
+        "mean": "người làm việc về thiết kế và xây dựng công trình kỹ thuật.",
+        "type": "danh từ",
+        "example_eng": "My father is an engineer.",
+        "example_vi": "Bố tôi là một kỹ sư."
+    },
+    {
+        "eng": "father",
+        "vi": "cha",
+        "mean": "người đàn ông có con.",
+        "type": "danh từ",
+        "example_eng": "My father is very kind.",
+        "example_vi": "Cha tôi rất tốt bụng."
+    },
+    {
+        "eng": "fifty",
+        "vi": "năm mươi",
+        "mean": "con số 50.",
+        "type": "số đếm",
+        "example_eng": "She is fifty years old.",
+        "example_vi": "Cô ấy năm mươi tuổi."
+    },
+    {
+        "eng": "forty",
+        "vi": "bốn mươi",
+        "mean": "con số 40.",
+        "type": "số đếm",
+        "example_eng": "He is forty years old.",
+        "example_vi": "Anh ấy bốn mươi tuổi."
+    },
+    {
+        "eng": "game",
+        "vi": "trò chơi",
+        "mean": "hoạt động giải trí hoặc thi đấu có luật lệ.",
+        "type": "danh từ",
+        "example_eng": "They are playing a game.",
+        "example_vi": "Họ đang chơi trò chơi."
+    },
+    {
+        "eng": "grandfather",
+        "vi": "ông",
+        "mean": "cha của cha hoặc mẹ bạn.",
+        "type": "danh từ",
+        "example_eng": "My grandfather tells great stories.",
+        "example_vi": "Ông của tôi kể những câu chuyện rất hay."
+    },
+    {
+        "eng": "grandmother",
+        "vi": "bà",
+        "mean": "mẹ của cha hoặc mẹ bạn.",
+        "type": "danh từ",
+        "example_eng": "I visit my grandmother every weekend.",
+        "example_vi": "Tôi thăm bà tôi mỗi cuối tuần."
+    },
+    {
+        "eng": "home",
+        "vi": "nhà",
+        "mean": "nơi bạn sống, thường có gia đình.",
+        "type": "danh từ",
+        "example_eng": "I feel safe at home.",
+        "example_vi": "Tôi cảm thấy an toàn ở nhà."
+    },
+    {
+        "eng": "house",
+        "vi": "ngôi nhà",
+        "mean": "tòa nhà dùng làm nơi ở.",
+        "type": "danh từ",
+        "example_eng": "They bought a new house.",
+        "example_vi": "Họ đã mua một ngôi nhà mới."
+    },
+    {
+        "eng": "how many",
+        "vi": "bao nhiêu",
+        "mean": "câu hỏi về số lượng.",
+        "type": "cụm từ",
+        "example_eng": "How many books do you have?",
+        "example_vi": "Bạn có bao nhiêu cuốn sách?"
+    },
+    {
+        "eng": "job",
+        "vi": "công việc",
+        "mean": "việc làm mà ai đó thực hiện để kiếm sống.",
+        "type": "danh từ",
+        "example_eng": "She loves her job as a teacher.",
+        "example_vi": "Cô ấy yêu công việc của mình làm giáo viên."
+    },
+    {
+        "eng": "lamp",
+        "vi": "đèn",
+        "mean": "thiết bị chiếu sáng, thường dùng trong nhà.",
+        "type": "danh từ",
+        "example_eng": "I need a lamp for my desk.",
+        "example_vi": "Tôi cần một chiếc đèn cho bàn làm việc của tôi."
+    },
+    {
+        "eng": "living room",
+        "vi": "phòng khách",
+        "mean": "phòng trong nhà dùng để tiếp khách hoặc thư giãn.",
+        "type": "danh từ",
+        "example_eng": "We watch TV in the living room.",
+        "example_vi": "Chúng tôi xem TV ở phòng khách."
+    },
+    {
+        "eng": "mother",
+        "vi": "mẹ",
+        "mean": "người phụ nữ có con.",
+        "type": "danh từ",
+        "example_eng": "My mother is very caring.",
+        "example_vi": "Mẹ tôi rất quan tâm."
+    },
+    {
+        "eng": "nurse",
+        "vi": "y tá",
+        "mean": "người chăm sóc bệnh nhân trong bệnh viện hoặc phòng khám.",
+        "type": "danh từ",
+        "example_eng": "The nurse helped the doctor.",
+        "example_vi": "Y tá đã giúp bác sĩ."
+    },
+    {
+        "eng": "one hundred",
+        "vi": "một trăm",
+        "mean": "con số 100.",
+        "type": "số đếm",
+        "example_eng": "He counted to one hundred.",
+        "example_vi": "Anh ấy đã đếm đến một trăm."
+    },
+    {
+        "eng": "people",
+        "vi": "người",
+        "mean": "một nhóm cá nhân, thường nhiều hơn một.",
+        "type": "danh từ",
+        "example_eng": "There are many people at the park.",
+        "example_vi": "Có rất nhiều người ở công viên."
+    },
+    {
+        "eng": "seventy",
+        "vi": "bảy mươi",
+        "mean": "con số 70.",
+        "type": "số đếm",
+        "example_eng": "He is seventy years old.",
+        "example_vi": "Ông ấy bảy mươi tuổi."
+    },
+    {
+        "eng": "sister",
+        "vi": "chị/em gái",
+        "mean": "người phụ nữ có cùng cha mẹ với bạn.",
+        "type": "danh từ",
+        "example_eng": "I have two sisters.",
+        "example_vi": "Tôi có hai chị em gái."
+    },
+    {
+        "eng": "sixty",
+        "vi": "sáu mươi",
+        "mean": "con số 60.",
+        "type": "số đếm",
+        "example_eng": "She is sixty years old.",
+        "example_vi": "Cô ấy sáu mươi tuổi."
+    },
+    {
+        "eng": "son",
+        "vi": "con trai",
+        "mean": "người con trai của cha mẹ.",
+        "type": "danh từ",
+        "example_eng": "They have a son.",
+        "example_vi": "Họ có một cậu con trai."
+    },
+    {
+        "eng": "stool",
+        "vi": "ghế đẩu",
+        "mean": "ghế không có lưng tựa, thường dùng trong quán ăn.",
+        "type": "danh từ",
+        "example_eng": "She sat on a stool at the counter.",
+        "example_vi": "Cô ấy ngồi trên một chiếc ghế đẩu ở quầy."
+    },
+    {
+        "eng": "table",
+        "vi": "bàn",
+        "mean": "một bề mặt phẳng dùng để làm việc hoặc ăn uống.",
+        "type": "danh từ",
+        "example_eng": "The table is in the dining room.",
+        "example_vi": "Cái bàn nằm trong phòng ăn."
+    },
+    {
+        "eng": "telephone",
+        "vi": "điện thoại",
+        "mean": "thiết bị dùng để liên lạc bằng giọng nói qua khoảng cách xa.",
+        "type": "danh từ",
+        "example_eng": "I need to call her on the telephone.",
+        "example_vi": "Tôi cần gọi cho cô ấy qua điện thoại."
+    },
+    {
+        "eng": "television",
+        "vi": "ti vi",
+        "mean": "thiết bị phát hình ảnh và âm thanh, thường để giải trí.",
+        "type": "danh từ",
+        "example_eng": "They watched the news on television.",
+        "example_vi": "Họ xem tin tức trên ti vi."
+    },
+    {
+        "eng": "thirty",
+        "vi": "ba mươi",
+        "mean": "con số 30.",
+        "type": "số đếm",
+        "example_eng": "She is thirty years old.",
+        "example_vi": "Cô ấy ba mươi tuổi."
+    },
+    {
+        "eng": "who",
+        "vi": "ai",
+        "mean": "câu hỏi về danh tính của một người.",
+        "type": "đại từ",
+        "example_eng": "Who is she?",
+        "example_vi": "Cô ấy là ai?"
+    },
+    {
+        "eng": "younger brother",
+        "vi": "em trai",
+        "mean": "người em trai nhỏ tuổi hơn.",
+        "type": "danh từ",
+        "example_eng": "He has a younger brother.",
+        "example_vi": "Anh ấy có một em trai."
+    },
+    {
+        "eng": "younger sister",
+        "vi": "em gái",
+        "mean": "người em gái nhỏ tuổi hơn.",
+        "type": "danh từ",
+        "example_eng": "She has a younger sister.",
+        "example_vi": "Cô ấy có một em gái."
     }
 ]
