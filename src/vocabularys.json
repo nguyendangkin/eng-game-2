@@ -1302,5 +1302,133 @@
         "type": "đại từ",
         "example_eng": "Which one do you prefer?",
         "example_vi": "Bạn thích cái nào hơn?"
+    },
+    {
+        "eng": "action",
+        "vi": "hành động",
+        "mean": "việc làm hoặc cách thực hiện một việc cụ thể.",
+        "type": "danh từ",
+        "example_eng": "Every action has a consequence.",
+        "example_vi": "Mỗi hành động đều có hệ quả."
+    },
+    {
+        "eng": "after",
+        "vi": "sau",
+        "mean": "xảy ra hoặc đến sau một sự kiện hoặc thời điểm.",
+        "type": "giới từ",
+        "example_eng": "We went home after the movie.",
+        "example_vi": "Chúng tôi về nhà sau khi xem phim."
+    },
+    {
+        "eng": "badminton",
+        "vi": "cầu lông",
+        "mean": "một môn thể thao trong đó người chơi dùng vợt để đánh quả cầu qua lưới.",
+        "type": "danh từ",
+        "example_eng": "She plays badminton every weekend.",
+        "example_vi": "Cô ấy chơi cầu lông mỗi cuối tuần."
+    },
+    {
+        "eng": "begin",
+        "vi": "bắt đầu",
+        "mean": "bắt đầu làm một việc gì đó hoặc một việc gì đó bắt đầu diễn ra.",
+        "type": "động từ",
+        "example_eng": "The class will begin at 8 AM.",
+        "example_vi": "Lớp học sẽ bắt đầu lúc 8 giờ sáng."
+    },
+    {
+        "eng": "biology",
+        "vi": "sinh học",
+        "mean": "ngành khoa học nghiên cứu về sự sống và các sinh vật sống.",
+        "type": "danh từ",
+        "example_eng": "Biology is my favorite subject.",
+        "example_vi": "Sinh học là môn yêu thích của tôi."
+    },
+    {
+        "eng": "canteen",
+        "vi": "nhà ăn",
+        "mean": "nơi trong trường học hoặc công ty, nơi mọi người có thể mua đồ ăn.",
+        "type": "danh từ",
+        "example_eng": "We had lunch in the canteen.",
+        "example_vi": "Chúng tôi ăn trưa trong nhà ăn."
+    },
+    {
+        "eng": "day",
+        "vi": "ngày",
+        "mean": "đơn vị thời gian bằng 24 giờ hoặc khoảng thời gian ánh sáng ban ngày.",
+        "type": "danh từ",
+        "example_eng": "We will meet in three days.",
+        "example_vi": "Chúng ta sẽ gặp nhau sau ba ngày."
+    },
+    {
+        "eng": "eat",
+        "vi": "ăn",
+        "mean": "hành động nhai và nuốt thức ăn.",
+        "type": "động từ",
+        "example_eng": "I eat breakfast at 7 AM.",
+        "example_vi": "Tôi ăn sáng lúc 7 giờ sáng."
+    },
+    {
+        "eng": "every day",
+        "vi": "mỗi ngày",
+        "mean": "xảy ra hoặc diễn ra hàng ngày.",
+        "type": "cụm từ",
+        "example_eng": "I exercise every day.",
+        "example_vi": "Tôi tập thể dục mỗi ngày."
+    },
+    {
+        "eng": "finish",
+        "vi": "kết thúc",
+        "mean": "hoàn thành hoặc làm xong một việc gì đó.",
+        "type": "động từ",
+        "example_eng": "I finish my homework before dinner.",
+        "example_vi": "Tôi hoàn thành bài tập trước bữa tối."
+    },
+    {
+        "eng": "friday",
+        "vi": "thứ sáu",
+        "mean": "ngày trong tuần, sau thứ năm và trước thứ bảy.",
+        "type": "danh từ",
+        "example_eng": "We have a meeting on Friday.",
+        "example_vi": "Chúng ta có cuộc họp vào thứ sáu."
+    },
+    {
+        "eng": "game",
+        "vi": "trò chơi",
+        "mean": "hoạt động vui chơi hoặc thi đấu có luật lệ, thường để giải trí.",
+        "type": "danh từ",
+        "example_eng": "We played a game after school.",
+        "example_vi": "Chúng tôi chơi một trò chơi sau giờ học."
+    },
+    {
+        "eng": "geography",
+        "vi": "địa lý",
+        "mean": "ngành khoa học nghiên cứu về bề mặt trái đất, các quốc gia và địa hình.",
+        "type": "danh từ",
+        "example_eng": "Geography helps us understand the world.",
+        "example_vi": "Địa lý giúp chúng ta hiểu về thế giới."
+    },
+    {
+        "eng": "girl",
+        "vi": "cô gái",
+        "mean": "trẻ em hoặc người nữ.",
+        "type": "danh từ",
+        "example_eng": "The girl is playing in the park.",
+        "example_vi": "Cô bé đang chơi ở công viên."
+    },
+    {
+        "eng": "history",
+        "vi": "lịch sử",
+        "mean": "ngành khoa học nghiên cứu về các sự kiện và con người trong quá khứ.",
+        "type": "danh từ",
+        "example_eng": "I love learning about history.",
+        "example_vi": "Tôi thích học về lịch sử."
+    },
+    {
+        "eng": "holiday",
+        "vi": "kỳ nghỉ",
+        "mean": "thời gian nghỉ ngơi hoặc vui chơi, không làm việc hoặc học tập.",
+        "type": "danh từ",
+        "example_eng": "We are going on holiday next week.",
+        "example_vi": "Chúng tôi sẽ đi nghỉ vào tuần sau."
     }
 ]
