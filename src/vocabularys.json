@@ -1430,5 +1430,421 @@
         "type": "danh từ",
         "example_eng": "We are going on holiday next week.",
         "example_vi": "Chúng tôi sẽ đi nghỉ vào tuần sau."
+    },
+    {
+        "eng": "among",
+        "vi": "giữa",
+        "mean": "nằm trong hoặc giữa nhiều thứ hoặc người.",
+        "type": "giới từ",
+        "example_eng": "She was sitting among her friends.",
+        "example_vi": "Cô ấy đang ngồi giữa bạn bè."
+    },
+    {
+        "eng": "bakery",
+        "vi": "tiệm bánh",
+        "mean": "nơi làm và bán bánh mì, bánh ngọt.",
+        "type": "danh từ",
+        "example_eng": "I bought some bread from the bakery.",
+        "example_vi": "Tôi đã mua một ít bánh mì từ tiệm bánh."
+    },
+    {
+        "eng": "beautiful",
+        "vi": "đẹp",
+        "mean": "rất dễ nhìn, gây ấn tượng tốt về hình thức.",
+        "type": "tính từ",
+        "example_eng": "The garden is beautiful in spring.",
+        "example_vi": "Khu vườn rất đẹp vào mùa xuân."
+    },
+    {
+        "eng": "behind",
+        "vi": "phía sau",
+        "mean": "ở hoặc về phía sau một vị trí hoặc sự vật.",
+        "type": "giới từ",
+        "example_eng": "The car is parked behind the building.",
+        "example_vi": "Chiếc xe đậu sau tòa nhà."
+    },
+    {
+        "eng": "between",
+        "vi": "ở giữa",
+        "mean": "nằm ở giữa hai hoặc nhiều vật, người hoặc địa điểm.",
+        "type": "giới từ",
+        "example_eng": "The school is between the library and the park.",
+        "example_vi": "Trường học nằm giữa thư viện và công viên."
+    },
+    {
+        "eng": "bookstore",
+        "vi": "nhà sách",
+        "mean": "nơi bán sách và các vật phẩm liên quan.",
+        "type": "danh từ",
+        "example_eng": "She bought a novel from the bookstore.",
+        "example_vi": "Cô ấy đã mua một cuốn tiểu thuyết từ nhà sách."
+    },
+    {
+        "eng": "child",
+        "vi": "đứa trẻ",
+        "mean": "một người nhỏ tuổi, thường dưới 12 tuổi.",
+        "type": "danh từ",
+        "example_eng": "The child is playing with a ball.",
+        "example_vi": "Đứa trẻ đang chơi với quả bóng."
+    },
+    {
+        "eng": "children",
+        "vi": "những đứa trẻ",
+        "mean": "số nhiều của 'child', chỉ nhiều đứa trẻ.",
+        "type": "danh từ",
+        "example_eng": "The children are at school.",
+        "example_vi": "Những đứa trẻ đang ở trường."
+    },
+    {
+        "eng": "cinema",
+        "vi": "rạp chiếu phim",
+        "mean": "nơi công chiếu phim điện ảnh cho công chúng.",
+        "type": "danh từ",
+        "example_eng": "We went to the cinema to watch a movie.",
+        "example_vi": "Chúng tôi đã đi rạp chiếu phim để xem phim."
+    },
+    {
+        "eng": "drugstore",
+        "vi": "hiệu thuốc",
+        "mean": "nơi bán thuốc và các sản phẩm chăm sóc sức khỏe.",
+        "type": "danh từ",
+        "example_eng": "I bought some medicine at the drugstore.",
+        "example_vi": "Tôi đã mua một ít thuốc ở hiệu thuốc."
+    },
+    {
+        "eng": "factory",
+        "vi": "nhà máy",
+        "mean": "nơi sản xuất hàng hóa bằng máy móc.",
+        "type": "danh từ",
+        "example_eng": "He works in a car factory.",
+        "example_vi": "Anh ấy làm việc trong một nhà máy sản xuất ô tô."
+    },
+    {
+        "eng": "false",
+        "vi": "sai",
+        "mean": "không đúng sự thật hoặc không chính xác.",
+        "type": "tính từ",
+        "example_eng": "The statement was false.",
+        "example_vi": "Lời tuyên bố đó là sai."
+    },
+    {
+        "eng": "far",
+        "vi": "xa",
+        "mean": "ở khoảng cách lớn, không gần.",
+        "type": "tính từ",
+        "example_eng": "The park is far from here.",
+        "example_vi": "Công viên cách đây rất xa."
+    },
+    {
+        "eng": "flower",
+        "vi": "bông hoa",
+        "mean": "phần sinh sản của cây, thường có màu sắc rực rỡ.",
+        "type": "danh từ",
+        "example_eng": "The garden is full of beautiful flowers.",
+        "example_vi": "Khu vườn đầy những bông hoa đẹp."
+    },
+    {
+        "eng": "hospital",
+        "vi": "bệnh viện",
+        "mean": "nơi cung cấp dịch vụ y tế và điều trị cho người bệnh.",
+        "type": "danh từ",
+        "example_eng": "He was taken to the hospital after the accident.",
+        "example_vi": "Anh ấy được đưa đến bệnh viện sau tai nạn."
+    },
+    {
+        "eng": "hotel",
+        "vi": "khách sạn",
+        "mean": "nơi cung cấp chỗ ở và dịch vụ cho khách du lịch.",
+        "type": "danh từ",
+        "example_eng": "We stayed at a nice hotel by the beach.",
+        "example_vi": "Chúng tôi ở tại một khách sạn đẹp bên bờ biển."
+    },
+    {
+        "eng": "lake",
+        "vi": "hồ",
+        "mean": "một vùng nước tự nhiên, bao quanh bởi đất.",
+        "type": "danh từ",
+        "example_eng": "We had a picnic by the lake.",
+        "example_vi": "Chúng tôi đã có một buổi dã ngoại bên hồ."
+    },
+    {
+        "eng": "left",
+        "vi": "trái",
+        "mean": "bên phía tay trái của cơ thể hoặc một vật.",
+        "type": "tính từ",
+        "example_eng": "Turn left at the corner.",
+        "example_vi": "Rẽ trái ở góc phố."
+    },
+    {
+        "eng": "like",
+        "vi": "thích",
+        "mean": "cảm thấy yêu thích hoặc hài lòng về một điều gì đó.",
+        "type": "động từ",
+        "example_eng": "I like chocolate ice cream.",
+        "example_vi": "Tôi thích kem sô-cô-la."
+    },
+    {
+        "eng": "look at",
+        "vi": "nhìn vào",
+        "mean": "hướng mắt về một vật hay sự vật để quan sát.",
+        "type": "cụm động từ",
+        "example_eng": "Look at the sky, it's so beautiful.",
+        "example_vi": "Nhìn lên bầu trời kìa, thật đẹp."
+    },
+    {
+        "eng": "love",
+        "vi": "yêu",
+        "mean": "cảm giác mạnh mẽ về sự thích hoặc tình cảm sâu sắc đối với ai đó hoặc điều gì đó.",
+        "type": "động từ",
+        "example_eng": "I love my family.",
+        "example_vi": "Tôi yêu gia đình của mình."
+    },
+    {
+        "eng": "mountain",
+        "vi": "núi",
+        "mean": "một khu vực địa lý cao hơn xung quanh, thường có đỉnh và sườn dốc.",
+        "type": "danh từ",
+        "example_eng": "We went hiking on the mountain.",
+        "example_vi": "Chúng tôi đã đi leo núi."
+    },
+    {
+        "eng": "movie",
+        "vi": "phim",
+        "mean": "một câu chuyện hoặc sự kiện được ghi lại và trình chiếu dưới dạng video.",
+        "type": "danh từ",
+        "example_eng": "We watched a movie at the cinema.",
+        "example_vi": "Chúng tôi đã xem một bộ phim ở rạp chiếu phim."
+    },
+    {
+        "eng": "museum",
+        "vi": "bảo tàng",
+        "mean": "một nơi lưu giữ và trưng bày các hiện vật văn hóa, nghệ thuật, khoa học.",
+        "type": "danh từ",
+        "example_eng": "The museum has an amazing collection of art.",
+        "example_vi": "Bảo tàng có một bộ sưu tập nghệ thuật tuyệt vời."
+    },
+    {
+        "eng": "near",
+        "vi": "gần",
+        "mean": "ở khoảng cách ngắn hoặc không xa so với vị trí hiện tại.",
+        "type": "giới từ",
+        "example_eng": "The school is near my house.",
+        "example_vi": "Trường học ở gần nhà tôi."
+    },
+    {
+        "eng": "neighborhood",
+        "vi": "khu vực lân cận",
+        "mean": "khu vực xung quanh nơi bạn sống hoặc làm việc.",
+        "type": "danh từ",
+        "example_eng": "We live in a quiet neighborhood.",
+        "example_vi": "Chúng tôi sống trong một khu vực yên tĩnh."
+    },
+    {
+        "eng": "next to",
+        "vi": "bên cạnh",
+        "mean": "ở vị trí liền kề hoặc rất gần với cái gì đó.",
+        "type": "cụm từ",
+        "example_eng": "The bookstore is next to the coffee shop.",
+        "example_vi": "Nhà sách nằm bên cạnh quán cà phê."
+    },
+    {
+        "eng": "opposite",
+        "vi": "đối diện",
+        "mean": "ở phía đối diện với cái gì đó, thường ở khoảng cách nhất định.",
+        "type": "giới từ",
+        "example_eng": "The restaurant is opposite the park.",
+        "example_vi": "Nhà hàng đối diện công viên."
+    },
+    {
+        "eng": "park",
+        "vi": "công viên",
+        "mean": "khu vực công cộng có nhiều cây xanh, thường dùng để giải trí và thư giãn.",
+        "type": "danh từ",
+        "example_eng": "We went for a walk in the park.",
+        "example_vi": "Chúng tôi đi dạo trong công viên."
+    },
+    {
+        "eng": "photocopy store",
+        "vi": "cửa hàng photocopy",
+        "mean": "nơi cung cấp dịch vụ sao chép tài liệu.",
+        "type": "danh từ",
+        "example_eng": "I need to get these documents copied at the photocopy store.",
+        "example_vi": "Tôi cần sao chép những tài liệu này tại cửa hàng photocopy."
+    },
+    {
+        "eng": "place",
+        "vi": "nơi chốn",
+        "mean": "vị trí hoặc khu vực cụ thể.",
+        "type": "danh từ",
+        "example_eng": "This park is a beautiful place to relax.",
+        "example_vi": "Công viên này là nơi đẹp để thư giãn."
+    },
+    {
+        "eng": "police",
+        "vi": "cảnh sát",
+        "mean": "lực lượng thi hành pháp luật và duy trì trật tự.",
+        "type": "danh từ",
+        "example_eng": "The police are investigating the case.",
+        "example_vi": "Cảnh sát đang điều tra vụ án."
+    },
+    {
+        "eng": "police station",
+        "vi": "đồn cảnh sát",
+        "mean": "nơi làm việc của lực lượng cảnh sát trong khu vực.",
+        "type": "danh từ",
+        "example_eng": "We reported the incident at the police station.",
+        "example_vi": "Chúng tôi đã báo cáo vụ việc tại đồn cảnh sát."
+    },
+    {
+        "eng": "restaurant",
+        "vi": "nhà hàng",
+        "mean": "nơi phục vụ thức ăn và đồ uống cho khách hàng.",
+        "type": "danh từ",
+        "example_eng": "We had dinner at a nice restaurant.",
+        "example_vi": "Chúng tôi đã ăn tối tại một nhà hàng đẹp."
+    },
+    {
+        "eng": "rice",
+        "vi": "cơm",
+        "mean": "hạt của cây lúa, thường được nấu chín và ăn như món chính.",
+        "type": "danh từ",
+        "example_eng": "We eat rice with almost every meal.",
+        "example_vi": "Chúng tôi ăn cơm gần như mỗi bữa ăn."
+    },
+    {
+        "eng": "rice paddy",
+        "vi": "ruộng lúa",
+        "mean": "khu vực trồng lúa nước, thường ở vùng nông thôn.",
+        "type": "danh từ",
+        "example_eng": "The rice paddy stretches across the valley.",
+        "example_vi": "Ruộng lúa trải dài khắp thung lũng."
+    },
+    {
+        "eng": "right",
+        "vi": "phải",
+        "mean": "bên phía tay phải của cơ thể hoặc một vật.",
+        "type": "tính từ",
+        "example_eng": "Turn right at the next intersection.",
+        "example_vi": "Rẽ phải ở ngã tư tiếp theo."
+    },
+    {
+        "eng": "river",
+        "vi": "sông",
+        "mean": "dòng nước lớn chảy qua nhiều vùng đất và đổ ra biển.",
+        "type": "danh từ",
+        "example_eng": "The river flows through the city.",
+        "example_vi": "Con sông chảy qua thành phố."
+    },
+    {
+        "eng": "stadium",
+        "vi": "sân vận động",
+        "mean": "khu vực lớn, có khán đài, dùng cho các sự kiện thể thao hoặc giải trí.",
+        "type": "danh từ",
+        "example_eng": "The stadium was packed with fans.",
+        "example_vi": "Sân vận động chật kín người hâm mộ."
+    },
+    {
+        "eng": "store",
+        "vi": "cửa hàng",
+        "mean": "nơi bán hàng hóa, sản phẩm cho khách hàng.",
+        "type": "danh từ",
+        "example_eng": "We bought groceries at the store.",
+        "example_vi": "Chúng tôi mua thực phẩm ở cửa hàng."
+    },
+    {
+        "eng": "tall",
+        "vi": "cao",
+        "mean": "có chiều cao lớn hơn bình thường.",
+        "type": "tính từ",
+        "example_eng": "He is very tall for his age.",
+        "example_vi": "Anh ấy rất cao so với tuổi của mình."
+    },
+    {
+        "eng": "temple",
+        "vi": "ngôi đền",
+        "mean": "nơi thờ cúng hoặc tôn thờ thần linh, thường theo tôn giáo.",
+        "type": "danh từ",
+        "example_eng": "We visited an ancient temple in the city.",
+        "example_vi": "Chúng tôi đã thăm một ngôi đền cổ trong thành phố."
+    },
+    {
+        "eng": "theater",
+        "vi": "rạp hát",
+        "mean": "nơi diễn ra các buổi biểu diễn trực tiếp hoặc chiếu phim.",
+        "type": "danh từ",
+        "example_eng": "We saw a play at the theater last night.",
+        "example_vi": "Chúng tôi đã xem một vở kịch tại rạp hát tối qua."
+    },
+    {
+        "eng": "town",
+        "vi": "thị trấn",
+        "mean": "một khu vực định cư nhỏ hơn thành phố nhưng lớn hơn làng.",
+        "type": "danh từ",
+        "example_eng": "The town is growing rapidly.",
+        "example_vi": "Thị trấn đang phát triển nhanh chóng."
+    },
+    {
+        "eng": "toy store",
+        "vi": "cửa hàng đồ chơi",
+        "mean": "nơi bán các món đồ chơi cho trẻ em.",
+        "type": "danh từ",
+        "example_eng": "We bought a new doll at the toy store.",
+        "example_vi": "Chúng tôi đã mua một con búp bê mới tại cửa hàng đồ chơi."
+    },
+    {
+        "eng": "tree",
+        "vi": "cây",
+        "mean": "thực vật lớn có thân gỗ, cành và lá.",
+        "type": "danh từ",
+        "example_eng": "There is a big tree in our backyard.",
+        "example_vi": "Có một cái cây lớn trong sân sau nhà chúng tôi."
+    },
+    {
+        "eng": "true",
+        "vi": "đúng",
+        "mean": "phù hợp với thực tế hoặc sự thật.",
+        "type": "tính từ",
+        "example_eng": "Her story turned out to be true.",
+        "example_vi": "Câu chuyện của cô ấy hóa ra là đúng."
+    },
+    {
+        "eng": "truth",
+        "vi": "sự thật",
+        "mean": "thực tế hoặc điều gì đó phù hợp với sự thật.",
+        "type": "danh từ",
+        "example_eng": "The truth finally came out.",
+        "example_vi": "Sự thật cuối cùng cũng được tiết lộ."
+    },
+    {
+        "eng": "village",
+        "vi": "làng",
+        "mean": "khu định cư nhỏ hơn thị trấn, thường ở vùng nông thôn.",
+        "type": "danh từ",
+        "example_eng": "We visited a quiet village in the mountains.",
+        "example_vi": "Chúng tôi đã thăm một ngôi làng yên tĩnh trên núi."
+    },
+    {
+        "eng": "well",
+        "vi": "giếng",
+        "mean": "nguồn nước tự nhiên được khai thác bằng cách đào sâu xuống lòng đất.",
+        "type": "danh từ",
+        "example_eng": "The villagers get their water from the well.",
+        "example_vi": "Dân làng lấy nước từ giếng."
+    },
+    {
+        "eng": "work",
+        "vi": "công việc",
+        "mean": "hoạt động hoặc nhiệm vụ mà một người làm để kiếm sống.",
+        "type": "danh từ",
+        "example_eng": "He has a lot of work to do today.",
+        "example_vi": "Anh ấy có rất nhiều việc phải làm hôm nay."
+    },
+    {
+        "eng": "yard",
+        "vi": "sân",
+        "mean": "khu vực ngoài trời, thường là sân sau hoặc trước nhà.",
+        "type": "danh từ",
+        "example_eng": "The kids are playing in the yard.",
+        "example_vi": "Bọn trẻ đang chơi trong sân."
     }
 ]
