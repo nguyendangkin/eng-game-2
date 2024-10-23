@@ -4,6 +4,7 @@ import Practice from "./Practice";
 import ErrorMessage from "./ErrorMessage";
 import vocabularyData from "./vocabularys.json";
 import "./App.css";
+import HeadAdSense from "./HeadAdSense";
 
 const App = () => {
     const [vocabulary, setVocabulary] = useState([]);
