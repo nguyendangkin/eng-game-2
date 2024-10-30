@@ -1,1850 +1,322 @@
 [
     {
-        "eng": "are",
-        "vi": "là",
-        "mean": "là, hiện tại của động từ 'to be', dùng với các chủ ngữ số nhiều hoặc ngôi thứ hai số ít.",
-        "type": "động từ",
-        "example_eng": "They are students.",
-        "example_vi": "Họ là học sinh."
-    },
-    {
-        "eng": "choose",
-        "vi": "chọn",
-        "mean": "quyết định chọn một hoặc một số tùy chọn từ một nhóm.",
-        "type": "động từ",
-        "example_eng": "She will choose a book to read.",
-        "example_vi": "Cô ấy sẽ chọn một cuốn sách để đọc."
-    },
-    {
-        "eng": "count",
-        "vi": "đếm",
-        "mean": "xác định số lượng hoặc tổng số thông qua việc đếm.",
-        "type": "động từ",
-        "example_eng": "The teacher asked the students to count to ten.",
-        "example_vi": "Giáo viên yêu cầu học sinh đếm đến mười."
-    },
-    {
-        "eng": "fine",
-        "vi": "khỏe",
-        "mean": "ở trạng thái tốt, không có vấn đề gì nghiêm trọng.",
-        "type": "tính từ",
-        "example_eng": "I am fine, thank you.",
-        "example_vi": "Tôi khỏe, cảm ơn."
-    },
-    {
-        "eng": "good afternoon",
-        "vi": "chào buổi chiều",
-        "mean": "lời chào dùng vào buổi chiều.",
-        "type": "cụm từ",
-        "example_eng": "Good afternoon, how are you?",
-        "example_vi": "Chào buổi chiều, bạn có khỏe không?"
-    },
-    {
-        "eng": "good evening",
-        "vi": "chào buổi tối",
-        "mean": "lời chào dùng vào buổi tối.",
-        "type": "cụm từ",
-        "example_eng": "Good evening, everyone.",
-        "example_vi": "Chào buổi tối, mọi người."
-    },
-    {
-        "eng": "good morning",
-        "vi": "chào buổi sáng",
-        "mean": "lời chào dùng vào buổi sáng.",
-        "type": "cụm từ",
-        "example_eng": "Good morning, how did you sleep?",
-        "example_vi": "Chào buổi sáng, bạn ngủ ngon không?"
-    },
-    {
-        "eng": "good night",
-        "vi": "chúc ngủ ngon",
-        "mean": "lời chúc trước khi đi ngủ.",
-        "type": "cụm từ",
-        "example_eng": "Good night, see you tomorrow.",
-        "example_vi": "Chúc ngủ ngon, hẹn gặp bạn ngày mai."
-    },
-    {
-        "eng": "goodbye",
-        "vi": "tạm biệt",
-        "mean": "lời chào khi chia tay.",
-        "type": "cụm từ",
-        "example_eng": "Goodbye, I will see you later.",
-        "example_vi": "Tạm biệt, tôi sẽ gặp bạn sau."
-    },
-    {
-        "eng": "he",
-        "vi": "anh ấy",
-        "mean": "đại từ chỉ ngôi thứ ba số ít nam giới.",
-        "type": "đại từ",
-        "example_eng": "He is my friend.",
-        "example_vi": "Anh ấy là bạn của tôi."
-    },
-    {
-        "eng": "hello",
-        "vi": "xin chào",
-        "mean": "lời chào thông dụng khi gặp nhau.",
-        "type": "cụm từ",
-        "example_eng": "Hello, how are you?",
-        "example_vi": "Xin chào, bạn có khỏe không?"
-    },
-    {
-        "eng": "her",
-        "vi": "cô ấy",
-        "mean": "đại từ chỉ ngôi thứ ba số ít nữ giới, dùng làm tân ngữ.",
-        "type": "đại từ",
-        "example_eng": "I gave her the book.",
-        "example_vi": "Tôi đã đưa cho cô ấy cuốn sách."
-    },
-    {
-        "eng": "hi",
-        "vi": "chào",
-        "mean": "lời chào thân mật, không chính thức.",
-        "type": "cụm từ",
-        "example_eng": "Hi, how’s it going?",
-        "example_vi": "Chào, mọi việc sao rồi?"
-    },
-    {
-        "eng": "his",
-        "vi": "của anh ấy",
-        "mean": "đại từ sở hữu của ngôi thứ ba số ít nam giới.",
-        "type": "đại từ sở hữu",
-        "example_eng": "That is his car.",
-        "example_vi": "Đó là xe của anh ấy."
-    },
-    {
-        "eng": "it",
-        "vi": "nó",
-        "mean": "đại từ chỉ vật hoặc con vật.",
-        "type": "đại từ",
-        "example_eng": "It is a beautiful day.",
-        "example_vi": "Hôm nay là một ngày đẹp trời."
-    },
-    {
-        "eng": "its",
-        "vi": "của nó",
-        "mean": "đại từ sở hữu của 'it', chỉ vật hoặc con vật.",
-        "type": "đại từ sở hữu",
-        "example_eng": "The dog wagged its tail.",
-        "example_vi": "Con chó vẫy đuôi của nó."
-    },
-    {
-        "eng": "madam",
-        "vi": "quý bà",
-        "mean": "cách gọi lịch sự dành cho một phụ nữ.",
-        "type": "danh từ",
-        "example_eng": "Excuse me, madam, can I help you?",
-        "example_vi": "Xin lỗi quý bà, tôi có thể giúp gì không?"
-    },
-    {
-        "eng": "miss",
-        "vi": "cô",
-        "mean": "cách gọi dành cho phụ nữ chưa lập gia đình.",
-        "type": "danh từ",
-        "example_eng": "Good morning, Miss.",
-        "example_vi": "Chào buổi sáng, cô."
-    },
-    {
-        "eng": "my",
-        "vi": "của tôi",
-        "mean": "đại từ sở hữu của ngôi thứ nhất số ít.",
-        "type": "đại từ sở hữu",
-        "example_eng": "That is my book.",
-        "example_vi": "Đó là cuốn sách của tôi."
-    },
-    {
-        "eng": "our",
-        "vi": "của chúng tôi",
-        "mean": "đại từ sở hữu của ngôi thứ nhất số nhiều.",
-        "type": "đại từ sở hữu",
-        "example_eng": "Our house is big.",
-        "example_vi": "Nhà của chúng tôi rất lớn."
-    },
-    {
-        "eng": "she",
-        "vi": "cô ấy",
-        "mean": "đại từ chỉ ngôi thứ ba số ít nữ giới.",
-        "type": "đại từ",
-        "example_eng": "She is a teacher.",
-        "example_vi": "Cô ấy là giáo viên."
-    },
-    {
-        "eng": "sir",
-        "vi": "quý ông",
-        "mean": "cách gọi lịch sự dành cho một người đàn ông.",
-        "type": "danh từ",
-        "example_eng": "Excuse me, sir, can I help you?",
-        "example_vi": "Xin lỗi quý ông, tôi có thể giúp gì không?"
-    },
-    {
-        "eng": "thank",
-        "vi": "cảm ơn",
-        "mean": "bày tỏ sự biết ơn hoặc sự công nhận.",
-        "type": "động từ",
-        "example_eng": "I want to thank you for your help.",
-        "example_vi": "Tôi muốn cảm ơn bạn vì đã giúp đỡ."
-    },
-    {
-        "eng": "their",
-        "vi": "của họ",
-        "mean": "đại từ sở hữu của ngôi thứ ba số nhiều.",
-        "type": "đại từ sở hữu",
-        "example_eng": "That is their house.",
-        "example_vi": "Đó là nhà của họ."
-    },
-    {
-        "eng": "they",
-        "vi": "họ",
-        "mean": "đại từ chỉ ngôi thứ ba số nhiều.",
-        "type": "đại từ",
-        "example_eng": "They are friends.",
-        "example_vi": "Họ là bạn bè."
-    },
-    {
-        "eng": "we",
-        "vi": "chúng tôi",
-        "mean": "đại từ chỉ ngôi thứ nhất số nhiều.",
-        "type": "đại từ",
-        "example_eng": "We are going to the park.",
-        "example_vi": "Chúng tôi đang đi đến công viên."
-    },
-    {
-        "eng": "you",
-        "vi": "bạn",
-        "mean": "đại từ chỉ ngôi thứ hai số ít hoặc số nhiều.",
-        "type": "đại từ",
-        "example_eng": "You are my friend.",
-        "example_vi": "Bạn là bạn của tôi."
-    },
-    {
-        "eng": "your",
-        "vi": "của bạn",
-        "mean": "đại từ sở hữu của ngôi thứ hai số ít hoặc số nhiều.",
-        "type": "đại từ sở hữu",
-        "example_eng": "That is your bag.",
-        "example_vi": "Đó là túi của bạn."
-    },
-    {
-        "eng": "child",
-        "vi": "đứa trẻ",
-        "mean": "một người ở độ tuổi nhỏ, thường dưới 12 tuổi.",
-        "type": "danh từ",
-        "example_eng": "The child is playing outside.",
-        "example_vi": "Đứa trẻ đang chơi ở ngoài."
-    },
-    {
-        "eng": "children",
-        "vi": "những đứa trẻ",
-        "mean": "hình thức số nhiều của 'child', chỉ nhiều đứa trẻ.",
-        "type": "danh từ",
-        "example_eng": "The children are playing in the park.",
-        "example_vi": "Những đứa trẻ đang chơi trong công viên."
-    },
-    {
-        "eng": "classmate",
-        "vi": "bạn cùng lớp",
-        "mean": "người học chung lớp với bạn.",
-        "type": "danh từ",
-        "example_eng": "She is my classmate.",
-        "example_vi": "Cô ấy là bạn cùng lớp của tôi."
-    },
-    {
-        "eng": "draw",
-        "vi": "vẽ",
-        "mean": "sử dụng bút hoặc bút chì để tạo ra hình ảnh trên giấy.",
-        "type": "động từ",
-        "example_eng": "I like to draw pictures.",
-        "example_vi": "Tôi thích vẽ tranh."
-    },
-    {
-        "eng": "exercise book",
-        "vi": "sách bài tập",
-        "mean": "một cuốn sách dùng để viết và làm bài tập.",
-        "type": "danh từ",
-        "example_eng": "I forgot my exercise book at home.",
-        "example_vi": "Tôi quên sách bài tập ở nhà."
-    },
-    {
-        "eng": "greeting",
-        "vi": "lời chào",
-        "mean": "lời nói hoặc cử chỉ chào hỏi khi gặp ai đó.",
-        "type": "danh từ",
-        "example_eng": "She gave me a warm greeting.",
-        "example_vi": "Cô ấy đã gửi tới tôi một lời chào nồng nhiệt."
-    },
-    {
-        "eng": "group",
-        "vi": "nhóm",
-        "mean": "một tập hợp nhiều người hoặc vật cùng nhau.",
-        "type": "danh từ",
-        "example_eng": "We work in a group.",
-        "example_vi": "Chúng tôi làm việc theo nhóm."
-    },
-    {
-        "eng": "listen",
-        "vi": "nghe",
-        "mean": "tập trung chú ý vào âm thanh.",
-        "type": "động từ",
-        "example_eng": "Please listen carefully.",
-        "example_vi": "Hãy lắng nghe cẩn thận."
-    },
-    {
-        "eng": "number",
-        "vi": "số",
-        "mean": "một ký hiệu hoặc giá trị đại diện cho số lượng.",
-        "type": "danh từ",
-        "example_eng": "What is your phone number?",
-        "example_vi": "Số điện thoại của bạn là gì?"
-    },
-    {
-        "eng": "partner",
-        "vi": "đối tác",
-        "mean": "một người hoặc một tổ chức cùng làm việc với nhau để đạt được mục tiêu chung.",
-        "type": "danh từ",
-        "example_eng": "He is my business partner.",
-        "example_vi": "Anh ấy là đối tác kinh doanh của tôi."
-    },
-    {
-        "eng": "play",
-        "vi": "chơi",
-        "mean": "thực hiện một hoạt động để giải trí hoặc tham gia trò chơi.",
-        "type": "động từ",
-        "example_eng": "The children are playing in the yard.",
-        "example_vi": "Những đứa trẻ đang chơi trong sân."
-    },
-    {
-        "eng": "practice",
-        "vi": "luyện tập",
-        "mean": "thực hiện một hành động nhiều lần để cải thiện kỹ năng.",
-        "type": "động từ",
-        "example_eng": "I need to practice my English.",
-        "example_vi": "Tôi cần luyện tập tiếng Anh của mình."
-    },
-    {
-        "eng": "remember",
-        "vi": "nhớ",
-        "mean": "giữ thông tin trong trí nhớ hoặc không quên.",
-        "type": "động từ",
-        "example_eng": "I remember your name.",
-        "example_vi": "Tôi nhớ tên của bạn."
-    },
-    {
-        "eng": "repeat",
-        "vi": "lặp lại",
-        "mean": "thực hiện lại một hành động hoặc lời nói nhiều lần.",
-        "type": "động từ",
-        "example_eng": "Can you repeat that, please?",
-        "example_vi": "Bạn có thể lặp lại điều đó được không?"
-    },
-    {
-        "eng": "say",
-        "vi": "nói",
-        "mean": "diễn đạt suy nghĩ, ý kiến hoặc thông tin bằng lời nói.",
-        "type": "động từ",
-        "example_eng": "What did you say?",
-        "example_vi": "Bạn đã nói gì?"
-    },
-    {
-        "eng": "square",
-        "vi": "hình vuông",
-        "mean": "một hình có bốn cạnh bằng nhau và bốn góc vuông.",
-        "type": "danh từ",
-        "example_eng": "The table is in the shape of a square.",
-        "example_vi": "Cái bàn có hình dạng của một hình vuông."
-    },
-    {
-        "eng": "write",
-        "vi": "viết",
-        "mean": "sử dụng bút, bút chì, hoặc bàn phím để tạo ra văn bản.",
-        "type": "động từ",
-        "example_eng": "Please write your name here.",
-        "example_vi": "Vui lòng viết tên của bạn ở đây."
-    },
-    {
-        "eng": "bag",
-        "vi": "túi",
-        "mean": "vật dụng chứa đồ, thường được làm từ vải hoặc da, có thể mang trên vai hoặc tay.",
-        "type": "danh từ",
-        "example_eng": "She carries a bag to school.",
-        "example_vi": "Cô ấy mang một chiếc túi đến trường."
-    },
-    {
-        "eng": "board",
-        "vi": "bảng",
-        "mean": "một bề mặt phẳng dùng để viết hoặc vẽ, thường thấy trong lớp học.",
-        "type": "danh từ",
-        "example_eng": "The teacher wrote the lesson on the board.",
-        "example_vi": "Giáo viên viết bài học lên bảng."
-    },
-    {
-        "eng": "book",
-        "vi": "sách",
-        "mean": "một tập hợp các trang giấy in hoặc viết, chứa thông tin, câu chuyện, hoặc kiến thức.",
-        "type": "danh từ",
-        "example_eng": "I am reading a new book.",
-        "example_vi": "Tôi đang đọc một cuốn sách mới."
-    },
-    {
-        "eng": "city",
-        "vi": "thành phố",
-        "mean": "một khu vực lớn với nhiều dân cư, thường có nhiều tòa nhà và cơ sở hạ tầng.",
-        "type": "danh từ",
-        "example_eng": "Hanoi is a big city.",
-        "example_vi": "Hà Nội là một thành phố lớn."
-    },
-    {
-        "eng": "class",
-        "vi": "lớp học",
-        "mean": "một nhóm học sinh học cùng nhau trong một khoảng thời gian.",
-        "type": "danh từ",
-        "example_eng": "Our class starts at 8 AM.",
-        "example_vi": "Lớp học của chúng tôi bắt đầu lúc 8 giờ sáng."
-    },
-    {
-        "eng": "classroom",
-        "vi": "phòng học",
-        "mean": "một căn phòng nơi học sinh và giáo viên học tập.",
-        "type": "danh từ",
-        "example_eng": "The students are in the classroom.",
-        "example_vi": "Các học sinh đang ở trong phòng học."
-    },
-    {
-        "eng": "clock",
-        "vi": "đồng hồ",
-        "mean": "thiết bị đo thời gian.",
-        "type": "danh từ",
-        "example_eng": "The clock shows it’s 10 AM.",
-        "example_vi": "Đồng hồ cho thấy là 10 giờ sáng."
-    },
-    {
-        "eng": "close",
-        "vi": "đóng",
-        "mean": "để chặn hoặc dừng lối vào hoặc sự truy cập.",
-        "type": "động từ",
-        "example_eng": "Please close the door.",
-        "example_vi": "Vui lòng đóng cửa."
-    },
-    {
-        "eng": "come in",
-        "vi": "vào",
-        "mean": "lời yêu cầu để ai đó bước vào.",
-        "type": "cụm từ",
-        "example_eng": "You can come in now.",
-        "example_vi": "Bạn có thể vào bây giờ."
-    },
-    {
-        "eng": "command",
-        "vi": "mệnh lệnh",
-        "mean": "lời yêu cầu hoặc hướng dẫn bắt buộc ai đó phải làm gì.",
-        "type": "danh từ",
-        "example_eng": "The general gave a command.",
-        "example_vi": "Vị tướng đã ra lệnh."
-    },
-    {
-        "eng": "desk",
-        "vi": "bàn làm việc",
-        "mean": "một bàn phẳng được dùng để làm việc, viết hoặc học tập.",
-        "type": "danh từ",
-        "example_eng": "I have a desk in my room.",
-        "example_vi": "Tôi có một chiếc bàn làm việc trong phòng của tôi."
-    },
-    {
-        "eng": "door",
-        "vi": "cửa",
-        "mean": "một phần của tòa nhà hoặc phòng có thể mở hoặc đóng để vào hoặc ra.",
-        "type": "danh từ",
-        "example_eng": "Please open the door.",
-        "example_vi": "Vui lòng mở cửa."
-    },
-    {
-        "eng": "eraser",
-        "vi": "cục tẩy",
-        "mean": "vật dụng dùng để xóa chữ viết trên giấy.",
-        "type": "danh từ",
-        "example_eng": "I need an eraser to fix my mistake.",
-        "example_vi": "Tôi cần một cục tẩy để sửa lỗi."
-    },
-    {
-        "eng": "family",
-        "vi": "gia đình",
-        "mean": "một nhóm người có quan hệ huyết thống hoặc hôn nhân.",
-        "type": "danh từ",
-        "example_eng": "I love spending time with my family.",
-        "example_vi": "Tôi thích dành thời gian với gia đình."
-    },
-    {
-        "eng": "family name",
-        "vi": "họ",
-        "mean": "họ của một người, thường được truyền từ thế hệ này sang thế hệ khác.",
-        "type": "danh từ",
-        "example_eng": "His family name is Nguyen.",
-        "example_vi": "Họ của anh ấy là Nguyễn."
-    },
-    {
-        "eng": "first name",
-        "vi": "tên",
-        "mean": "tên riêng của một người, thường là tên gọi.",
-        "type": "danh từ",
-        "example_eng": "Her first name is Mai.",
-        "example_vi": "Tên của cô ấy là Mai."
-    },
-    {
-        "eng": "full name",
-        "vi": "tên đầy đủ",
-        "mean": "tên đầy đủ của một người, bao gồm cả tên và họ.",
-        "type": "danh từ",
-        "example_eng": "Her full name is Mai Nguyen.",
-        "example_vi": "Tên đầy đủ của cô ấy là Mai Nguyễn."
-    },
-    {
-        "eng": "given name",
-        "vi": "tên",
-        "mean": "tên được đặt cho một người khi sinh ra, giống như 'first name'.",
-        "type": "danh từ",
-        "example_eng": "My given name is Hoa.",
-        "example_vi": "Tên của tôi là Hoa."
-    },
-    {
-        "eng": "go out",
-        "vi": "đi ra ngoài",
-        "mean": "rời khỏi một địa điểm hoặc tòa nhà.",
-        "type": "cụm từ",
-        "example_eng": "Let’s go out for dinner.",
-        "example_vi": "Hãy đi ra ngoài ăn tối."
-    },
-    {
-        "eng": "house",
-        "vi": "nhà",
-        "mean": "nơi cư trú của con người, thường có phòng ngủ, phòng khách, bếp.",
-        "type": "danh từ",
-        "example_eng": "They live in a big house.",
-        "example_vi": "Họ sống trong một ngôi nhà lớn."
+        "eng": "at",
+        "vi": "tại, ở",
+        "mean": "Dùng để chỉ một địa điểm cụ thể, thường là một nơi mà người hoặc vật ở đó",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "I am at home",
+        "example_vi": "Tôi đang ở nhà"
     },
     {
         "eng": "in",
-        "vi": "trong",
-        "mean": "ở bên trong một không gian hoặc vật nào đó.",
-        "type": "giới từ",
-        "example_eng": "The keys are in the bag.",
-        "example_vi": "Chìa khóa ở trong túi."
-    },
-    {
-        "eng": "last name",
-        "vi": "họ",
-        "mean": "họ của một người, tương tự như 'family name'.",
-        "type": "danh từ",
-        "example_eng": "Her last name is Tran.",
-        "example_vi": "Họ của cô ấy là Trần."
-    },
-    {
-        "eng": "live",
-        "vi": "sống",
-        "mean": "ở hoặc cư trú tại một nơi nào đó.",
-        "type": "động từ",
-        "example_eng": "I live in Vietnam.",
-        "example_vi": "Tôi sống ở Việt Nam."
-    },
-    {
-        "eng": "match",
-        "vi": "phù hợp",
-        "mean": "kết hợp hoặc tương ứng với nhau.",
-        "type": "động từ",
-        "example_eng": "The colors match well.",
-        "example_vi": "Màu sắc phù hợp với nhau."
-    },
-    {
-        "eng": "name",
-        "vi": "tên",
-        "mean": "danh xưng để gọi một người hoặc vật.",
-        "type": "danh từ",
-        "example_eng": "What is your name?",
-        "example_vi": "Tên của bạn là gì?"
-    },
-    {
-        "eng": "notebook",
-        "vi": "vở",
-        "mean": "sổ tay hoặc tập giấy để ghi chép.",
-        "type": "danh từ",
-        "example_eng": "I take notes in my notebook.",
-        "example_vi": "Tôi ghi chép vào vở của tôi."
+        "vi": "trong, ở",
+        "mean": "Dùng để chỉ địa điểm rộng hoặc không gian bao quanh",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "She lives in Vietnam",
+        "example_vi": "Cô ấy sống ở Việt Nam"
     },
     {
         "eng": "on",
-        "vi": "trên",
-        "mean": "ở trên một bề mặt hoặc vị trí nào đó.",
-        "type": "giới từ",
-        "example_eng": "The book is on the table.",
-        "example_vi": "Cuốn sách ở trên bàn."
-    },
-    {
-        "eng": "open",
-        "vi": "mở",
-        "mean": "di chuyển vật để lộ ra không gian hoặc lối vào.",
-        "type": "động từ",
-        "example_eng": "Please open the window.",
-        "example_vi": "Vui lòng mở cửa sổ."
-    },
-    {
-        "eng": "pencil",
-        "vi": "bút chì",
-        "mean": "dụng cụ dùng để viết hoặc vẽ, có lõi than chì.",
-        "type": "danh từ",
-        "example_eng": "I need a pencil to draw.",
-        "example_vi": "Tôi cần một cây bút chì để vẽ."
-    },
-    {
-        "eng": "pencil case",
-        "vi": "hộp bút",
-        "mean": "vật dụng để chứa bút và các dụng cụ học tập khác.",
-        "type": "danh từ",
-        "example_eng": "She put her pens in the pencil case.",
-        "example_vi": "Cô ấy để bút vào hộp bút."
-    },
-    {
-        "eng": "ruler",
-        "vi": "thước",
-        "mean": "dụng cụ dùng để đo hoặc vẽ đường thẳng.",
-        "type": "danh từ",
-        "example_eng": "I need a ruler to draw a straight line.",
-        "example_vi": "Tôi cần một chiếc thước để vẽ đường thẳng."
-    },
-    {
-        "eng": "say",
-        "vi": "nói",
-        "mean": "phát âm hoặc diễn đạt ý kiến bằng lời nói.",
-        "type": "động từ",
-        "example_eng": "What did you say?",
-        "example_vi": "Bạn đã nói gì?"
-    },
-    {
-        "eng": "school",
-        "vi": "trường học",
-        "mean": "nơi học sinh đến để học tập.",
-        "type": "danh từ",
-        "example_eng": "I go to school every day.",
-        "example_vi": "Tôi đi học mỗi ngày."
-    },
-    {
-        "eng": "school bag",
-        "vi": "cặp sách",
-        "mean": "túi dùng để mang sách vở và dụng cụ học tập đến trường.",
-        "type": "danh từ",
-        "example_eng": "He forgot his school bag at home.",
-        "example_vi": "Cậu ấy quên cặp sách ở nhà."
-    },
-    {
-        "eng": "sit down",
-        "vi": "ngồi xuống",
-        "mean": "hành động chuyển từ đứng sang ngồi.",
-        "type": "cụm từ",
-        "example_eng": "Please sit down.",
-        "example_vi": "Vui lòng ngồi xuống."
-    },
-    {
-        "eng": "spell",
-        "vi": "đánh vần",
-        "mean": "phát âm hoặc viết ra các chữ cái tạo thành một từ.",
-        "type": "động từ",
-        "example_eng": "Can you spell your name?",
-        "example_vi": "Bạn có thể đánh vần tên của bạn không?"
-    },
-    {
-        "eng": "stand up",
-        "vi": "đứng lên",
-        "mean": "hành động chuyển từ ngồi hoặc nằm sang đứng.",
-        "type": "cụm từ",
-        "example_eng": "Please stand up.",
-        "example_vi": "Vui lòng đứng lên."
-    },
-    {
-        "eng": "street",
-        "vi": "đường phố",
-        "mean": "lối đi công cộng, thường có xe cộ lưu thông.",
-        "type": "danh từ",
-        "example_eng": "The street is very busy today.",
-        "example_vi": "Hôm nay đường phố rất đông đúc."
-    },
-    {
-        "eng": "student",
-        "vi": "học sinh",
-        "mean": "người học tập tại một trường học.",
-        "type": "danh từ",
-        "example_eng": "She is a good student.",
-        "example_vi": "Cô ấy là một học sinh giỏi."
-    },
-    {
-        "eng": "surname",
-        "vi": "họ",
-        "mean": "tương tự như 'last name' hoặc 'family name'.",
-        "type": "danh từ",
-        "example_eng": "His surname is Le.",
-        "example_vi": "Họ của anh ấy là Lê."
-    },
-    {
-        "eng": "teacher",
-        "vi": "giáo viên",
-        "mean": "người hướng dẫn học sinh trong việc học tập.",
-        "type": "danh từ",
-        "example_eng": "My teacher is very kind.",
-        "example_vi": "Giáo viên của tôi rất tốt bụng."
-    },
-    {
-        "eng": "waste basket",
-        "vi": "thùng rác",
-        "mean": "vật dụng để chứa rác thải, thường đặt trong phòng.",
-        "type": "danh từ",
-        "example_eng": "Please put the trash in the waste basket.",
-        "example_vi": "Vui lòng bỏ rác vào thùng rác."
-    },
-    {
-        "eng": "window",
-        "vi": "cửa sổ",
-        "mean": "phần mở trên tường để ánh sáng và không khí vào phòng.",
-        "type": "danh từ",
-        "example_eng": "Can you open the window?",
-        "example_vi": "Bạn có thể mở cửa sổ không?"
-    },
-    {
-        "eng": "armchair",
-        "vi": "ghế bành",
-        "mean": "một loại ghế có tay vịn và lưng tựa thoải mái.",
-        "type": "danh từ",
-        "example_eng": "He sat in the armchair by the window.",
-        "example_vi": "Anh ấy ngồi trên ghế bành cạnh cửa sổ."
-    },
-    {
-        "eng": "bench",
-        "vi": "ghế dài",
-        "mean": "ghế dài, thường được làm bằng gỗ hoặc kim loại, có thể dùng cho nhiều người ngồi.",
-        "type": "danh từ",
-        "example_eng": "We sat on the bench in the park.",
-        "example_vi": "Chúng tôi ngồi trên ghế dài trong công viên."
-    },
-    {
-        "eng": "bookshelf",
-        "vi": "giá sách",
-        "mean": "nơi để xếp sách, thường đặt trong nhà hoặc thư viện.",
-        "type": "danh từ",
-        "example_eng": "She put her books on the bookshelf.",
-        "example_vi": "Cô ấy đặt sách lên giá sách."
-    },
-    {
-        "eng": "brother",
-        "vi": "anh/em trai",
-        "mean": "người đàn ông có cùng cha mẹ với bạn.",
-        "type": "danh từ",
-        "example_eng": "I have one brother.",
-        "example_vi": "Tôi có một người anh trai."
-    },
-    {
-        "eng": "chair",
-        "vi": "ghế",
-        "mean": "một vật dụng để ngồi, thường có lưng tựa.",
-        "type": "danh từ",
-        "example_eng": "Please sit on the chair.",
-        "example_vi": "Vui lòng ngồi trên ghế."
-    },
-    {
-        "eng": "daughter",
-        "vi": "con gái",
-        "mean": "người con gái của cha mẹ.",
-        "type": "danh từ",
-        "example_eng": "She has a daughter.",
-        "example_vi": "Cô ấy có một cô con gái."
-    },
-    {
-        "eng": "doctor",
-        "vi": "bác sĩ",
-        "mean": "người chuyên về chăm sóc sức khỏe và chữa bệnh.",
-        "type": "danh từ",
-        "example_eng": "The doctor is checking the patient.",
-        "example_vi": "Bác sĩ đang kiểm tra bệnh nhân."
-    },
-    {
-        "eng": "eighty",
-        "vi": "tám mươi",
-        "mean": "con số 80.",
-        "type": "số đếm",
-        "example_eng": "He is eighty years old.",
-        "example_vi": "Ông ấy tám mươi tuổi."
-    },
-    {
-        "eng": "engineer",
-        "vi": "kỹ sư",
-        "mean": "người làm việc về thiết kế và xây dựng công trình kỹ thuật.",
-        "type": "danh từ",
-        "example_eng": "My father is an engineer.",
-        "example_vi": "Bố tôi là một kỹ sư."
-    },
-    {
-        "eng": "father",
-        "vi": "cha",
-        "mean": "người đàn ông có con.",
-        "type": "danh từ",
-        "example_eng": "My father is very kind.",
-        "example_vi": "Cha tôi rất tốt bụng."
-    },
-    {
-        "eng": "fifty",
-        "vi": "năm mươi",
-        "mean": "con số 50.",
-        "type": "số đếm",
-        "example_eng": "She is fifty years old.",
-        "example_vi": "Cô ấy năm mươi tuổi."
-    },
-    {
-        "eng": "forty",
-        "vi": "bốn mươi",
-        "mean": "con số 40.",
-        "type": "số đếm",
-        "example_eng": "He is forty years old.",
-        "example_vi": "Anh ấy bốn mươi tuổi."
-    },
-    {
-        "eng": "game",
-        "vi": "trò chơi",
-        "mean": "hoạt động giải trí hoặc thi đấu có luật lệ.",
-        "type": "danh từ",
-        "example_eng": "They are playing a game.",
-        "example_vi": "Họ đang chơi trò chơi."
-    },
-    {
-        "eng": "grandfather",
-        "vi": "ông",
-        "mean": "cha của cha hoặc mẹ bạn.",
-        "type": "danh từ",
-        "example_eng": "My grandfather tells great stories.",
-        "example_vi": "Ông của tôi kể những câu chuyện rất hay."
-    },
-    {
-        "eng": "grandmother",
-        "vi": "bà",
-        "mean": "mẹ của cha hoặc mẹ bạn.",
-        "type": "danh từ",
-        "example_eng": "I visit my grandmother every weekend.",
-        "example_vi": "Tôi thăm bà tôi mỗi cuối tuần."
-    },
-    {
-        "eng": "home",
-        "vi": "nhà",
-        "mean": "nơi bạn sống, thường có gia đình.",
-        "type": "danh từ",
-        "example_eng": "I feel safe at home.",
-        "example_vi": "Tôi cảm thấy an toàn ở nhà."
-    },
-    {
-        "eng": "house",
-        "vi": "ngôi nhà",
-        "mean": "tòa nhà dùng làm nơi ở.",
-        "type": "danh từ",
-        "example_eng": "They bought a new house.",
-        "example_vi": "Họ đã mua một ngôi nhà mới."
-    },
-    {
-        "eng": "how many",
-        "vi": "bao nhiêu",
-        "mean": "câu hỏi về số lượng.",
-        "type": "cụm từ",
-        "example_eng": "How many books do you have?",
-        "example_vi": "Bạn có bao nhiêu cuốn sách?"
-    },
-    {
-        "eng": "job",
-        "vi": "công việc",
-        "mean": "việc làm mà ai đó thực hiện để kiếm sống.",
-        "type": "danh từ",
-        "example_eng": "She loves her job as a teacher.",
-        "example_vi": "Cô ấy yêu công việc của mình làm giáo viên."
-    },
-    {
-        "eng": "lamp",
-        "vi": "đèn",
-        "mean": "thiết bị chiếu sáng, thường dùng trong nhà.",
-        "type": "danh từ",
-        "example_eng": "I need a lamp for my desk.",
-        "example_vi": "Tôi cần một chiếc đèn cho bàn làm việc của tôi."
-    },
-    {
-        "eng": "living room",
-        "vi": "phòng khách",
-        "mean": "phòng trong nhà dùng để tiếp khách hoặc thư giãn.",
-        "type": "danh từ",
-        "example_eng": "We watch TV in the living room.",
-        "example_vi": "Chúng tôi xem TV ở phòng khách."
-    },
-    {
-        "eng": "mother",
-        "vi": "mẹ",
-        "mean": "người phụ nữ có con.",
-        "type": "danh từ",
-        "example_eng": "My mother is very caring.",
-        "example_vi": "Mẹ tôi rất quan tâm."
-    },
-    {
-        "eng": "nurse",
-        "vi": "y tá",
-        "mean": "người chăm sóc bệnh nhân trong bệnh viện hoặc phòng khám.",
-        "type": "danh từ",
-        "example_eng": "The nurse helped the doctor.",
-        "example_vi": "Y tá đã giúp bác sĩ."
-    },
-    {
-        "eng": "one hundred",
-        "vi": "một trăm",
-        "mean": "con số 100.",
-        "type": "số đếm",
-        "example_eng": "He counted to one hundred.",
-        "example_vi": "Anh ấy đã đếm đến một trăm."
-    },
-    {
-        "eng": "people",
-        "vi": "người",
-        "mean": "một nhóm cá nhân, thường nhiều hơn một.",
-        "type": "danh từ",
-        "example_eng": "There are many people at the park.",
-        "example_vi": "Có rất nhiều người ở công viên."
-    },
-    {
-        "eng": "seventy",
-        "vi": "bảy mươi",
-        "mean": "con số 70.",
-        "type": "số đếm",
-        "example_eng": "He is seventy years old.",
-        "example_vi": "Ông ấy bảy mươi tuổi."
-    },
-    {
-        "eng": "sister",
-        "vi": "chị/em gái",
-        "mean": "người phụ nữ có cùng cha mẹ với bạn.",
-        "type": "danh từ",
-        "example_eng": "I have two sisters.",
-        "example_vi": "Tôi có hai chị em gái."
-    },
-    {
-        "eng": "sixty",
-        "vi": "sáu mươi",
-        "mean": "con số 60.",
-        "type": "số đếm",
-        "example_eng": "She is sixty years old.",
-        "example_vi": "Cô ấy sáu mươi tuổi."
-    },
-    {
-        "eng": "son",
-        "vi": "con trai",
-        "mean": "người con trai của cha mẹ.",
-        "type": "danh từ",
-        "example_eng": "They have a son.",
-        "example_vi": "Họ có một cậu con trai."
-    },
-    {
-        "eng": "stool",
-        "vi": "ghế đẩu",
-        "mean": "ghế không có lưng tựa, thường dùng trong quán ăn.",
-        "type": "danh từ",
-        "example_eng": "She sat on a stool at the counter.",
-        "example_vi": "Cô ấy ngồi trên một chiếc ghế đẩu ở quầy."
-    },
-    {
-        "eng": "table",
-        "vi": "bàn",
-        "mean": "một bề mặt phẳng dùng để làm việc hoặc ăn uống.",
-        "type": "danh từ",
-        "example_eng": "The table is in the dining room.",
-        "example_vi": "Cái bàn nằm trong phòng ăn."
-    },
-    {
-        "eng": "telephone",
-        "vi": "điện thoại",
-        "mean": "thiết bị dùng để liên lạc bằng giọng nói qua khoảng cách xa.",
-        "type": "danh từ",
-        "example_eng": "I need to call her on the telephone.",
-        "example_vi": "Tôi cần gọi cho cô ấy qua điện thoại."
-    },
-    {
-        "eng": "television",
-        "vi": "ti vi",
-        "mean": "thiết bị phát hình ảnh và âm thanh, thường để giải trí.",
-        "type": "danh từ",
-        "example_eng": "They watched the news on television.",
-        "example_vi": "Họ xem tin tức trên ti vi."
-    },
-    {
-        "eng": "thirty",
-        "vi": "ba mươi",
-        "mean": "con số 30.",
-        "type": "số đếm",
-        "example_eng": "She is thirty years old.",
-        "example_vi": "Cô ấy ba mươi tuổi."
-    },
-    {
-        "eng": "who",
-        "vi": "ai",
-        "mean": "câu hỏi về danh tính của một người.",
-        "type": "đại từ",
-        "example_eng": "Who is she?",
-        "example_vi": "Cô ấy là ai?"
-    },
-    {
-        "eng": "younger brother",
-        "vi": "em trai",
-        "mean": "người em trai nhỏ tuổi hơn.",
-        "type": "danh từ",
-        "example_eng": "He has a younger brother.",
-        "example_vi": "Anh ấy có một em trai."
-    },
-    {
-        "eng": "younger sister",
-        "vi": "em gái",
-        "mean": "người em gái nhỏ tuổi hơn.",
-        "type": "danh từ",
-        "example_eng": "She has a younger sister.",
-        "example_vi": "Cô ấy có một em gái."
-    },
-    {
-        "eng": "big",
-        "vi": "to",
-        "mean": "có kích thước lớn hoặc nhiều hơn bình thường.",
-        "type": "tính từ",
-        "example_eng": "That house is big.",
-        "example_vi": "Ngôi nhà đó to lớn."
-    },
-    {
-        "eng": "breakfast",
-        "vi": "bữa sáng",
-        "mean": "bữa ăn đầu tiên trong ngày, thường vào buổi sáng.",
-        "type": "danh từ",
-        "example_eng": "I had eggs for breakfast.",
-        "example_vi": "Tôi đã ăn trứng cho bữa sáng."
-    },
-    {
-        "eng": "brush",
-        "vi": "chải",
-        "mean": "hành động làm sạch hoặc sắp xếp gọn gàng, thường bằng một bàn chải.",
-        "type": "động từ",
-        "example_eng": "I brush my teeth every morning.",
-        "example_vi": "Tôi chải răng mỗi buổi sáng."
-    },
-    {
-        "eng": "class",
-        "vi": "lớp học",
-        "mean": "một nhóm học sinh học cùng nhau, hoặc thời gian dành cho việc học tập.",
-        "type": "danh từ",
-        "example_eng": "We have math class today.",
-        "example_vi": "Chúng tôi có lớp toán hôm nay."
-    },
-    {
-        "eng": "country",
-        "vi": "đất nước",
-        "mean": "vùng lãnh thổ có chính phủ và luật pháp riêng.",
-        "type": "danh từ",
-        "example_eng": "Vietnam is a beautiful country.",
-        "example_vi": "Việt Nam là một đất nước đẹp."
-    },
-    {
-        "eng": "dinner",
-        "vi": "bữa tối",
-        "mean": "bữa ăn chính vào buổi tối.",
-        "type": "danh từ",
-        "example_eng": "We had pasta for dinner.",
-        "example_vi": "Chúng tôi đã ăn mỳ cho bữa tối."
-    },
-    {
-        "eng": "do",
-        "vi": "làm",
-        "mean": "thực hiện hành động hoặc công việc nào đó.",
-        "type": "động từ",
-        "example_eng": "I do my homework every day.",
-        "example_vi": "Tôi làm bài tập về nhà mỗi ngày."
-    },
-    {
-        "eng": "doctor",
-        "vi": "bác sĩ",
-        "mean": "người chuyên chăm sóc sức khỏe và chữa bệnh.",
-        "type": "danh từ",
-        "example_eng": "The doctor gave me medicine.",
-        "example_vi": "Bác sĩ đã cho tôi thuốc."
-    },
-    {
-        "eng": "engineer",
-        "vi": "kỹ sư",
-        "mean": "người thiết kế, xây dựng và bảo trì hệ thống hoặc cấu trúc kỹ thuật.",
-        "type": "danh từ",
-        "example_eng": "She works as an engineer.",
-        "example_vi": "Cô ấy làm việc như một kỹ sư."
-    },
-    {
-        "eng": "every",
-        "vi": "mỗi",
-        "mean": "tất cả các thành viên hoặc phần của một nhóm, một cách đều đặn.",
-        "type": "tính từ",
-        "example_eng": "I go to the gym every day.",
-        "example_vi": "Tôi đi tập gym mỗi ngày."
-    },
-    {
-        "eng": "face",
-        "vi": "khuôn mặt",
-        "mean": "phần trước của đầu người, bao gồm mắt, mũi, miệng.",
-        "type": "danh từ",
-        "example_eng": "She has a kind face.",
-        "example_vi": "Cô ấy có khuôn mặt hiền từ."
-    },
-    {
-        "eng": "floor",
-        "vi": "sàn nhà",
-        "mean": "bề mặt phẳng trong một tòa nhà mà người ta đi lại trên đó.",
-        "type": "danh từ",
-        "example_eng": "The floor is made of wood.",
-        "example_vi": "Sàn nhà được làm bằng gỗ."
-    },
-    {
-        "eng": "get dressed",
-        "vi": "mặc quần áo",
-        "mean": "hành động mặc quần áo lên người.",
-        "type": "cụm từ",
-        "example_eng": "I get dressed quickly in the morning.",
-        "example_vi": "Tôi mặc quần áo nhanh chóng vào buổi sáng."
-    },
-    {
-        "eng": "get ready",
-        "vi": "chuẩn bị",
-        "mean": "chuẩn bị cho một hoạt động sắp diễn ra.",
-        "type": "cụm từ",
-        "example_eng": "I need to get ready for school.",
-        "example_vi": "Tôi cần chuẩn bị cho buổi học."
-    },
-    {
-        "eng": "get up",
-        "vi": "dậy",
-        "mean": "hành động thức dậy và ra khỏi giường.",
-        "type": "cụm từ",
-        "example_eng": "I get up at 7 AM every day.",
-        "example_vi": "Tôi dậy vào lúc 7 giờ sáng mỗi ngày."
-    },
-    {
-        "eng": "go",
-        "vi": "đi",
-        "mean": "di chuyển từ một nơi này đến nơi khác.",
-        "type": "động từ",
-        "example_eng": "We go to the park on Sundays.",
-        "example_vi": "Chúng tôi đi công viên vào chủ nhật."
-    },
-    {
-        "eng": "grade",
-        "vi": "điểm số",
-        "mean": "đánh giá mức độ hoàn thành của một nhiệm vụ học tập.",
-        "type": "danh từ",
-        "example_eng": "She got a good grade on the test.",
-        "example_vi": "Cô ấy được điểm cao trong bài kiểm tra."
-    },
-    {
-        "eng": "half",
-        "vi": "một nửa",
-        "mean": "một phần chia đôi của tổng số hoặc đơn vị.",
-        "type": "danh từ",
-        "example_eng": "Half of the cake is gone.",
-        "example_vi": "Một nửa cái bánh đã hết."
-    },
-    {
-        "eng": "have",
-        "vi": "có",
-        "mean": "sở hữu hoặc nắm giữ một cái gì đó.",
-        "type": "động từ",
-        "example_eng": "I have a new book.",
-        "example_vi": "Tôi có một quyển sách mới."
-    },
-    {
-        "eng": "late",
-        "vi": "muộn",
-        "mean": "xảy ra hoặc đến sau thời điểm mong đợi.",
-        "type": "tính từ",
-        "example_eng": "She is always late to class.",
-        "example_vi": "Cô ấy luôn đến lớp muộn."
-    },
-    {
-        "eng": "lunch",
-        "vi": "bữa trưa",
-        "mean": "bữa ăn chính vào giữa ngày.",
-        "type": "danh từ",
-        "example_eng": "We had sandwiches for lunch.",
-        "example_vi": "Chúng tôi đã ăn bánh mì kẹp cho bữa trưa."
-    },
-    {
-        "eng": "midday",
-        "vi": "giữa trưa",
-        "mean": "thời điểm giữa ngày, thường là 12 giờ trưa.",
-        "type": "danh từ",
-        "example_eng": "We meet at midday.",
-        "example_vi": "Chúng tôi gặp nhau vào giữa trưa."
-    },
-    {
-        "eng": "midnight",
-        "vi": "nửa đêm",
-        "mean": "thời điểm 12 giờ đêm, khi một ngày kết thúc.",
-        "type": "danh từ",
-        "example_eng": "They arrived home at midnight.",
-        "example_vi": "Họ về nhà vào lúc nửa đêm."
-    },
-    {
-        "eng": "minute",
-        "vi": "phút",
-        "mean": "đơn vị thời gian, bằng 60 giây.",
-        "type": "danh từ",
-        "example_eng": "We will leave in five minutes.",
-        "example_vi": "Chúng ta sẽ rời đi trong năm phút."
-    },
-    {
-        "eng": "nurse",
-        "vi": "y tá",
-        "mean": "người chăm sóc bệnh nhân trong bệnh viện hoặc cơ sở y tế.",
-        "type": "danh từ",
-        "example_eng": "The nurse helped the patient.",
-        "example_vi": "Y tá đã giúp bệnh nhân."
-    },
-    {
-        "eng": "past",
-        "vi": "quá",
-        "mean": "chỉ thời gian đã vượt qua một điểm cố định.",
-        "type": "giới từ",
-        "example_eng": "It's ten past six.",
-        "example_vi": "Giờ là sáu giờ mười phút."
-    },
-    {
-        "eng": "quarter",
-        "vi": "một phần tư",
-        "mean": "một phần chia làm bốn phần bằng nhau.",
-        "type": "danh từ",
-        "example_eng": "A quarter of the pizza is left.",
-        "example_vi": "Còn lại một phần tư chiếc pizza."
-    },
-    {
-        "eng": "small",
-        "vi": "nhỏ",
-        "mean": "có kích thước nhỏ hơn bình thường.",
-        "type": "tính từ",
-        "example_eng": "This shirt is too small for me.",
-        "example_vi": "Cái áo này quá nhỏ đối với tôi."
-    },
-    {
-        "eng": "supper",
-        "vi": "bữa ăn tối muộn",
-        "mean": "bữa ăn nhẹ vào buổi tối muộn.",
-        "type": "danh từ",
-        "example_eng": "They had soup for supper.",
-        "example_vi": "Họ ăn súp cho bữa tối muộn."
-    },
-    {
-        "eng": "teeth",
-        "vi": "răng",
-        "mean": "các cơ quan cứng trong miệng dùng để cắn và nhai.",
-        "type": "danh từ",
-        "example_eng": "She brushes her teeth after meals.",
-        "example_vi": "Cô ấy chải răng sau mỗi bữa ăn."
-    },
-    {
-        "eng": "then",
-        "vi": "sau đó",
-        "mean": "chỉ thời điểm xảy ra sau một hành động khác.",
-        "type": "trạng từ",
-        "example_eng": "We had lunch, then went for a walk.",
-        "example_vi": "Chúng tôi đã ăn trưa, sau đó đi dạo."
-    },
-    {
-        "eng": "time",
-        "vi": "thời gian",
-        "mean": "khoảng thời gian đã qua hoặc sẽ đến.",
-        "type": "danh từ",
-        "example_eng": "What time is it?",
-        "example_vi": "Mấy giờ rồi?"
-    },
-    {
-        "eng": "to",
-        "vi": "đến",
-        "mean": "di chuyển hoặc hướng tới một địa điểm hoặc thời gian cụ thể.",
-        "type": "giới từ",
-        "example_eng": "I will go to the park.",
-        "example_vi": "Tôi sẽ đến công viên."
-    },
-    {
-        "eng": "tooth",
-        "vi": "răng",
-        "mean": "một trong những cấu trúc cứng, nhỏ trong miệng.",
-        "type": "danh từ",
-        "example_eng": "I lost a tooth.",
-        "example_vi": "Tôi đã bị rụng một cái răng."
-    },
-    {
-        "eng": "toothbrush",
-        "vi": "bàn chải đánh răng",
-        "mean": "dụng cụ dùng để chải răng.",
-        "type": "danh từ",
-        "example_eng": "Don't forget your toothbrush!",
-        "example_vi": "Đừng quên bàn chải đánh răng của bạn!"
-    },
-    {
-        "eng": "very",
-        "vi": "rất",
-        "mean": "biểu hiện mức độ cao của một tính chất.",
-        "type": "trạng từ",
-        "example_eng": "It is very hot today.",
-        "example_vi": "Hôm nay trời rất nóng."
-    },
-    {
-        "eng": "wash",
-        "vi": "rửa",
-        "mean": "làm sạch bằng nước và thường là xà phòng.",
-        "type": "động từ",
-        "example_eng": "I wash my hands before eating.",
-        "example_vi": "Tôi rửa tay trước khi ăn."
-    },
-    {
-        "eng": "which",
-        "vi": "cái nào",
-        "mean": "dùng để hỏi về sự lựa chọn giữa nhiều tùy chọn.",
-        "type": "đại từ",
-        "example_eng": "Which one do you prefer?",
-        "example_vi": "Bạn thích cái nào hơn?"
-    },
-    {
-        "eng": "action",
-        "vi": "hành động",
-        "mean": "việc làm hoặc cách thực hiện một việc cụ thể.",
-        "type": "danh từ",
-        "example_eng": "Every action has a consequence.",
-        "example_vi": "Mỗi hành động đều có hệ quả."
-    },
-    {
-        "eng": "after",
-        "vi": "sau",
-        "mean": "xảy ra hoặc đến sau một sự kiện hoặc thời điểm.",
-        "type": "giới từ",
-        "example_eng": "We went home after the movie.",
-        "example_vi": "Chúng tôi về nhà sau khi xem phim."
-    },
-    {
-        "eng": "badminton",
-        "vi": "cầu lông",
-        "mean": "một môn thể thao trong đó người chơi dùng vợt để đánh quả cầu qua lưới.",
-        "type": "danh từ",
-        "example_eng": "She plays badminton every weekend.",
-        "example_vi": "Cô ấy chơi cầu lông mỗi cuối tuần."
-    },
-    {
-        "eng": "begin",
-        "vi": "bắt đầu",
-        "mean": "bắt đầu làm một việc gì đó hoặc một việc gì đó bắt đầu diễn ra.",
-        "type": "động từ",
-        "example_eng": "The class will begin at 8 AM.",
-        "example_vi": "Lớp học sẽ bắt đầu lúc 8 giờ sáng."
-    },
-    {
-        "eng": "biology",
-        "vi": "sinh học",
-        "mean": "ngành khoa học nghiên cứu về sự sống và các sinh vật sống.",
-        "type": "danh từ",
-        "example_eng": "Biology is my favorite subject.",
-        "example_vi": "Sinh học là môn yêu thích của tôi."
-    },
-    {
-        "eng": "canteen",
-        "vi": "nhà ăn",
-        "mean": "nơi trong trường học hoặc công ty, nơi mọi người có thể mua đồ ăn.",
-        "type": "danh từ",
-        "example_eng": "We had lunch in the canteen.",
-        "example_vi": "Chúng tôi ăn trưa trong nhà ăn."
-    },
-    {
-        "eng": "day",
-        "vi": "ngày",
-        "mean": "đơn vị thời gian bằng 24 giờ hoặc khoảng thời gian ánh sáng ban ngày.",
-        "type": "danh từ",
-        "example_eng": "We will meet in three days.",
-        "example_vi": "Chúng ta sẽ gặp nhau sau ba ngày."
-    },
-    {
-        "eng": "eat",
-        "vi": "ăn",
-        "mean": "hành động nhai và nuốt thức ăn.",
-        "type": "động từ",
-        "example_eng": "I eat breakfast at 7 AM.",
-        "example_vi": "Tôi ăn sáng lúc 7 giờ sáng."
-    },
-    {
-        "eng": "every day",
-        "vi": "mỗi ngày",
-        "mean": "xảy ra hoặc diễn ra hàng ngày.",
-        "type": "cụm từ",
-        "example_eng": "I exercise every day.",
-        "example_vi": "Tôi tập thể dục mỗi ngày."
-    },
-    {
-        "eng": "finish",
-        "vi": "kết thúc",
-        "mean": "hoàn thành hoặc làm xong một việc gì đó.",
-        "type": "động từ",
-        "example_eng": "I finish my homework before dinner.",
-        "example_vi": "Tôi hoàn thành bài tập trước bữa tối."
-    },
-    {
-        "eng": "friday",
-        "vi": "thứ sáu",
-        "mean": "ngày trong tuần, sau thứ năm và trước thứ bảy.",
-        "type": "danh từ",
-        "example_eng": "We have a meeting on Friday.",
-        "example_vi": "Chúng ta có cuộc họp vào thứ sáu."
-    },
-    {
-        "eng": "game",
-        "vi": "trò chơi",
-        "mean": "hoạt động vui chơi hoặc thi đấu có luật lệ, thường để giải trí.",
-        "type": "danh từ",
-        "example_eng": "We played a game after school.",
-        "example_vi": "Chúng tôi chơi một trò chơi sau giờ học."
-    },
-    {
-        "eng": "geography",
-        "vi": "địa lý",
-        "mean": "ngành khoa học nghiên cứu về bề mặt trái đất, các quốc gia và địa hình.",
-        "type": "danh từ",
-        "example_eng": "Geography helps us understand the world.",
-        "example_vi": "Địa lý giúp chúng ta hiểu về thế giới."
-    },
-    {
-        "eng": "girl",
-        "vi": "cô gái",
-        "mean": "trẻ em hoặc người nữ.",
-        "type": "danh từ",
-        "example_eng": "The girl is playing in the park.",
-        "example_vi": "Cô bé đang chơi ở công viên."
-    },
-    {
-        "eng": "history",
-        "vi": "lịch sử",
-        "mean": "ngành khoa học nghiên cứu về các sự kiện và con người trong quá khứ.",
-        "type": "danh từ",
-        "example_eng": "I love learning about history.",
-        "example_vi": "Tôi thích học về lịch sử."
-    },
-    {
-        "eng": "holiday",
-        "vi": "kỳ nghỉ",
-        "mean": "thời gian nghỉ ngơi hoặc vui chơi, không làm việc hoặc học tập.",
-        "type": "danh từ",
-        "example_eng": "We are going on holiday next week.",
-        "example_vi": "Chúng tôi sẽ đi nghỉ vào tuần sau."
-    },
-    {
-        "eng": "among",
-        "vi": "giữa",
-        "mean": "nằm trong hoặc giữa nhiều thứ hoặc người.",
-        "type": "giới từ",
-        "example_eng": "She was sitting among her friends.",
-        "example_vi": "Cô ấy đang ngồi giữa bạn bè."
-    },
-    {
-        "eng": "bakery",
-        "vi": "tiệm bánh",
-        "mean": "nơi làm và bán bánh mì, bánh ngọt.",
-        "type": "danh từ",
-        "example_eng": "I bought some bread from the bakery.",
-        "example_vi": "Tôi đã mua một ít bánh mì từ tiệm bánh."
-    },
-    {
-        "eng": "beautiful",
-        "vi": "đẹp",
-        "mean": "rất dễ nhìn, gây ấn tượng tốt về hình thức.",
-        "type": "tính từ",
-        "example_eng": "The garden is beautiful in spring.",
-        "example_vi": "Khu vườn rất đẹp vào mùa xuân."
-    },
-    {
-        "eng": "behind",
-        "vi": "phía sau",
-        "mean": "ở hoặc về phía sau một vị trí hoặc sự vật.",
-        "type": "giới từ",
-        "example_eng": "The car is parked behind the building.",
-        "example_vi": "Chiếc xe đậu sau tòa nhà."
+        "vi": "trên, ở trên",
+        "mean": "Chỉ vị trí cụ thể trên bề mặt của một vật",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "The book is on the table",
+        "example_vi": "Cuốn sách ở trên bàn"
+    },
+    {
+        "eng": "above",
+        "vi": "ở trên, cao hơn",
+        "mean": "Chỉ vị trí ở trên cao hơn so với một vật khác",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "The plane flew above the clouds",
+        "example_vi": "Máy bay bay trên những đám mây"
+    },
+    {
+        "eng": "below",
+        "vi": "dưới, thấp hơn",
+        "mean": "Chỉ vị trí ở thấp hơn so với một vật khác",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "The temperature is below zero",
+        "example_vi": "Nhiệt độ ở dưới 0 độ"
+    },
+    {
+        "eng": "beside",
+        "vi": "bên cạnh",
+        "mean": "Chỉ vị trí ở ngay cạnh một vật hoặc người khác",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "He sat beside me",
+        "example_vi": "Anh ấy ngồi bên cạnh tôi"
     },
     {
         "eng": "between",
-        "vi": "ở giữa",
-        "mean": "nằm ở giữa hai hoặc nhiều vật, người hoặc địa điểm.",
-        "type": "giới từ",
-        "example_eng": "The school is between the library and the park.",
-        "example_vi": "Trường học nằm giữa thư viện và công viên."
+        "vi": "giữa",
+        "mean": "Chỉ vị trí ở giữa hai đối tượng",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "The shop is between the bank and the post office",
+        "example_vi": "Cửa hàng nằm giữa ngân hàng và bưu điện"
     },
     {
-        "eng": "bookstore",
-        "vi": "nhà sách",
-        "mean": "nơi bán sách và các vật phẩm liên quan.",
-        "type": "danh từ",
-        "example_eng": "She bought a novel from the bookstore.",
-        "example_vi": "Cô ấy đã mua một cuốn tiểu thuyết từ nhà sách."
-    },
-    {
-        "eng": "child",
-        "vi": "đứa trẻ",
-        "mean": "một người nhỏ tuổi, thường dưới 12 tuổi.",
-        "type": "danh từ",
-        "example_eng": "The child is playing with a ball.",
-        "example_vi": "Đứa trẻ đang chơi với quả bóng."
-    },
-    {
-        "eng": "children",
-        "vi": "những đứa trẻ",
-        "mean": "số nhiều của 'child', chỉ nhiều đứa trẻ.",
-        "type": "danh từ",
-        "example_eng": "The children are at school.",
-        "example_vi": "Những đứa trẻ đang ở trường."
-    },
-    {
-        "eng": "cinema",
-        "vi": "rạp chiếu phim",
-        "mean": "nơi công chiếu phim điện ảnh cho công chúng.",
-        "type": "danh từ",
-        "example_eng": "We went to the cinema to watch a movie.",
-        "example_vi": "Chúng tôi đã đi rạp chiếu phim để xem phim."
-    },
-    {
-        "eng": "drugstore",
-        "vi": "hiệu thuốc",
-        "mean": "nơi bán thuốc và các sản phẩm chăm sóc sức khỏe.",
-        "type": "danh từ",
-        "example_eng": "I bought some medicine at the drugstore.",
-        "example_vi": "Tôi đã mua một ít thuốc ở hiệu thuốc."
-    },
-    {
-        "eng": "factory",
-        "vi": "nhà máy",
-        "mean": "nơi sản xuất hàng hóa bằng máy móc.",
-        "type": "danh từ",
-        "example_eng": "He works in a car factory.",
-        "example_vi": "Anh ấy làm việc trong một nhà máy sản xuất ô tô."
-    },
-    {
-        "eng": "false",
-        "vi": "sai",
-        "mean": "không đúng sự thật hoặc không chính xác.",
-        "type": "tính từ",
-        "example_eng": "The statement was false.",
-        "example_vi": "Lời tuyên bố đó là sai."
-    },
-    {
-        "eng": "far",
-        "vi": "xa",
-        "mean": "ở khoảng cách lớn, không gần.",
-        "type": "tính từ",
-        "example_eng": "The park is far from here.",
-        "example_vi": "Công viên cách đây rất xa."
-    },
-    {
-        "eng": "flower",
-        "vi": "bông hoa",
-        "mean": "phần sinh sản của cây, thường có màu sắc rực rỡ.",
-        "type": "danh từ",
-        "example_eng": "The garden is full of beautiful flowers.",
-        "example_vi": "Khu vườn đầy những bông hoa đẹp."
-    },
-    {
-        "eng": "hospital",
-        "vi": "bệnh viện",
-        "mean": "nơi cung cấp dịch vụ y tế và điều trị cho người bệnh.",
-        "type": "danh từ",
-        "example_eng": "He was taken to the hospital after the accident.",
-        "example_vi": "Anh ấy được đưa đến bệnh viện sau tai nạn."
-    },
-    {
-        "eng": "hotel",
-        "vi": "khách sạn",
-        "mean": "nơi cung cấp chỗ ở và dịch vụ cho khách du lịch.",
-        "type": "danh từ",
-        "example_eng": "We stayed at a nice hotel by the beach.",
-        "example_vi": "Chúng tôi ở tại một khách sạn đẹp bên bờ biển."
-    },
-    {
-        "eng": "lake",
-        "vi": "hồ",
-        "mean": "một vùng nước tự nhiên, bao quanh bởi đất.",
-        "type": "danh từ",
-        "example_eng": "We had a picnic by the lake.",
-        "example_vi": "Chúng tôi đã có một buổi dã ngoại bên hồ."
-    },
-    {
-        "eng": "left",
-        "vi": "trái",
-        "mean": "bên phía tay trái của cơ thể hoặc một vật.",
-        "type": "tính từ",
-        "example_eng": "Turn left at the corner.",
-        "example_vi": "Rẽ trái ở góc phố."
-    },
-    {
-        "eng": "like",
-        "vi": "thích",
-        "mean": "cảm thấy yêu thích hoặc hài lòng về một điều gì đó.",
-        "type": "động từ",
-        "example_eng": "I like chocolate ice cream.",
-        "example_vi": "Tôi thích kem sô-cô-la."
-    },
-    {
-        "eng": "look at",
-        "vi": "nhìn vào",
-        "mean": "hướng mắt về một vật hay sự vật để quan sát.",
-        "type": "cụm động từ",
-        "example_eng": "Look at the sky, it's so beautiful.",
-        "example_vi": "Nhìn lên bầu trời kìa, thật đẹp."
-    },
-    {
-        "eng": "love",
-        "vi": "yêu",
-        "mean": "cảm giác mạnh mẽ về sự thích hoặc tình cảm sâu sắc đối với ai đó hoặc điều gì đó.",
-        "type": "động từ",
-        "example_eng": "I love my family.",
-        "example_vi": "Tôi yêu gia đình của mình."
-    },
-    {
-        "eng": "mountain",
-        "vi": "núi",
-        "mean": "một khu vực địa lý cao hơn xung quanh, thường có đỉnh và sườn dốc.",
-        "type": "danh từ",
-        "example_eng": "We went hiking on the mountain.",
-        "example_vi": "Chúng tôi đã đi leo núi."
-    },
-    {
-        "eng": "movie",
-        "vi": "phim",
-        "mean": "một câu chuyện hoặc sự kiện được ghi lại và trình chiếu dưới dạng video.",
-        "type": "danh từ",
-        "example_eng": "We watched a movie at the cinema.",
-        "example_vi": "Chúng tôi đã xem một bộ phim ở rạp chiếu phim."
-    },
-    {
-        "eng": "museum",
-        "vi": "bảo tàng",
-        "mean": "một nơi lưu giữ và trưng bày các hiện vật văn hóa, nghệ thuật, khoa học.",
-        "type": "danh từ",
-        "example_eng": "The museum has an amazing collection of art.",
-        "example_vi": "Bảo tàng có một bộ sưu tập nghệ thuật tuyệt vời."
+        "eng": "among",
+        "vi": "trong số",
+        "mean": "Chỉ vị trí hoặc mối quan hệ giữa nhiều đối tượng",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "She was among the winners",
+        "example_vi": "Cô ấy nằm trong số những người chiến thắng"
     },
     {
         "eng": "near",
         "vi": "gần",
-        "mean": "ở khoảng cách ngắn hoặc không xa so với vị trí hiện tại.",
-        "type": "giới từ",
-        "example_eng": "The school is near my house.",
-        "example_vi": "Trường học ở gần nhà tôi."
+        "mean": "Chỉ vị trí ở gần một địa điểm hoặc đối tượng nào đó",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "I live near the station",
+        "example_vi": "Tôi sống gần nhà ga"
     },
     {
-        "eng": "neighborhood",
-        "vi": "khu vực lân cận",
-        "mean": "khu vực xung quanh nơi bạn sống hoặc làm việc.",
-        "type": "danh từ",
-        "example_eng": "We live in a quiet neighborhood.",
-        "example_vi": "Chúng tôi sống trong một khu vực yên tĩnh."
+        "eng": "inside",
+        "vi": "bên trong",
+        "mean": "Chỉ vị trí ở phía trong của một vật hoặc không gian",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "The cat is inside the box",
+        "example_vi": "Con mèo ở bên trong hộp"
     },
     {
-        "eng": "next to",
-        "vi": "bên cạnh",
-        "mean": "ở vị trí liền kề hoặc rất gần với cái gì đó.",
-        "type": "cụm từ",
-        "example_eng": "The bookstore is next to the coffee shop.",
-        "example_vi": "Nhà sách nằm bên cạnh quán cà phê."
+        "eng": "outside",
+        "vi": "bên ngoài",
+        "mean": "Chỉ vị trí ở phía ngoài của một vật hoặc không gian",
+        "type": "giới từ chỉ vị trí và nơi chốn",
+        "example_eng": "The children are playing outside",
+        "example_vi": "Bọn trẻ đang chơi ở bên ngoài"
     },
     {
-        "eng": "opposite",
-        "vi": "đối diện",
-        "mean": "ở phía đối diện với cái gì đó, thường ở khoảng cách nhất định.",
-        "type": "giới từ",
-        "example_eng": "The restaurant is opposite the park.",
-        "example_vi": "Nhà hàng đối diện công viên."
+        "eng": "at",
+        "vi": "vào lúc",
+        "mean": "Dùng để chỉ thời gian cụ thể",
+        "type": "giới từ chỉ thời gian",
+        "example_eng": "The meeting starts at 3 PM",
+        "example_vi": "Cuộc họp bắt đầu vào lúc 3 giờ chiều"
     },
     {
-        "eng": "park",
-        "vi": "công viên",
-        "mean": "khu vực công cộng có nhiều cây xanh, thường dùng để giải trí và thư giãn.",
-        "type": "danh từ",
-        "example_eng": "We went for a walk in the park.",
-        "example_vi": "Chúng tôi đi dạo trong công viên."
+        "eng": "in",
+        "vi": "vào, trong",
+        "mean": "Dùng cho tháng, mùa, năm",
+        "type": "giới từ chỉ thời gian",
+        "example_eng": "I was born in 1990",
+        "example_vi": "Tôi sinh ra vào năm 1990"
     },
     {
-        "eng": "photocopy store",
-        "vi": "cửa hàng photocopy",
-        "mean": "nơi cung cấp dịch vụ sao chép tài liệu.",
-        "type": "danh từ",
-        "example_eng": "I need to get these documents copied at the photocopy store.",
-        "example_vi": "Tôi cần sao chép những tài liệu này tại cửa hàng photocopy."
+        "eng": "on",
+        "vi": "vào ngày",
+        "mean": "Dùng cho ngày cụ thể",
+        "type": "giới từ chỉ thời gian",
+        "example_eng": "We will meet on Monday",
+        "example_vi": "Chúng ta sẽ gặp nhau vào thứ Hai"
     },
     {
-        "eng": "place",
-        "vi": "nơi chốn",
-        "mean": "vị trí hoặc khu vực cụ thể.",
-        "type": "danh từ",
-        "example_eng": "This park is a beautiful place to relax.",
-        "example_vi": "Công viên này là nơi đẹp để thư giãn."
+        "eng": "before",
+        "vi": "trước",
+        "mean": "Chỉ thời điểm trước một sự kiện hoặc thời gian nào đó",
+        "type": "giới từ chỉ thời gian",
+        "example_eng": "Please arrive before noon",
+        "example_vi": "Vui lòng đến trước trưa"
     },
     {
-        "eng": "police",
-        "vi": "cảnh sát",
-        "mean": "lực lượng thi hành pháp luật và duy trì trật tự.",
-        "type": "danh từ",
-        "example_eng": "The police are investigating the case.",
-        "example_vi": "Cảnh sát đang điều tra vụ án."
+        "eng": "after",
+        "vi": "sau",
+        "mean": "Chỉ thời điểm sau một sự kiện hoặc thời gian nào đó",
+        "type": "giới từ chỉ thời gian",
+        "example_eng": "I'll call you after dinner",
+        "example_vi": "Tôi sẽ gọi cho bạn sau bữa tối"
     },
     {
-        "eng": "police station",
-        "vi": "đồn cảnh sát",
-        "mean": "nơi làm việc của lực lượng cảnh sát trong khu vực.",
-        "type": "danh từ",
-        "example_eng": "We reported the incident at the police station.",
-        "example_vi": "Chúng tôi đã báo cáo vụ việc tại đồn cảnh sát."
+        "eng": "during",
+        "vi": "trong suốt",
+        "mean": "Dùng cho thời kỳ hoặc sự kiện kéo dài",
+        "type": "giới từ chỉ thời gian",
+        "example_eng": "It often rains during summer",
+        "example_vi": "Trời thường mưa trong suốt mùa hè"
     },
     {
-        "eng": "restaurant",
-        "vi": "nhà hàng",
-        "mean": "nơi phục vụ thức ăn và đồ uống cho khách hàng.",
-        "type": "danh từ",
-        "example_eng": "We had dinner at a nice restaurant.",
-        "example_vi": "Chúng tôi đã ăn tối tại một nhà hàng đẹp."
+        "eng": "since",
+        "vi": "từ lúc",
+        "mean": "Chỉ mốc thời gian bắt đầu và còn tiếp diễn",
+        "type": "giới từ chỉ thời gian",
+        "example_eng": "I have lived here since 2010",
+        "example_vi": "Tôi đã sống ở đây từ năm 2010"
     },
     {
-        "eng": "rice",
-        "vi": "cơm",
-        "mean": "hạt của cây lúa, thường được nấu chín và ăn như món chính.",
-        "type": "danh từ",
-        "example_eng": "We eat rice with almost every meal.",
-        "example_vi": "Chúng tôi ăn cơm gần như mỗi bữa ăn."
+        "eng": "until",
+        "vi": "cho đến khi",
+        "mean": "Chỉ thời điểm kết thúc của một hành động hoặc sự việc",
+        "type": "giới từ chỉ thời gian",
+        "example_eng": "The shop is open until midnight",
+        "example_vi": "Cửa hàng mở cửa cho đến nửa đêm"
     },
     {
-        "eng": "rice paddy",
-        "vi": "ruộng lúa",
-        "mean": "khu vực trồng lúa nước, thường ở vùng nông thôn.",
-        "type": "danh từ",
-        "example_eng": "The rice paddy stretches across the valley.",
-        "example_vi": "Ruộng lúa trải dài khắp thung lũng."
+        "eng": "for",
+        "vi": "trong khoảng",
+        "mean": "Dùng với khoảng thời gian",
+        "type": "giới từ chỉ thời gian",
+        "example_eng": "I studied for two hours",
+        "example_vi": "Tôi đã học trong hai tiếng"
     },
     {
-        "eng": "right",
-        "vi": "phải",
-        "mean": "bên phía tay phải của cơ thể hoặc một vật.",
-        "type": "tính từ",
-        "example_eng": "Turn right at the next intersection.",
-        "example_vi": "Rẽ phải ở ngã tư tiếp theo."
+        "eng": "for",
+        "vi": "vì, cho",
+        "mean": "Chỉ mục đích hoặc đối tượng nhận",
+        "type": "giới từ chỉ mục đích và nguyên nhân",
+        "example_eng": "This gift is for you",
+        "example_vi": "Món quà này là dành cho bạn"
     },
     {
-        "eng": "river",
-        "vi": "sông",
-        "mean": "dòng nước lớn chảy qua nhiều vùng đất và đổ ra biển.",
-        "type": "danh từ",
-        "example_eng": "The river flows through the city.",
-        "example_vi": "Con sông chảy qua thành phố."
+        "eng": "of",
+        "vi": "của",
+        "mean": "Chỉ nguồn gốc hoặc thuộc về",
+        "type": "giới từ chỉ mục đích và nguyên nhân",
+        "example_eng": "The color of the sky is blue",
+        "example_vi": "Màu của bầu trời là xanh"
     },
     {
-        "eng": "stadium",
-        "vi": "sân vận động",
-        "mean": "khu vực lớn, có khán đài, dùng cho các sự kiện thể thao hoặc giải trí.",
-        "type": "danh từ",
-        "example_eng": "The stadium was packed with fans.",
-        "example_vi": "Sân vận động chật kín người hâm mộ."
+        "eng": "with",
+        "vi": "với",
+        "mean": "Chỉ sự đồng hành hoặc công cụ sử dụng",
+        "type": "giới từ chỉ mục đích và nguyên nhân",
+        "example_eng": "I went to the movies with my friends",
+        "example_vi": "Tôi đi xem phim với bạn bè"
     },
     {
-        "eng": "store",
-        "vi": "cửa hàng",
-        "mean": "nơi bán hàng hóa, sản phẩm cho khách hàng.",
-        "type": "danh từ",
-        "example_eng": "We bought groceries at the store.",
-        "example_vi": "Chúng tôi mua thực phẩm ở cửa hàng."
+        "eng": "about",
+        "vi": "về, liên quan đến",
+        "mean": "Chỉ chủ đề hoặc nội dung được đề cập",
+        "type": "giới từ chỉ mục đích và nguyên nhân",
+        "example_eng": "We talked about the weather",
+        "example_vi": "Chúng tôi nói về thời tiết"
     },
     {
-        "eng": "tall",
-        "vi": "cao",
-        "mean": "có chiều cao lớn hơn bình thường.",
-        "type": "tính từ",
-        "example_eng": "He is very tall for his age.",
-        "example_vi": "Anh ấy rất cao so với tuổi của mình."
+        "eng": "by",
+        "vi": "bởi, bằng cách",
+        "mean": "Dùng để chỉ phương tiện hoặc cách thức",
+        "type": "giới từ chỉ mục đích và nguyên nhân",
+        "example_eng": "I travel to work by bus",
+        "example_vi": "Tôi đi làm bằng xe buýt"
     },
     {
-        "eng": "temple",
-        "vi": "ngôi đền",
-        "mean": "nơi thờ cúng hoặc tôn thờ thần linh, thường theo tôn giáo.",
-        "type": "danh từ",
-        "example_eng": "We visited an ancient temple in the city.",
-        "example_vi": "Chúng tôi đã thăm một ngôi đền cổ trong thành phố."
+        "eng": "to",
+        "vi": "đến",
+        "mean": "Chỉ điểm đến hoặc hướng di chuyển",
+        "type": "giới từ chỉ phương hướng và chuyển động",
+        "example_eng": "I'm going to school",
+        "example_vi": "Tôi đang đi đến trường"
     },
     {
-        "eng": "theater",
-        "vi": "rạp hát",
-        "mean": "nơi diễn ra các buổi biểu diễn trực tiếp hoặc chiếu phim.",
-        "type": "danh từ",
-        "example_eng": "We saw a play at the theater last night.",
-        "example_vi": "Chúng tôi đã xem một vở kịch tại rạp hát tối qua."
+        "eng": "from",
+        "vi": "từ",
+        "mean": "Chỉ nguồn gốc hoặc điểm xuất phát",
+        "type": "giới từ chỉ phương hướng và chuyển động",
+        "example_eng": "This letter is from my mother",
+        "example_vi": "Lá thư này là từ mẹ tôi"
     },
     {
-        "eng": "town",
-        "vi": "thị trấn",
-        "mean": "một khu vực định cư nhỏ hơn thành phố nhưng lớn hơn làng.",
-        "type": "danh từ",
-        "example_eng": "The town is growing rapidly.",
-        "example_vi": "Thị trấn đang phát triển nhanh chóng."
+        "eng": "into",
+        "vi": "vào trong",
+        "mean": "Chỉ sự di chuyển từ bên ngoài vào bên trong",
+        "type": "giới từ chỉ phương hướng và chuyển động",
+        "example_eng": "She walked into the room",
+        "example_vi": "Cô ấy đi vào trong phòng"
     },
     {
-        "eng": "toy store",
-        "vi": "cửa hàng đồ chơi",
-        "mean": "nơi bán các món đồ chơi cho trẻ em.",
-        "type": "danh từ",
-        "example_eng": "We bought a new doll at the toy store.",
-        "example_vi": "Chúng tôi đã mua một con búp bê mới tại cửa hàng đồ chơi."
+        "eng": "out of",
+        "vi": "ra khỏi",
+        "mean": "Chỉ sự di chuyển từ bên trong ra bên ngoài",
+        "type": "giới từ chỉ phương hướng và chuyển động",
+        "example_eng": "The cat jumped out of the window",
+        "example_vi": "Con mèo nhảy ra khỏi cửa sổ"
     },
     {
-        "eng": "tree",
-        "vi": "cây",
-        "mean": "thực vật lớn có thân gỗ, cành và lá.",
-        "type": "danh từ",
-        "example_eng": "There is a big tree in our backyard.",
-        "example_vi": "Có một cái cây lớn trong sân sau nhà chúng tôi."
+        "eng": "toward(s)",
+        "vi": "hướng tới",
+        "mean": "Chỉ hướng di chuyển về phía một điểm",
+        "type": "giới từ chỉ phương hướng và chuyển động",
+        "example_eng": "We walked toward the beach",
+        "example_vi": "Chúng tôi đi bộ hướng về phía bãi biển"
     },
     {
-        "eng": "true",
-        "vi": "đúng",
-        "mean": "phù hợp với thực tế hoặc sự thật.",
-        "type": "tính từ",
-        "example_eng": "Her story turned out to be true.",
-        "example_vi": "Câu chuyện của cô ấy hóa ra là đúng."
+        "eng": "through",
+        "vi": "xuyên qua",
+        "mean": "Chỉ sự di chuyển xuyên qua một vật hoặc không gian",
+        "type": "giới từ chỉ phương hướng và chuyển động",
+        "example_eng": "The train went through the tunnel",
+        "example_vi": "Tàu đi xuyên qua đường hầm"
     },
     {
-        "eng": "truth",
-        "vi": "sự thật",
-        "mean": "thực tế hoặc điều gì đó phù hợp với sự thật.",
-        "type": "danh từ",
-        "example_eng": "The truth finally came out.",
-        "example_vi": "Sự thật cuối cùng cũng được tiết lộ."
+        "eng": "across",
+        "vi": "qua, ngang qua",
+        "mean": "Chỉ sự di chuyển từ bên này sang bên kia",
+        "type": "giới từ chỉ phương hướng và chuyển động",
+        "example_eng": "We walked across the street",
+        "example_vi": "Chúng tôi đi ngang qua đường"
     },
     {
-        "eng": "village",
-        "vi": "làng",
-        "mean": "khu định cư nhỏ hơn thị trấn, thường ở vùng nông thôn.",
-        "type": "danh từ",
-        "example_eng": "We visited a quiet village in the mountains.",
-        "example_vi": "Chúng tôi đã thăm một ngôi làng yên tĩnh trên núi."
+        "eng": "along",
+        "vi": "dọc theo",
+        "mean": "Chỉ sự di chuyển theo một đường hoặc hướng",
+        "type": "giới từ chỉ phương hướng và chuyển động",
+        "example_eng": "We walked along the river",
+        "example_vi": "Chúng tôi đi bộ dọc theo con sông"
     },
     {
-        "eng": "well",
-        "vi": "giếng",
-        "mean": "nguồn nước tự nhiên được khai thác bằng cách đào sâu xuống lòng đất.",
-        "type": "danh từ",
-        "example_eng": "The villagers get their water from the well.",
-        "example_vi": "Dân làng lấy nước từ giếng."
+        "eng": "around",
+        "vi": "quanh",
+        "mean": "Chỉ sự di chuyển vòng quanh một đối tượng hoặc địa điểm",
+        "type": "giới từ chỉ phương hướng và chuyển động",
+        "example_eng": "We drove around the city",
+        "example_vi": "Chúng tôi lái xe quanh thành phố"
     },
     {
-        "eng": "work",
-        "vi": "công việc",
-        "mean": "hoạt động hoặc nhiệm vụ mà một người làm để kiếm sống.",
-        "type": "danh từ",
-        "example_eng": "He has a lot of work to do today.",
-        "example_vi": "Anh ấy có rất nhiều việc phải làm hôm nay."
+        "eng": "without",
+        "vi": "không có",
+        "mean": "Chỉ sự vắng mặt hoặc thiếu vắng của một thứ gì đó",
+        "type": "các giới từ khác thường gặp",
+        "example_eng": "I can't sleep without music",
+        "example_vi": "Tôi không thể ngủ nếu không có nhạc"
     },
     {
-        "eng": "yard",
-        "vi": "sân",
-        "mean": "khu vực ngoài trời, thường là sân sau hoặc trước nhà.",
-        "type": "danh từ",
-        "example_eng": "The kids are playing in the yard.",
-        "example_vi": "Bọn trẻ đang chơi trong sân."
+        "eng": "per",
+        "vi": "mỗi, cho mỗi",
+        "mean": "Dùng trong tỷ lệ hoặc đơn vị đo lường",
+        "type": "các giới từ khác thường gặp",
+        "example_eng": "The speed limit is 60 miles per hour",
+        "example_vi": "Giới hạn tốc độ là 60 dặm một giờ"
+    },
+    {
+        "eng": "except",
+        "vi": "ngoại trừ",
+        "mean": "Chỉ sự loại trừ hoặc ngoại lệ",
+        "type": "các giới từ khác thường gặp",
+        "example_eng": "Everyone came except John",
+        "example_vi": "Mọi người đều đến ngoại trừ John"
+    },
+    {
+        "eng": "despite",
+        "vi": "mặc dù",
+        "mean": "Chỉ sự đối lập hoặc trái ngược với điều gì đó",
+        "type": "các giới từ khác thường gặp",
+        "example_eng": "He went out despite the rain",
+        "example_vi": "Anh ấy vẫn ra ngoài mặc dù trời mưa"
+    },
+    {
+        "eng": "in spite of",
+        "vi": "mặc dù",
+        "mean": "Tương tự 'despite', chỉ sự đối lập hoặc trái ngược",
+        "type": "các giới từ khác thường gặp",
+        "example_eng": "In spite of the difficulties, we succeeded",
+        "example_vi": "Mặc dù có nhiều khó khăn, chúng tôi đã thành công"
+    },
+    {
+        "eng": "according to",
+        "vi": "theo như, theo",
+        "mean": "Chỉ nguồn thông tin hoặc ý kiến được trích dẫn",
+        "type": "các giới từ khác thường gặp",
+        "example_eng": "According to the weather forecast, it will rain tomorrow",
+        "example_vi": "Theo dự báo thời tiết, ngày mai trời sẽ mưa"
     }
 ]
