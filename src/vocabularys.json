@@ -10,15 +10,15 @@
     {
         "eng": "in",
         "vi": "trong, ở",
-        "mean": "Dùng để chỉ địa điểm rộng hoặc không gian bao quanh",
+        "mean": "Dùng để chỉ địa điểm rộng hoặc bao gồm không gian bên trong",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "She lives in Vietnam",
-        "example_vi": "Cô ấy sống ở Việt Nam"
+        "example_eng": "She is in the park",
+        "example_vi": "Cô ấy đang ở trong công viên"
     },
     {
         "eng": "on",
         "vi": "trên, ở trên",
-        "mean": "Chỉ vị trí cụ thể trên bề mặt của một vật",
+        "mean": "Chỉ vị trí khi một vật nằm hoặc tiếp xúc với bề mặt của một thứ khác",
         "type": "giới từ chỉ vị trí và nơi chốn",
         "example_eng": "The book is on the table",
         "example_vi": "Cuốn sách ở trên bàn"
@@ -26,297 +26,289 @@
     {
         "eng": "above",
         "vi": "ở trên, cao hơn",
-        "mean": "Chỉ vị trí ở trên cao hơn so với một vật khác",
+        "mean": "Dùng khi một vật ở vị trí cao hơn, không chạm hoặc tiếp xúc với bề mặt của vật bên dưới",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "The plane flew above the clouds",
-        "example_vi": "Máy bay bay trên những đám mây"
+        "example_eng": "The clock is above the door",
+        "example_vi": "Đồng hồ ở trên cửa"
     },
     {
         "eng": "below",
-        "vi": "dưới, thấp hơn",
-        "mean": "Chỉ vị trí ở thấp hơn so với một vật khác",
+        "vi": "ở dưới, thấp hơn",
+        "mean": "Chỉ vị trí thấp hơn một thứ khác",
         "type": "giới từ chỉ vị trí và nơi chốn",
         "example_eng": "The temperature is below zero",
-        "example_vi": "Nhiệt độ ở dưới 0 độ"
+        "example_vi": "Nhiệt độ dưới 0 độ"
     },
     {
         "eng": "beside",
         "vi": "bên cạnh",
-        "mean": "Chỉ vị trí ở ngay cạnh một vật hoặc người khác",
+        "mean": "Dùng khi một vật hoặc người ở sát bên một vật hoặc người khác",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "He sat beside me",
-        "example_vi": "Anh ấy ngồi bên cạnh tôi"
+        "example_eng": "She sat beside her friend",
+        "example_vi": "Cô ấy ngồi bên cạnh bạn của mình"
     },
     {
         "eng": "between",
         "vi": "giữa",
-        "mean": "Chỉ vị trí ở giữa hai đối tượng",
+        "mean": "Dùng khi một vật hoặc người ở vị trí nằm giữa hai đối tượng",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "The shop is between the bank and the post office",
-        "example_vi": "Cửa hàng nằm giữa ngân hàng và bưu điện"
+        "example_eng": "He is standing between his parents",
+        "example_vi": "Anh ấy đứng giữa bố mẹ"
     },
     {
         "eng": "among",
         "vi": "trong số",
-        "mean": "Chỉ vị trí hoặc mối quan hệ giữa nhiều đối tượng",
+        "mean": "Dùng khi một vật hoặc người ở trong tập hợp của nhiều đối tượng khác",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "She was among the winners",
-        "example_vi": "Cô ấy nằm trong số những người chiến thắng"
+        "example_eng": "She found her friend among the crowd",
+        "example_vi": "Cô ấy tìm thấy bạn mình trong đám đông"
     },
     {
         "eng": "near",
         "vi": "gần",
-        "mean": "Chỉ vị trí ở gần một địa điểm hoặc đối tượng nào đó",
+        "mean": "Dùng khi một vật hoặc người ở vị trí gần một đối tượng khác",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "I live near the station",
-        "example_vi": "Tôi sống gần nhà ga"
+        "example_eng": "The school is near the hospital",
+        "example_vi": "Trường học gần bệnh viện"
     },
     {
         "eng": "inside",
         "vi": "bên trong",
-        "mean": "Chỉ vị trí ở phía trong của một vật hoặc không gian",
+        "mean": "Chỉ vị trí bên trong một không gian khép kín hoặc bao quanh",
         "type": "giới từ chỉ vị trí và nơi chốn",
         "example_eng": "The cat is inside the box",
-        "example_vi": "Con mèo ở bên trong hộp"
+        "example_vi": "Con mèo ở trong hộp"
     },
     {
         "eng": "outside",
         "vi": "bên ngoài",
-        "mean": "Chỉ vị trí ở phía ngoài của một vật hoặc không gian",
+        "mean": "Chỉ vị trí bên ngoài một không gian khép kín hoặc tòa nhà",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "The children are playing outside",
-        "example_vi": "Bọn trẻ đang chơi ở bên ngoài"
+        "example_eng": "The dog is outside the house",
+        "example_vi": "Con chó ở bên ngoài nhà"
     },
     {
         "eng": "at",
         "vi": "vào lúc",
-        "mean": "Dùng để chỉ thời gian cụ thể",
+        "mean": "Dùng chỉ thời gian cụ thể hoặc khoảng thời gian ngắn",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "The meeting starts at 3 PM",
-        "example_vi": "Cuộc họp bắt đầu vào lúc 3 giờ chiều"
+        "example_eng": "at 3 PM",
+        "example_vi": "vào lúc 3 giờ chiều"
     },
     {
         "eng": "in",
         "vi": "vào, trong",
-        "mean": "Dùng cho tháng, mùa, năm",
+        "mean": "Dùng chỉ tháng, mùa, năm hoặc thời kỳ dài hơn",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "I was born in 1990",
-        "example_vi": "Tôi sinh ra vào năm 1990"
+        "example_eng": "in January",
+        "example_vi": "vào tháng Giêng"
     },
     {
         "eng": "on",
         "vi": "vào ngày",
-        "mean": "Dùng cho ngày cụ thể",
+        "mean": "Dùng cho ngày cụ thể hoặc ngày trong tuần",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "We will meet on Monday",
-        "example_vi": "Chúng ta sẽ gặp nhau vào thứ Hai"
+        "example_eng": "on Monday",
+        "example_vi": "vào thứ Hai"
     },
     {
         "eng": "before",
         "vi": "trước",
-        "mean": "Chỉ thời điểm trước một sự kiện hoặc thời gian nào đó",
+        "mean": "Dùng để nói về một sự kiện xảy ra trước một thời điểm hoặc sự kiện khác",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "Please arrive before noon",
-        "example_vi": "Vui lòng đến trước trưa"
+        "example_eng": "before 9 AM",
+        "example_vi": "trước 9 giờ sáng"
     },
     {
         "eng": "after",
         "vi": "sau",
-        "mean": "Chỉ thời điểm sau một sự kiện hoặc thời gian nào đó",
+        "mean": "Chỉ một sự kiện xảy ra sau một thời điểm hoặc sự kiện khác",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "I'll call you after dinner",
-        "example_vi": "Tôi sẽ gọi cho bạn sau bữa tối"
+        "example_eng": "after lunch",
+        "example_vi": "sau bữa trưa"
     },
     {
         "eng": "during",
         "vi": "trong suốt",
-        "mean": "Dùng cho thời kỳ hoặc sự kiện kéo dài",
+        "mean": "Dùng để diễn tả một sự việc kéo dài trong suốt khoảng thời gian của một sự kiện hoặc thời kỳ",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "It often rains during summer",
-        "example_vi": "Trời thường mưa trong suốt mùa hè"
+        "example_eng": "during the meeting",
+        "example_vi": "trong suốt cuộc họp"
     },
     {
         "eng": "since",
         "vi": "từ lúc",
-        "mean": "Chỉ mốc thời gian bắt đầu và còn tiếp diễn",
+        "mean": "Dùng để chỉ mốc thời gian bắt đầu và còn tiếp diễn đến hiện tại",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "I have lived here since 2010",
-        "example_vi": "Tôi đã sống ở đây từ năm 2010"
+        "example_eng": "since 1990",
+        "example_vi": "từ năm 1990"
     },
     {
         "eng": "until",
         "vi": "cho đến khi",
-        "mean": "Chỉ thời điểm kết thúc của một hành động hoặc sự việc",
+        "mean": "Dùng để diễn tả sự việc kéo dài đến một thời điểm nhất định rồi kết thúc",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "The shop is open until midnight",
-        "example_vi": "Cửa hàng mở cửa cho đến nửa đêm"
+        "example_eng": "until midnight",
+        "example_vi": "cho đến nửa đêm"
     },
     {
         "eng": "for",
         "vi": "trong khoảng",
-        "mean": "Dùng với khoảng thời gian",
+        "mean": "Dùng với khoảng thời gian kéo dài bao lâu",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "I studied for two hours",
-        "example_vi": "Tôi đã học trong hai tiếng"
+        "example_eng": "for 2 hours",
+        "example_vi": "trong 2 giờ"
     },
     {
         "eng": "for",
         "vi": "vì, cho",
-        "mean": "Chỉ mục đích hoặc đối tượng nhận",
+        "mean": "Dùng khi chỉ mục đích của một hành động hoặc đối tượng nhận",
         "type": "giới từ chỉ mục đích và nguyên nhân",
-        "example_eng": "This gift is for you",
-        "example_vi": "Món quà này là dành cho bạn"
+        "example_eng": "for you",
+        "example_vi": "cho bạn"
     },
     {
         "eng": "of",
         "vi": "của",
-        "mean": "Chỉ nguồn gốc hoặc thuộc về",
+        "mean": "Chỉ sự sở hữu, nguồn gốc, hoặc quan hệ giữa hai đối tượng",
         "type": "giới từ chỉ mục đích và nguyên nhân",
-        "example_eng": "The color of the sky is blue",
-        "example_vi": "Màu của bầu trời là xanh"
+        "example_eng": "the color of the sky",
+        "example_vi": "màu sắc của bầu trời"
     },
     {
         "eng": "with",
         "vi": "với",
-        "mean": "Chỉ sự đồng hành hoặc công cụ sử dụng",
+        "mean": "Diễn tả sự đồng hành với một người, hoặc dùng một công cụ, phương tiện để thực hiện hành động",
         "type": "giới từ chỉ mục đích và nguyên nhân",
-        "example_eng": "I went to the movies with my friends",
-        "example_vi": "Tôi đi xem phim với bạn bè"
+        "example_eng": "with friends",
+        "example_vi": "cùng với bạn bè"
     },
     {
         "eng": "about",
         "vi": "về, liên quan đến",
-        "mean": "Chỉ chủ đề hoặc nội dung được đề cập",
+        "mean": "Dùng để nói về một chủ đề hoặc điều liên quan đến sự việc, sự vật",
         "type": "giới từ chỉ mục đích và nguyên nhân",
-        "example_eng": "We talked about the weather",
-        "example_vi": "Chúng tôi nói về thời tiết"
+        "example_eng": "a book about history",
+        "example_vi": "một cuốn sách về lịch sử"
     },
     {
         "eng": "by",
         "vi": "bởi, bằng cách",
-        "mean": "Dùng để chỉ phương tiện hoặc cách thức",
+        "mean": "Diễn tả người thực hiện hành động hoặc phương tiện, cách thức mà hành động được thực hiện",
         "type": "giới từ chỉ mục đích và nguyên nhân",
-        "example_eng": "I travel to work by bus",
-        "example_vi": "Tôi đi làm bằng xe buýt"
+        "example_eng": "by bus",
+        "example_vi": "bằng xe buýt"
     },
     {
         "eng": "to",
         "vi": "đến",
-        "mean": "Chỉ điểm đến hoặc hướng di chuyển",
+        "mean": "Dùng khi chỉ hướng đến một nơi hoặc đích đến cụ thể",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "I'm going to school",
-        "example_vi": "Tôi đang đi đến trường"
+        "example_eng": "go to school",
+        "example_vi": "đi đến trường"
     },
     {
         "eng": "from",
         "vi": "từ",
-        "mean": "Chỉ nguồn gốc hoặc điểm xuất phát",
+        "mean": "Chỉ điểm xuất phát hoặc nguồn gốc của một người, vật hoặc hành động",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "This letter is from my mother",
-        "example_vi": "Lá thư này là từ mẹ tôi"
+        "example_eng": "from Vietnam",
+        "example_vi": "từ Việt Nam"
     },
     {
         "eng": "into",
         "vi": "vào trong",
-        "mean": "Chỉ sự di chuyển từ bên ngoài vào bên trong",
+        "mean": "Chỉ sự di chuyển từ bên ngoài vào bên trong của một không gian",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "She walked into the room",
-        "example_vi": "Cô ấy đi vào trong phòng"
+        "example_eng": "walk into the room",
+        "example_vi": "bước vào phòng"
     },
     {
         "eng": "out of",
         "vi": "ra khỏi",
-        "mean": "Chỉ sự di chuyển từ bên trong ra bên ngoài",
+        "mean": "Chỉ sự di chuyển từ bên trong ra bên ngoài của một không gian",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "The cat jumped out of the window",
-        "example_vi": "Con mèo nhảy ra khỏi cửa sổ"
+        "example_eng": "go out of the house",
+        "example_vi": "đi ra khỏi nhà"
     },
     {
         "eng": "toward(s)",
         "vi": "hướng tới",
-        "mean": "Chỉ hướng di chuyển về phía một điểm",
+        "mean": "Chỉ hướng di chuyển đến gần một nơi hoặc một người, không nhất thiết đến đích chính xác",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "We walked toward the beach",
-        "example_vi": "Chúng tôi đi bộ hướng về phía bãi biển"
+        "example_eng": "walk towards the park",
+        "example_vi": "đi về phía công viên"
     },
     {
         "eng": "through",
         "vi": "xuyên qua",
-        "mean": "Chỉ sự di chuyển xuyên qua một vật hoặc không gian",
+        "mean": "Dùng khi di chuyển xuyên qua một vật, không gian, hoặc khoảng trống",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "The train went through the tunnel",
-        "example_vi": "Tàu đi xuyên qua đường hầm"
+        "example_eng": "go through the tunnel",
+        "example_vi": "đi qua đường hầm"
     },
     {
         "eng": "across",
         "vi": "qua, ngang qua",
-        "mean": "Chỉ sự di chuyển từ bên này sang bên kia",
+        "mean": "Chỉ sự di chuyển từ một bên sang bên kia của một nơi hoặc một không gian rộng",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "We walked across the street",
-        "example_vi": "Chúng tôi đi ngang qua đường"
+        "example_eng": "walk across the street",
+        "example_vi": "băng qua đường"
     },
     {
         "eng": "along",
         "vi": "dọc theo",
-        "mean": "Chỉ sự di chuyển theo một đường hoặc hướng",
+        "mean": "Chỉ sự di chuyển dọc theo chiều dài của một cái gì đó, như con đường hoặc bờ sông",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "We walked along the river",
-        "example_vi": "Chúng tôi đi bộ dọc theo con sông"
+        "example_eng": "walk along the beach",
+        "example_vi": "đi dọc theo bãi biển"
     },
     {
         "eng": "around",
-        "vi": "quanh",
-        "mean": "Chỉ sự di chuyển vòng quanh một đối tượng hoặc địa điểm",
+        "vi": "quanh, xung quanh",
+        "mean": "Diễn tả sự di chuyển vòng quanh một vật hoặc trong một khu vực xung quanh",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "We drove around the city",
-        "example_vi": "Chúng tôi lái xe quanh thành phố"
+        "example_eng": "walk around the park",
+        "example_vi": "đi dạo quanh công viên"
     },
     {
         "eng": "without",
         "vi": "không có",
-        "mean": "Chỉ sự vắng mặt hoặc thiếu vắng của một thứ gì đó",
+        "mean": "Diễn tả trạng thái thiếu vắng hoặc không có một vật, người, hoặc điều gì đó",
         "type": "các giới từ khác thường gặp",
-        "example_eng": "I can't sleep without music",
-        "example_vi": "Tôi không thể ngủ nếu không có nhạc"
+        "example_eng": "without money",
+        "example_vi": "không có tiền"
     },
     {
         "eng": "per",
         "vi": "mỗi, cho mỗi",
-        "mean": "Dùng trong tỷ lệ hoặc đơn vị đo lường",
+        "mean": "Được sử dụng để chỉ một tỷ lệ hoặc tỷ số, thường đứng trước một đơn vị đo lường",
         "type": "các giới từ khác thường gặp",
-        "example_eng": "The speed limit is 60 miles per hour",
-        "example_vi": "Giới hạn tốc độ là 60 dặm một giờ"
+        "example_eng": "miles per hour",
+        "example_vi": "dặm mỗi giờ"
     },
     {
         "eng": "except",
         "vi": "ngoại trừ",
-        "mean": "Chỉ sự loại trừ hoặc ngoại lệ",
+        "mean": "Chỉ ra sự loại trừ hoặc không bao gồm một cái gì đó trong một nhóm hoặc tình huống",
         "type": "các giới từ khác thường gặp",
-        "example_eng": "Everyone came except John",
-        "example_vi": "Mọi người đều đến ngoại trừ John"
+        "example_eng": "everyone except John",
+        "example_vi": "tất cả mọi người ngoại trừ John"
     },
     {
-        "eng": "despite",
+        "eng": "despite, in spite of",
         "vi": "mặc dù",
-        "mean": "Chỉ sự đối lập hoặc trái ngược với điều gì đó",
+        "mean": "Chỉ ra rằng một điều gì đó xảy ra mặc dù có sự cản trở, khó khăn, hoặc điều kiện không thuận lợi",
         "type": "các giới từ khác thường gặp",
-        "example_eng": "He went out despite the rain",
-        "example_vi": "Anh ấy vẫn ra ngoài mặc dù trời mưa"
-    },
-    {
-        "eng": "in spite of",
-        "vi": "mặc dù",
-        "mean": "Tương tự 'despite', chỉ sự đối lập hoặc trái ngược",
-        "type": "các giới từ khác thường gặp",
-        "example_eng": "In spite of the difficulties, we succeeded",
-        "example_vi": "Mặc dù có nhiều khó khăn, chúng tôi đã thành công"
+        "example_eng": "despite the rain",
+        "example_vi": "mặc dù trời mưa"
     },
     {
         "eng": "according to",
         "vi": "theo như, theo",
-        "mean": "Chỉ nguồn thông tin hoặc ý kiến được trích dẫn",
+        "mean": "Chỉ nguồn gốc thông tin hoặc ý kiến, cho biết rằng điều gì đó là dựa trên một nguồn cụ thể",
         "type": "các giới từ khác thường gặp",
-        "example_eng": "According to the weather forecast, it will rain tomorrow",
-        "example_vi": "Theo dự báo thời tiết, ngày mai trời sẽ mưa"
+        "example_eng": "according to the news",
+        "example_vi": "theo như tin tức"
     }
 ]
