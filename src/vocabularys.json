@@ -2,90 +2,90 @@
     {
         "eng": "at",
         "vi": "tại, ở",
-        "mean": "Dùng để chỉ một địa điểm cụ thể, thường là một nơi mà người hoặc vật ở đó",
+        "mean": "dùng cho các vị trí cụ thể hoặc địa điểm có giới hạn nhỏ, không cần mô tả không gian xung quanh.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "I am at home",
-        "example_vi": "Tôi đang ở nhà"
+        "example_eng": "at home. at school. at the bus stop",
+        "example_vi": "ở nhà (chỉ nhà là một địa điểm cụ thể). ở trường (chỉ một khu vực cụ thể là trường học). tại trạm xe buýt"
     },
     {
         "eng": "in",
         "vi": "trong, ở",
-        "mean": "Dùng để chỉ địa điểm rộng hoặc bao gồm không gian bên trong",
+        "mean": "thường dùng để mô tả một nơi có không gian bao quanh như phòng, thành phố, hoặc quốc gia.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "She is in the park",
-        "example_vi": "Cô ấy đang ở trong công viên"
+        "example_eng": "in the park. in a country. in the room",
+        "example_vi": "trong công viên (khu vực rộng có không gian xung quanh). trong một quốc gia (vùng đất lớn). trong phòng (không gian bao quanh bởi bốn bức tường)"
     },
     {
         "eng": "on",
         "vi": "trên, ở trên",
-        "mean": "Chỉ vị trí khi một vật nằm hoặc tiếp xúc với bề mặt của một thứ khác",
+        "mean": "chỉ vị trí khi một vật nằm hoặc tiếp xúc với bề mặt của một thứ khác.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "The book is on the table",
-        "example_vi": "Cuốn sách ở trên bàn"
+        "example_eng": "on the table. on the wall. on the floor",
+        "example_vi": "trên bàn (vật đặt trên bề mặt bàn). trên tường (trên bề mặt của tường). trên sàn nhà"
     },
     {
         "eng": "above",
         "vi": "ở trên, cao hơn",
-        "mean": "Dùng khi một vật ở vị trí cao hơn, không chạm hoặc tiếp xúc với bề mặt của vật bên dưới",
+        "mean": "dùng khi một vật ở vị trí cao hơn, không chạm hoặc tiếp xúc với bề mặt của vật bên dưới.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "The clock is above the door",
-        "example_vi": "Đồng hồ ở trên cửa"
+        "example_eng": "The clock is above the door. Birds fly above the trees.",
+        "example_vi": "Đồng hồ ở trên cửa. Chim bay ở trên cây."
     },
     {
         "eng": "below",
         "vi": "ở dưới, thấp hơn",
-        "mean": "Chỉ vị trí thấp hơn một thứ khác",
+        "mean": "ngược lại với Above, chỉ vị trí thấp hơn một thứ khác.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "The temperature is below zero",
-        "example_vi": "Nhiệt độ dưới 0 độ"
+        "example_eng": "The temperature is below zero. The fish are swimming below the surface.",
+        "example_vi": "Nhiệt độ dưới 0 độ. Cá đang bơi dưới bề mặt nước."
     },
     {
         "eng": "beside",
         "vi": "bên cạnh",
-        "mean": "Dùng khi một vật hoặc người ở sát bên một vật hoặc người khác",
+        "mean": "dùng khi một vật hoặc người ở sát bên một vật hoặc người khác.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "She sat beside her friend",
-        "example_vi": "Cô ấy ngồi bên cạnh bạn của mình"
+        "example_eng": "She sat beside her friend. The lamp is beside the bed.",
+        "example_vi": "Cô ấy ngồi bên cạnh bạn của mình. Đèn nằm cạnh giường."
     },
     {
         "eng": "between",
         "vi": "giữa",
-        "mean": "Dùng khi một vật hoặc người ở vị trí nằm giữa hai đối tượng",
+        "mean": "dùng khi một vật hoặc người ở vị trí nằm giữa hai đối tượng.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "He is standing between his parents",
-        "example_vi": "Anh ấy đứng giữa bố mẹ"
+        "example_eng": "He is standing between his parents. The letter is between the books.",
+        "example_vi": "Anh ấy đứng giữa bố mẹ. Lá thư nằm giữa các cuốn sách (giữa hai cuốn sách)."
     },
     {
         "eng": "among",
         "vi": "trong số",
-        "mean": "Dùng khi một vật hoặc người ở trong tập hợp của nhiều đối tượng khác",
+        "mean": "dùng khi một vật hoặc người ở trong tập hợp của nhiều đối tượng khác.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "She found her friend among the crowd",
-        "example_vi": "Cô ấy tìm thấy bạn mình trong đám đông"
+        "example_eng": "She found her friend among the crowd. There is one red apple among the green ones.",
+        "example_vi": "Cô ấy tìm thấy bạn mình trong đám đông. Có một quả táo đỏ trong số những quả táo xanh."
     },
     {
         "eng": "near",
         "vi": "gần",
-        "mean": "Dùng khi một vật hoặc người ở vị trí gần một đối tượng khác",
+        "mean": "dùng khi một vật hoặc người ở vị trí gần một đối tượng khác.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "The school is near the hospital",
-        "example_vi": "Trường học gần bệnh viện"
+        "example_eng": "The school is near the hospital. He lives near the beach",
+        "example_vi": "Trường học gần bệnh viện.  Anh ấy sống gần biển."
     },
     {
         "eng": "inside",
         "vi": "bên trong",
-        "mean": "Chỉ vị trí bên trong một không gian khép kín hoặc bao quanh",
+        "mean": "chỉ vị trí bên trong một không gian khép kín hoặc bao quanh.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "The cat is inside the box",
-        "example_vi": "Con mèo ở trong hộp"
+        "example_eng": "The cat is inside the box. Please wait inside the room.",
+        "example_vi": "Con mèo ở trong hộp. Hãy chờ ở trong phòng."
     },
     {
         "eng": "outside",
         "vi": "bên ngoài",
-        "mean": "Chỉ vị trí bên ngoài một không gian khép kín hoặc tòa nhà",
+        "mean": "chỉ vị trí bên ngoài một không gian khép kín hoặc tòa nhà.",
         "type": "giới từ chỉ vị trí và nơi chốn",
-        "example_eng": "The dog is outside the house",
-        "example_vi": "Con chó ở bên ngoài nhà"
+        "example_eng": "The dog is outside the house. They are playing outside.",
+        "example_vi": "Con chó ở bên ngoài nhà. Họ đang chơi ở bên ngoài."
     },
     {
         "eng": "at",
