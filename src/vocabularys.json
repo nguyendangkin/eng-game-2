@@ -90,225 +90,225 @@
     {
         "eng": "at",
         "vi": "vào lúc",
-        "mean": "Dùng chỉ thời gian cụ thể hoặc khoảng thời gian ngắn",
+        "mean": "được sử dụng khi nói đến thời điểm chính xác hoặc một khoảng thời gian ngắn.",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "at 3 PM",
-        "example_vi": "vào lúc 3 giờ chiều"
+        "example_eng": "at 3 PM. at night. at noon",
+        "example_vi": "vào lúc 3 giờ chiều. vào ban đêm. vào giữa trưa"
     },
     {
         "eng": "in",
         "vi": "vào, trong",
-        "mean": "Dùng chỉ tháng, mùa, năm hoặc thời kỳ dài hơn",
+        "mean": "được dùng để nói về các khoảng thời gian dài hoặc rộng hơn, như tháng, năm, mùa, hoặc các buổi trong ngày.",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "in January",
-        "example_vi": "vào tháng Giêng"
+        "example_eng": "in January. in 2022. in winter. in the morning",
+        "example_vi": "vào tháng Giêng. vào năm 2022. vào mùa đông. vào buổi sáng"
     },
     {
         "eng": "on",
         "vi": "vào ngày",
-        "mean": "Dùng cho ngày cụ thể hoặc ngày trong tuần",
+        "mean": "được dùng khi nói đến các ngày cụ thể hoặc ngày trong tuần.",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "on Monday",
-        "example_vi": "vào thứ Hai"
+        "example_eng": "on Monday. on July 4th. on my birthday",
+        "example_vi": "vào thứ Hai. vào ngày 4 tháng 7. vào sinh nhật của tôi"
     },
     {
         "eng": "before",
         "vi": "trước",
-        "mean": "Dùng để nói về một sự kiện xảy ra trước một thời điểm hoặc sự kiện khác",
+        "mean": "dùng để nói về một sự kiện xảy ra trước một thời điểm hoặc sự kiện khác",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "before 9 AM",
-        "example_vi": "trước 9 giờ sáng"
+        "example_eng": "before 9 AM. before the meeting",
+        "example_vi": "trước 9 giờ sáng. trước cuộc họp"
     },
     {
         "eng": "after",
         "vi": "sau",
-        "mean": "Chỉ một sự kiện xảy ra sau một thời điểm hoặc sự kiện khác",
+        "mean": "chỉ một sự kiện xảy ra sau một thời điểm hoặc sự kiện khác.",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "after lunch",
-        "example_vi": "sau bữa trưa"
+        "example_eng": "after lunch. after the show",
+        "example_vi": "sau bữa trưa. sau buổi biểu diễn"
     },
     {
         "eng": "during",
         "vi": "trong suốt",
-        "mean": "Dùng để diễn tả một sự việc kéo dài trong suốt khoảng thời gian của một sự kiện hoặc thời kỳ",
+        "mean": "dùng để diễn tả một sự việc kéo dài trong suốt khoảng thời gian của một sự kiện hoặc thời kỳ.",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "during the meeting",
-        "example_vi": "trong suốt cuộc họp"
+        "example_eng": "during the meeting. during summer",
+        "example_vi": "trong suốt cuộc họp. trong suốt mùa hè"
     },
     {
         "eng": "since",
         "vi": "từ lúc",
-        "mean": "Dùng để chỉ mốc thời gian bắt đầu và còn tiếp diễn đến hiện tại",
+        "mean": "dùng khi nói về thời điểm bắt đầu của một hành động hoặc sự kiện vẫn tiếp diễn cho đến hiện tại.",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "since 1990",
-        "example_vi": "từ năm 1990"
+        "example_eng": "since 1990. since this morning",
+        "example_vi": "từ năm 1990. từ sáng nay"
     },
     {
         "eng": "until",
         "vi": "cho đến khi",
-        "mean": "Dùng để diễn tả sự việc kéo dài đến một thời điểm nhất định rồi kết thúc",
+        "mean": "dùng để diễn tả sự việc kéo dài đến một thời điểm nhất định rồi kết thúc",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "until midnight",
-        "example_vi": "cho đến nửa đêm"
+        "example_eng": "until midnight. until Friday",
+        "example_vi": "cho đến nửa đêm. cho đến thứ Sáu"
     },
     {
         "eng": "for",
         "vi": "trong khoảng",
-        "mean": "Dùng với khoảng thời gian kéo dài bao lâu",
+        "mean": "dùng để chỉ một khoảng thời gian kéo dài bao lâu.",
         "type": "giới từ chỉ thời gian",
-        "example_eng": "for 2 hours",
-        "example_vi": "trong 2 giờ"
+        "example_eng": "for 2 hours. for a week",
+        "example_vi": "trong 2 giờ. trong một tuần"
     },
     {
         "eng": "for",
         "vi": "vì, cho",
-        "mean": "Dùng khi chỉ mục đích của một hành động hoặc đối tượng nhận",
+        "mean": "được dùng khi chỉ mục đích của một hành động hoặc đối tượng nhận.",
         "type": "giới từ chỉ mục đích và nguyên nhân",
-        "example_eng": "for you",
-        "example_vi": "cho bạn"
+        "example_eng": "for you. for lunch. a gift for her",
+        "example_vi": "cho bạn (người nhận là bạn). vì bữa trưa (mục đích là để dùng trong bữa trưa). một món quà cho cô ấy"
     },
     {
         "eng": "of",
         "vi": "của",
-        "mean": "Chỉ sự sở hữu, nguồn gốc, hoặc quan hệ giữa hai đối tượng",
+        "mean": "chỉ sự sở hữu, nguồn gốc, hoặc quan hệ giữa hai đối tượng.",
         "type": "giới từ chỉ mục đích và nguyên nhân",
-        "example_eng": "the color of the sky",
-        "example_vi": "màu sắc của bầu trời"
+        "example_eng": "the color of the sky. a friend of mine. the capital of France",
+        "example_vi": "màu sắc của bầu trời (màu sắc thuộc về bầu trời). một người bạn của tôi. thủ đô của nước Pháp"
     },
     {
         "eng": "with",
         "vi": "với",
-        "mean": "Diễn tả sự đồng hành với một người, hoặc dùng một công cụ, phương tiện để thực hiện hành động",
+        "mean": "diễn tả sự đồng hành với một người, hoặc dùng một công cụ, phương tiện để thực hiện hành động.",
         "type": "giới từ chỉ mục đích và nguyên nhân",
-        "example_eng": "with friends",
-        "example_vi": "cùng với bạn bè"
+        "example_eng": "with friends. with a knife. with joy",
+        "example_vi": "cùng với bạn bè. bằng một con dao (dùng dao như công cụ). với niềm vui"
     },
     {
         "eng": "about",
         "vi": "về, liên quan đến",
-        "mean": "Dùng để nói về một chủ đề hoặc điều liên quan đến sự việc, sự vật",
+        "mean": "dùng để nói về một chủ đề hoặc điều liên quan đến sự việc, sự vật.",
         "type": "giới từ chỉ mục đích và nguyên nhân",
-        "example_eng": "a book about history",
-        "example_vi": "một cuốn sách về lịch sử"
+        "example_eng": "a book about history. talking about the weather. curious about science",
+        "example_vi": "một cuốn sách về lịch sử. nói về thời tiết. tò mò về khoa học"
     },
     {
         "eng": "by",
         "vi": "bởi, bằng cách",
-        "mean": "Diễn tả người thực hiện hành động hoặc phương tiện, cách thức mà hành động được thực hiện",
+        "mean": "có thể diễn tả người thực hiện hành động hoặc phương tiện, cách thức mà hành động được thực hiện.",
         "type": "giới từ chỉ mục đích và nguyên nhân",
-        "example_eng": "by bus",
-        "example_vi": "bằng xe buýt"
+        "example_eng": "by bus. by hand. a painting by Van Gogh",
+        "example_vi": "bằng xe buýt (phương tiện là xe buýt). bằng tay (thực hiện bằng tay). một bức tranh của Van Gogh (do Van Gogh thực hiện)"
     },
     {
         "eng": "to",
         "vi": "đến",
-        "mean": "Dùng khi chỉ hướng đến một nơi hoặc đích đến cụ thể",
+        "mean": "dùng khi chỉ hướng đến một nơi hoặc đích đến cụ thể.",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "go to school",
-        "example_vi": "đi đến trường"
+        "example_eng": "go to school. send it to me. travel to Paris",
+        "example_vi": "đi đến trường. gửi nó cho tôi. đi du lịch đến Paris"
     },
     {
         "eng": "from",
         "vi": "từ",
-        "mean": "Chỉ điểm xuất phát hoặc nguồn gốc của một người, vật hoặc hành động",
+        "mean": "chỉ điểm xuất phát hoặc nguồn gốc của một người, vật hoặc hành động.",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "from Vietnam",
-        "example_vi": "từ Việt Nam"
+        "example_eng": "from Vietnam. a gift from my friend. walk from home",
+        "example_vi": "từ Việt Nam. món quà từ bạn của tôi. đi bộ từ nhà"
     },
     {
         "eng": "into",
         "vi": "vào trong",
-        "mean": "Chỉ sự di chuyển từ bên ngoài vào bên trong của một không gian",
+        "mean": "chỉ sự di chuyển từ bên ngoài vào bên trong của một không gian.",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "walk into the room",
-        "example_vi": "bước vào phòng"
+        "example_eng": "walk into the room. put it into the box. jump into the pool",
+        "example_vi": "bước vào phòng. đặt nó vào trong hộp. nhảy vào bể bơi"
     },
     {
         "eng": "out of",
         "vi": "ra khỏi",
-        "mean": "Chỉ sự di chuyển từ bên trong ra bên ngoài của một không gian",
+        "mean": "ngược lại với Into, chỉ sự di chuyển từ bên trong ra bên ngoài của một không gian",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "go out of the house",
-        "example_vi": "đi ra khỏi nhà"
+        "example_eng": "go out of the house. take it out of the bag. get out of the car",
+        "example_vi": "đi ra khỏi nhà. lấy nó ra khỏi túi. ra khỏi xe"
     },
     {
-        "eng": "toward(s)",
+        "eng": "towards",
         "vi": "hướng tới",
-        "mean": "Chỉ hướng di chuyển đến gần một nơi hoặc một người, không nhất thiết đến đích chính xác",
+        "mean": "chỉ hướng di chuyển đến gần một nơi hoặc một người, không nhất thiết đến đích chính xác",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "walk towards the park",
-        "example_vi": "đi về phía công viên"
+        "example_eng": "walk towards the park. look towards the sky. run towards the exit",
+        "example_vi": "đi về phía công viên. nhìn lên bầu trời. chạy về phía lối ra"
     },
     {
         "eng": "through",
         "vi": "xuyên qua",
-        "mean": "Dùng khi di chuyển xuyên qua một vật, không gian, hoặc khoảng trống",
+        "mean": "được dùng khi di chuyển xuyên qua một vật, không gian, hoặc khoảng trống.",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "go through the tunnel",
-        "example_vi": "đi qua đường hầm"
+        "example_eng": "go through the tunnel. see through the window. walk through the forest",
+        "example_vi": "đi qua đường hầm. nhìn qua cửa sổ. đi xuyên qua rừng"
     },
     {
         "eng": "across",
         "vi": "qua, ngang qua",
-        "mean": "Chỉ sự di chuyển từ một bên sang bên kia của một nơi hoặc một không gian rộng",
+        "mean": "chỉ sự di chuyển từ một bên sang bên kia của một nơi hoặc một không gian rộng",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "walk across the street",
-        "example_vi": "băng qua đường"
+        "example_eng": "walk across the street. a bridge across the river. swim across the lake",
+        "example_vi": "băng qua đường. cây cầu bắc qua sông. bơi qua hồ"
     },
     {
         "eng": "along",
         "vi": "dọc theo",
-        "mean": "Chỉ sự di chuyển dọc theo chiều dài của một cái gì đó, như con đường hoặc bờ sông",
+        "mean": "chỉ sự di chuyển dọc theo chiều dài của một cái gì đó, như con đường hoặc bờ sông.",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "walk along the beach",
-        "example_vi": "đi dọc theo bãi biển"
+        "example_eng": "walk along the beach. drive along the highway. run along the river",
+        "example_vi": "đi dọc theo bãi biển. lái xe dọc theo đường cao tốc. chạy dọc theo con sông"
     },
     {
         "eng": "around",
         "vi": "quanh, xung quanh",
-        "mean": "Diễn tả sự di chuyển vòng quanh một vật hoặc trong một khu vực xung quanh",
+        "mean": "diễn tả sự di chuyển vòng quanh một vật hoặc trong một khu vực xung quanh.",
         "type": "giới từ chỉ phương hướng và chuyển động",
-        "example_eng": "walk around the park",
-        "example_vi": "đi dạo quanh công viên"
+        "example_eng": "walk around the park. look around the room. travel around the world",
+        "example_vi": "đi dạo quanh công viên. nhìn quanh phòng. du lịch vòng quanh thế giới"
     },
     {
         "eng": "without",
         "vi": "không có",
-        "mean": "Diễn tả trạng thái thiếu vắng hoặc không có một vật, người, hoặc điều gì đó",
+        "mean": "diễn tả trạng thái thiếu vắng hoặc không có một vật, người, hoặc điều gì đó.",
         "type": "các giới từ khác thường gặp",
-        "example_eng": "without money",
-        "example_vi": "không có tiền"
+        "example_eng": "without money. go without food. a house without a roof",
+        "example_vi": "không có tiền. sống mà không có thức ăn. một ngôi nhà không có mái"
     },
     {
         "eng": "per",
         "vi": "mỗi, cho mỗi",
-        "mean": "Được sử dụng để chỉ một tỷ lệ hoặc tỷ số, thường đứng trước một đơn vị đo lường",
+        "mean": "được sử dụng để chỉ một tỷ lệ hoặc tỷ số, thường đứng trước một đơn vị đo lường.",
         "type": "các giới từ khác thường gặp",
-        "example_eng": "miles per hour",
-        "example_vi": "dặm mỗi giờ"
+        "example_eng": "miles per hour. costs $5 per ticket. events per year",
+        "example_vi": "dặm mỗi giờ. giá vé là 5 đô la mỗi vé. số sự kiện mỗi năm"
     },
     {
         "eng": "except",
         "vi": "ngoại trừ",
-        "mean": "Chỉ ra sự loại trừ hoặc không bao gồm một cái gì đó trong một nhóm hoặc tình huống",
+        "mean": "dùng để chỉ ra sự loại trừ hoặc không bao gồm một cái gì đó trong một nhóm hoặc tình huống.",
         "type": "các giới từ khác thường gặp",
-        "example_eng": "everyone except John",
-        "example_vi": "tất cả mọi người ngoại trừ John"
+        "example_eng": "everyone except John. open every day except Sunday. I like all fruits except bananas",
+        "example_vi": "tất cả mọi người ngoại trừ John. mở cửa mỗi ngày ngoại trừ Chủ nhật. tôi thích tất cả các loại trái cây ngoại trừ chuối"
     },
     {
         "eng": "despite, in spite of",
         "vi": "mặc dù",
-        "mean": "Chỉ ra rằng một điều gì đó xảy ra mặc dù có sự cản trở, khó khăn, hoặc điều kiện không thuận lợi",
+        "mean": "Despite và In spite of đều chỉ ra rằng một điều gì đó xảy ra mặc dù có sự cản trở, khó khăn, hoặc điều kiện không thuận lợi.",
         "type": "các giới từ khác thường gặp",
-        "example_eng": "despite the rain",
-        "example_vi": "mặc dù trời mưa"
+        "example_eng": "despite the rain. in spite of his age. they continued working despite the challenges",
+        "example_vi": "mặc dù trời mưa. mặc dù tuổi tác của anh ấy. họ tiếp tục làm việc mặc dù gặp khó khăn"
     },
     {
         "eng": "according to",
         "vi": "theo như, theo",
-        "mean": "Chỉ nguồn gốc thông tin hoặc ý kiến, cho biết rằng điều gì đó là dựa trên một nguồn cụ thể",
+        "mean": "được sử dụng để chỉ nguồn gốc thông tin hoặc ý kiến, cho biết rằng điều gì đó là dựa trên một nguồn cụ thể.",
         "type": "các giới từ khác thường gặp",
-        "example_eng": "according to the news",
-        "example_vi": "theo như tin tức"
+        "example_eng": "according to the news. according to my teacher. according to the report",
+        "example_vi": "theo như tin tức. theo lời giáo viên của tôi. theo báo cáo"
     }
 ]
